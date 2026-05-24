@@ -83,7 +83,7 @@ python email_sender.py
 ## 📅 工作流程
 
 工作流自动运行时间表:
-- **默认**: 每天 UTC 09:00 (北京时间 17:00)
+- **默认**: 每天 UTC 00:00 (北京时间 08:00)
 - **自定义**: 可在 `.github/workflows/daily-news.yml` 中修改 `cron` 表达式
 
 ## 🔧 自定义配置
@@ -94,7 +94,7 @@ python email_sender.py
 
 ```yaml
 schedule:
-  - cron: '0 9 * * *'  # UTC时间,格式: 分 小时 日 月 星期
+  - cron: '0 0 * * *'  # UTC时间,格式: 分 小时 日 月 星期
 ```
 
 常用示例:

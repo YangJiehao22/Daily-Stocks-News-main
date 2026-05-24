@@ -299,10 +299,10 @@ QQ 邮箱示例：
 
 默认 schedule（见 .github/workflows/daily-news.yml）：
 
-  cron: '0 9 * * *'
+  cron: '0 0 * * *'
 
-  含义：每天 UTC 09:00 运行
-  北京时间：UTC+8 → 每天 17:00（下午 5 点）
+  含义：每天 UTC 00:00 运行
+  北京时间：UTC+8 → 每天 08:00（早上 8 点）
 
 常用 cron 示例（UTC 时间）：
 
