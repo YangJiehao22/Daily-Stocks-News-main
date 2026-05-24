@@ -2,8 +2,8 @@ name: Daily NVIDIA Supply Chain News Digest
 
 on:
   schedule:
-    # 每天 UTC 09:00 (北京时间下午5:00)
-    - cron: '0 9 * * *'
+    # 每天 UTC 00:00 (北京时间早上8:00)
+    - cron: '0 0 * * *'
 
   workflow_dispatch:
 
