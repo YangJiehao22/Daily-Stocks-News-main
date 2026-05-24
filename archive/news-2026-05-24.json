@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-24T12:58:29.029989",
+  "timestamp": "2026-05-24T13:10:54.941055",
   "count": 20,
   "news": [
     {
@@ -81,6 +81,16 @@
         "name": "雷峰网"
       },
       "hash": "8539bf69ee5bcf9a2980ee1cc46781e0"
+    },
+    {
+      "title": "Top Wall Street analysts like these dividend stocks for steady income",
+      "description": "Amid ongoing uncertainty, investors seeking consistent income can consider adding dividend stocks to their portfolios.",
+      "url": "https://www.cnbc.com/2026/05/24/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
+      "publishedAt": "Sun, 24 May 2026 12:52:28 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "378dc1678a66e642d25bb8b9f4583e7e"
     },
     {
       "title": "黄仁勋、苏姿丰已抵达台北，备战 2026 台北电脑展",
@@ -191,16 +201,6 @@
         "name": "IT之家"
       },
       "hash": "1bb152df9537918a77911ad42ecef206"
-    },
-    {
-      "title": "The Middle East war is testing the Gulf's ambitions to become an AI hub",
-      "description": "Attacks on data centers in the Middle East and persistently high energy prices have altered the calculus for operators of the facilities, analysts say.",
-      "url": "https://www.cnbc.com/2026/05/24/middle-east-war-testing-gulfs-ambitions-to-become-ai-hub.html",
-      "publishedAt": "Sun, 24 May 2026 09:19:17 GMT",
-      "source": {
-        "name": "US Top News and Analysis"
-      },
-      "hash": "388ca3e9d398cb8eaa86c3024f28fc60"
     }
   ]
 }
