@@ -1,0 +1,65 @@
+name: Daily NVIDIA Supply Chain News Digest
+
+on:
+  schedule:
+    # 每天 UTC 09:00 (北京时间下午5:00)
+    - cron: '0 9 * * *'
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch news
+        run: python news_fetcher.py
+
+      - name: Send email digest
+        env:
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
+          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+        run: python email_sender.py
+
+      - name: Archive results
+        if: always()
+        run: |
+          mkdir -p archive
+          if [ -f daily_news.json ]; then
+            cp daily_news.json "archive/news-$(date +%Y-%m-%d).json"
+          fi
+
+      - name: Commit and push archive
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive/
+          if git diff --staged --quiet; then
+            echo "No archive changes to commit"
+          else
+            git commit -m "Archive daily news - $(date +%Y-%m-%d)"
+            git push
+          fi

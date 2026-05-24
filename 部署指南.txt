@@ -1,0 +1,401 @@
+================================================================================
+  Daily NVIDIA AI 服务器供应链日报 — 部署与使用指南
+================================================================================
+
+版本：2026-05
+适用对象：仓库维护者、协作者、首次部署人员
+
+--------------------------------------------------------------------------------
+一、项目简介
+--------------------------------------------------------------------------------
+
+本项目是一个自动化新闻日报系统，主要功能：
+
+  1. 每日从多个 RSS 新闻源抓取 NVIDIA / AI / 半导体 / 供应链相关新闻
+  2. 过滤、去重后保留最新 20 条
+  3. 生成 HTML 格式邮件并发送到指定邮箱
+  4. 通过 GitHub Actions 定时执行，并将结果归档到 archive/ 目录
+
+技术栈：Python 3.11、feedparser、BeautifulSoup、GitHub Actions、SMTP
+
+主要文件：
+
+  news_fetcher.py          抓取新闻，输出 daily_news.json
+  email_sender.py          读取 JSON，生成 HTML 并发送邮件
+  .github/workflows/daily-news.yml   GitHub Actions 工作流
+  .env.example             本地配置模板（不要提交真实密码）
+  archive/                 每日新闻归档目录
+
+--------------------------------------------------------------------------------
+二、部署方式概览
+--------------------------------------------------------------------------------
+
+推荐部署方式：GitHub Actions（免费、免服务器）
+
+  开发者本地调试  →  push 代码到 GitHub  →  配置 Secrets  →  Actions 定时运行
+
+两种常见协作模式：
+
+  【模式 A】你是仓库 Owner 或 Admin
+    - 可以直接 push 到目标仓库
+    - 可以在 Settings 里配置 Secrets
+    - 推荐：Fork 不需要，直接在主仓库操作
+
+  【模式 B】你是协作者（他人仓库）
+    - 需要 Owner 将你添加为 Collaborator（Settings → Collaborators）
+    - 你有 Write 权限：可以 push 代码
+    - Secrets 通常需要 Owner/Admin 配置（Write 权限一般不能改 Secrets）
+    - 建议：你 push 代码，Owner 配 Secrets
+
+  【模式 C】你没有写权限
+    - Fork 仓库到你自己的 GitHub 账号
+    - push 到你自己的 Fork
+    - 在你 Fork 的仓库里配置 Secrets
+    - 邮件会发给你自己（独立运行，不影响原仓库）
+
+--------------------------------------------------------------------------------
+三、前置条件
+--------------------------------------------------------------------------------
+
+  [ ] GitHub 账号
+  [ ] 一个可用的 SMTP 发件邮箱（推荐 QQ 邮箱或 Gmail）
+  [ ] 收件邮箱（可以跟发件邮箱相同）
+  [ ] Python 3.11+（仅本地调试需要）
+  [ ] Git 已安装（用于 push 代码）
+
+--------------------------------------------------------------------------------
+四、QQ 邮箱 SMTP 配置（推荐）
+--------------------------------------------------------------------------------
+
+说明：
+  - SENDER_EMAIL   = 用来发邮件的 QQ 邮箱
+  - RECIPIENT_EMAIL = 接收日报的邮箱（可以是同一个 QQ 邮箱，也可以是别的邮箱）
+  - SENDER_PASSWORD = QQ 邮箱「授权码」，不是 QQ 登录密码
+
+获取 QQ 邮箱授权码步骤：
+
+  1. 登录 https://mail.qq.com
+  2. 设置 → 账号
+  3. 找到「POP3/IMAP/SMTP/Exchange/CardDAV/CalDAV 服务」
+  4. 开启「IMAP/SMTP 服务」或「POP3/SMTP 服务」
+  5. 按提示发送短信验证
+  6. 复制系统生成的授权码（16 位左右）
+
+QQ 邮箱对应配置值：
+
+  SENDER_EMAIL=你的QQ号@qq.com
+  SENDER_PASSWORD=上面获取的授权码
+  RECIPIENT_EMAIL=接收日报的邮箱@qq.com
+  SMTP_SERVER=smtp.qq.com
+  SMTP_PORT=587
+
+--------------------------------------------------------------------------------
+五、Gmail SMTP 配置（备选）
+--------------------------------------------------------------------------------
+
+  1. 开启两步验证：https://myaccount.google.com/security
+  2. 生成应用专用密码：https://myaccount.google.com/apppasswords
+  3. 配置如下：
+
+  SENDER_EMAIL=你的Gmail@gmail.com
+  SENDER_PASSWORD=应用专用密码（16位）
+  RECIPIENT_EMAIL=收件邮箱@example.com
+  SMTP_SERVER=smtp.gmail.com
+  SMTP_PORT=587
+
+--------------------------------------------------------------------------------
+六、本地调试（部署前强烈建议）
+--------------------------------------------------------------------------------
+
+本地调试可以验证：新闻抓取、邮件配置、HTML 排版，避免直接上 GitHub 排查困难。
+
+6.1 安装依赖
+
+  cd 项目目录
+  python -m pip install -r requirements.txt
+
+6.2 创建本地配置
+
+  Windows PowerShell:
+    copy .env.example .env
+    notepad .env
+
+  macOS / Linux:
+    cp .env.example .env
+    nano .env
+
+  重要：脚本只读取 .env，不会读取 .env.example
+  不要把真实密码写进 .env.example 或提交到 Git
+
+  .env 示例（QQ 邮箱）：
+
+  SENDER_EMAIL=1061261881@qq.com
+  SENDER_PASSWORD=你的QQ授权码
+  RECIPIENT_EMAIL=1061261881@qq.com
+  SMTP_SERVER=smtp.qq.com
+  SMTP_PORT=587
+
+6.3 分步验证
+
+  步骤 1 — 检查邮箱配置（不发信）：
+    python email_sender.py --check-config
+    预期：无报错，命令正常结束
+
+  步骤 2 — 抓取新闻：
+    python news_fetcher.py
+    预期：生成 daily_news.json，count > 0
+
+  步骤 3 — 预览邮件（不发信）：
+    python email_sender.py --dry-run
+    start email_preview.html        （Windows）
+    open email_preview.html         （macOS）
+    预期：浏览器中看到排版正常的 HTML 日报
+
+  步骤 4 — 真实发信：
+    python email_sender.py
+    预期：终端显示 Email sent successfully，收件箱收到邮件
+
+6.4 常见问题（本地）
+
+  问题：--check-config 显示 SENDER_EMAIL: None
+  原因：没有 .env 文件，或配置写在了 .env.example
+  解决：创建 .env 并填入正确内容
+
+  问题：No news found to send
+  原因：daily_news.json 中 count 为 0
+  解决：重新运行 news_fetcher.py；若仍为 0，检查网络
+
+  问题：535 Authentication failed
+  原因：SMTP 密码错误（用了 QQ 登录密码而非授权码）
+  解决：重新生成 QQ 授权码
+
+  问题：PowerShell 写 JSON 后读取失败（UTF-8 BOM）
+  解决：当前版本已支持 utf-8-sig，一般无需手动处理
+
+--------------------------------------------------------------------------------
+七、将代码 Push 到 GitHub
+--------------------------------------------------------------------------------
+
+7.1 首次 Push（本地已有代码）
+
+  cd 项目目录
+  git init
+  git add .
+  git commit -m "Add daily NVIDIA news digest automation"
+  git branch -M main
+  git remote add origin https://github.com/用户名/仓库名.git
+  git push -u origin main
+
+7.2 注意事项
+
+  - .env 已在 .gitignore 中，不会被提交（正确行为）
+  - 切勿将 SMTP 授权码、密码提交到仓库
+  - 若之前误把密码写进 .env.example 并已 push，请立即重新生成授权码
+
+7.3 Push 到他人仓库
+
+  前提：对方已将你添加为 Collaborator
+
+  git remote add origin https://github.com/对方用户名/仓库名.git
+  git push -u origin main
+
+  若权限不足（403），请 Fork 后提 Pull Request，或联系 Owner 添加权限
+
+--------------------------------------------------------------------------------
+八、GitHub Secrets 配置（线上部署核心步骤）
+--------------------------------------------------------------------------------
+
+Secrets 是 GitHub Actions 运行时读取的加密环境变量。
+必须在 GitHub 网页上配置，不能通过 push 代码上传。
+
+配置路径：
+
+  打开目标仓库
+    → Settings（设置）
+    → Secrets and variables
+    → Actions
+    → New repository secret
+
+需要添加 5 个 Secret（名称必须完全一致，区分大小写）：
+
+  ┌──────────────────┬────────────────────────────────────────────┐
+  │ Secret 名称       │ 说明                                       │
+  ├──────────────────┼────────────────────────────────────────────┤
+  │ SENDER_EMAIL     │ 发件邮箱地址                               │
+  │ SENDER_PASSWORD  │ 发件邮箱 SMTP 授权码 / 应用专用密码        │
+  │ RECIPIENT_EMAIL  │ 收件邮箱（多个用英文逗号分隔）             │
+  │ SMTP_SERVER      │ QQ: smtp.qq.com  Gmail: smtp.gmail.com    │
+  │ SMTP_PORT        │ 587                                        │
+  └──────────────────┴────────────────────────────────────────────┘
+
+QQ 邮箱示例：
+
+  SENDER_EMAIL     = 1061261881@qq.com
+  SENDER_PASSWORD  = 你的16位QQ授权码
+  RECIPIENT_EMAIL  = 1061261881@qq.com
+  SMTP_SERVER      = smtp.qq.com
+  SMTP_PORT        = 587
+
+多收件人示例：
+
+  RECIPIENT_EMAIL  = user1@qq.com,user2@gmail.com
+
+谁有权限配置 Secrets：
+
+  - 仓库 Owner：可以
+  - Admin 权限协作者：可以
+  - 仅 Write 权限：通常不可以 → 需联系 Owner 配置
+
+--------------------------------------------------------------------------------
+九、GitHub Actions 权限配置
+--------------------------------------------------------------------------------
+
+工作流需要将 archive/ 目录 push 回仓库，必须开启写权限。
+
+配置路径：
+
+  仓库 → Settings → Actions → General
+    → Workflow permissions
+    → 选择「Read and write permissions」
+    → 点击 Save
+
+若 main 分支开启了 Branch protection（分支保护）：
+
+  需要在保护规则中允许 GitHub Actions 推送，或为 github-actions[bot] 设置 bypass。
+  否则 archive 归档步骤可能 push 失败。
+
+--------------------------------------------------------------------------------
+十、手动触发与验证 Actions
+--------------------------------------------------------------------------------
+
+10.1 手动运行
+
+  仓库 → Actions 标签
+    → 左侧选择「Daily NVIDIA Supply Chain News Digest」
+    → 右侧 Run workflow
+    → 选择分支（main）
+    → Run workflow
+
+10.2 检查各步骤
+
+  ┌─────────────────────────┬──────────────────────────────────────┐
+  │ 步骤名称                 │ 成功标志                             │
+  ├─────────────────────────┼──────────────────────────────────────┤
+  │ Fetch news              │ 日志显示 Total N unique news items   │
+  │ Send email digest       │ 无报错（失败会显示 SMTP 错误）       │
+  │ Archive results         │ daily_news.json 复制到 archive/      │
+  │ Commit and push archive │ 仓库出现 archive/news-YYYY-MM-DD.json│
+  └─────────────────────────┴──────────────────────────────────────┘
+
+10.3 最终验证
+
+  [ ] Actions 全部步骤绿色通过
+  [ ] 收件邮箱收到日报邮件
+  [ ] 仓库 archive/ 目录有新 JSON 文件
+
+--------------------------------------------------------------------------------
+十一、定时运行说明
+--------------------------------------------------------------------------------
+
+默认 schedule（见 .github/workflows/daily-news.yml）：
+
+  cron: '0 9 * * *'
+
+  含义：每天 UTC 09:00 运行
+  北京时间：UTC+8 → 每天 17:00（下午 5 点）
+
+常用 cron 示例（UTC 时间）：
+
+  每天北京时间 09:00  →  cron: '0 1 * * *'
+  每天北京时间 18:00  →  cron: '0 10 * * *'
+  每周一北京时间 09:00 → cron: '0 1 * * 1'
+
+修改方法：编辑 .github/workflows/daily-news.yml 中的 cron 表达式后 push。
+
+注意：GitHub Actions 定时任务可能有 5~15 分钟延迟，属正常现象。
+
+--------------------------------------------------------------------------------
+十二、新闻源说明
+--------------------------------------------------------------------------------
+
+当前 news_fetcher.py 使用以下来源（国内源优先）：
+
+  国内（本地/国内网络友好）：
+    - IT之家        https://www.ithome.com/rss/
+    - 36氪          https://36kr.com/feed
+    - 机器之心      https://www.jiqizhixin.com/rss
+    - 雷锋网        https://www.leiphone.com/feed
+    - 新浪科技      https://rss.sina.com.cn/tech/rollnews.xml
+
+  国际（GitHub Actions 海外服务器可能可用，国内可能超时）：
+    - Reuters Technology
+    - Bloomberg Technology
+    - CNBC
+
+过滤逻辑：标题和摘要中包含 NVIDIA、AI、GPU、芯片、半导体、算力、
+大模型等关键词，或包含供应链相关公司名称（中芯国际、浪潮信息等）。
+
+每次最多保留 20 条，按发布时间排序。
+
+添加/修改新闻源：编辑 news_fetcher.py 中的 rss_feeds 列表后 push。
+
+--------------------------------------------------------------------------------
+十三、安全注意事项
+--------------------------------------------------------------------------------
+
+  1. 永远不要把 .env 或真实密码提交到 Git
+  2. SMTP 授权码只存放在 GitHub Secrets 和本地 .env 中
+  3. 若授权码泄露，立即在邮箱设置中重新生成
+  4. .gitignore 已忽略：.env、daily_news.json、email_preview.html
+  5. 协作者之间传递授权码请使用安全渠道，不要写在 Issue/PR 评论中
+
+--------------------------------------------------------------------------------
+十四、故障排查速查表
+--------------------------------------------------------------------------------
+
+  现象                              │ 可能原因              │ 处理
+  ──────────────────────────────────┼───────────────────────┼─────────────────────
+  Actions 邮箱步骤失败              │ Secrets 未配置/错误     │ 检查 5 个 Secret
+  Authentication failed             │ 用了登录密码非授权码  │ 重新生成授权码
+  No news found to send             │ RSS 抓取为 0          │ 查看 Fetch news 日志
+  Actions 成功但没收到邮件          │ 进垃圾箱              │ 检查垃圾邮件文件夹
+  archive 没有 push 回仓库          │ 权限不足/分支保护     │ 见第九节
+  本地 count=0                      │ 网络或源不可用        │ 多跑几次；看 matched 数
+  Google/Bloomberg 超时             │ 国内网络限制          │ 正常，国内源已够用
+
+--------------------------------------------------------------------------------
+十五、部署检查清单（可打印）
+--------------------------------------------------------------------------------
+
+  部署前：
+    [ ] 本地 python news_fetcher.py 成功，count > 0
+    [ ] 本地 python email_sender.py --dry-run 预览正常
+    [ ] 本地 python email_sender.py 真实收到邮件
+    [ ] .env 未提交到 Git
+
+  GitHub 配置：
+    [ ] 代码已 push 到目标仓库
+    [ ] 5 个 Secrets 已配置
+    [ ] Workflow permissions = Read and write
+    [ ] 分支保护已放行 Actions（如有）
+
+  部署后：
+    [ ] 手动 Run workflow 一次
+    [ ] 收件箱收到邮件
+    [ ] archive/ 有新文件
+
+--------------------------------------------------------------------------------
+十六、联系与维护
+--------------------------------------------------------------------------------
+
+  查看运行日志：GitHub 仓库 → Actions → 点击某次运行 → 展开各步骤
+
+  常用维护操作：
+    - 修改发送时间：编辑 daily-news.yml 的 cron
+    - 修改新闻源/关键词：编辑 news_fetcher.py
+    - 修改邮件模板：编辑 email_sender.py 的 generate_html_email()
+    - 修改收件人：更新 GitHub Secret RECIPIENT_EMAIL
+
+================================================================================
+  文档结束
+================================================================================
