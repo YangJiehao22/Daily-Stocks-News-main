@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T01:27:18.099261",
+  "timestamp": "2026-05-25T04:17:29.896415",
   "count": 20,
   "news": [
     {
@@ -83,26 +83,6 @@
       "hash": "8539bf69ee5bcf9a2980ee1cc46781e0"
     },
     {
-      "title": "IT早报 0525：华为自研 DoB 封装技术突破；长安汽车内幕交易案员工被罚 1669 万元；“死了么”App 被收编改名“在么在么”；大疆日本摄像机市占超七成...",
-      "description": "<p>“IT早报”时间，大家好，现在是 2026 年 5 月 25 日星期一，今天的重要科技资讯有：</p><h2>1、华为自研全新 DoB 封装技术：绕过 400 层 NAND 造出 122TB 企业级 SSD，未来还计划推出 245TB 版本</h2><p>华为在巴黎 ID Forum 2026 上展示了基于自研 Die-on-Board 封装技术的大容量 SSD 系列，包括 61.44TB 和 122.88TB 型号，未来计划推出 245TB 版本。该技术绕开了传统封装对芯片数量的限制，通",
-      "url": "https://www.ithome.com/0/954/651.htm",
-      "publishedAt": "Sun, 24 May 2026 23:30:40 GMT",
-      "source": {
-        "name": "IT之家"
-      },
-      "hash": "06e4e869fdf4302ecfc19b427b350050"
-    },
-    {
-      "title": "Linux 7.1-rc5 内核发布，Linus 对不必要改动、代码规模膨胀不满意",
-      "description": "<p>IT之家 5 月 25 日消息，据科技媒体 Phoronix 昨天报道，Linux 7.1-rc5 内核现已发布，本次候选版本继续带来大量修复更新，并新增更多 AI 生成代码。</p><p>IT之家在此援引 Phoronix，Claude Code 等 AI 编写的代码现在被广泛分散在内核各个部分，从图形驱动 Bug 修复到 C 语言代码安全问题都有涉及。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/",
-      "url": "https://www.ithome.com/0/954/650.htm",
-      "publishedAt": "Sun, 24 May 2026 23:30:22 GMT",
-      "source": {
-        "name": "IT之家"
-      },
-      "hash": "0c22b36474b45fd5c7011148acd796c1"
-    },
-    {
       "title": "Oil prices fall 5% after Trump says Iran talks proceeding in a 'constructive manner'",
       "description": "Trump had said an agreement with Iran to open the Strait of Hormuz, among other issues, was largely negotiated and would be announced soon.",
       "url": "https://www.cnbc.com/2026/05/24/oil-price-iran-war-strait-hormuz-trump-peace-talks.html",
@@ -111,16 +91,6 @@
         "name": "US Top News and Analysis"
       },
       "hash": "24f598c5d4fd888ab9892cf693d18f8f"
-    },
-    {
-      "title": "鸿蒙智行全新一代问界 M9 系列预订量破 6 万台，Ultimate 领世加长版满配价格逼近百万",
-      "description": "<p>IT之家 5 月 25 日消息，据博主 @我鸿 昨晚分享，<strong>鸿蒙智行全新一代问界 M9 系列预订量突破 6 万台</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/5/5f8e43f1-e2a9-4bf1-baf8-f9a2c5704fc1.jpg?x-bce-process=image/for",
-      "url": "https://www.ithome.com/0/954/648.htm",
-      "publishedAt": "Sun, 24 May 2026 23:11:55 GMT",
-      "source": {
-        "name": "IT之家"
-      },
-      "hash": "531b0aa9125f4c77177c886140135871"
     },
     {
       "title": "Bloomberg This Weekend 5/24/2026",
@@ -153,14 +123,14 @@
       "hash": "900500a8e890e3ed26ef19f79975036c"
     },
     {
-      "title": "How New Mega-Cap IPO's Will Reshape the Markets",
+      "title": "How New Mega-Cap IPOs Will Reshape the Markets",
       "description": "SpaceX is marketing itself to IPO investors as an artificial intelligence targeting a $26.5 trillion potential market opportunity. The move signaling its intention to wrest business from investor darlings whose valuations have soared. Bloomberg Marke",
       "url": "https://www.bloomberg.com/news/videos/2026-05-24/how-new-mega-cap-ipo-s-will-reshape-the-markets-video",
       "publishedAt": "Sun, 24 May 2026 14:06:01 GMT",
       "source": {
         "name": "Bloomberg Technology"
       },
-      "hash": "f7627750b26507ac5a851d1fbcd80e28"
+      "hash": "2ffe49d8aa34ba32846cd7ffbc96ea9c"
     },
     {
       "title": "Apple’s Watch and Health Efforts Need Reboot to Rival New Wearables",
@@ -201,6 +171,36 @@
         "name": "科技要闻-新浪科技"
       },
       "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "何小鹏的赌局：GX狂降12万，换一场不能输的冲高",
+      "description": "<p>在理想L9 LIvis之后，小鹏GX的最终定价也大幅跳水，从近40万的预售价降至27万的起售价，“9系的产品，8系的价格”，小鹏产品矩阵负责人吴安飞概括。</p><p>下调12万元，效果立竿见影：发布会第二天，小鹏集团港股股价一度涨幅超过8%；上市后12小时，大定订单数突破24863辆。Ultra旗舰版订单占比超过80%，而旗舰版里纯电车型占比过半——何小鹏原本以为增程版销量会高于纯电。</p><p>更加让他意外的是，GX仅有一个SKU的毛利不及预期，其他配置（毛利率）都超过既定目标。</",
+      "url": "https://www.leiphone.com/category/transportation/L6O9UWixGsEDAikX.html",
+      "publishedAt": "Sat, 23 May 2026 21:15:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "b6542ec9f84e7792e26553c16ed9a586"
     }
   ]
 }
