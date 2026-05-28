@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-05-28T04:05:26.895420",
+  "count": 20,
+  "news": [
+    {
+      "title": "Salesforce's beat fails to convince the market that software can survive AI",
+      "description": "Salesforce is doing everything it can to signal to the market that this year's sell-off is unwarranted.",
+      "url": "https://www.cnbc.com/2026/05/27/salesforces-beat-fails-to-convince-market-that-software-can-survive-ai.html",
+      "publishedAt": "Wed, 27 May 2026 23:11:08 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0fce108c6572def1c0930d78f47e00eb"
+    },
+    {
+      "title": "Salesforce CEO Marc Benioff outlines his plan to turn around his struggling stock",
+      "description": "Salesforce CEO Marc Benioff said the company’s strategy during its stock slump is to continue delivering strong products for customers and buy back shares.",
+      "url": "https://www.cnbc.com/2026/05/27/salesforce-ceo-marc-benioff-outlines-his-plan-to-turn-around-his-struggling-stock.html",
+      "publishedAt": "Wed, 27 May 2026 22:35:39 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "a42d643e00be017293f87ecc1ccb1694"
+    },
+    {
+      "title": "Synopsys Settles with Elliott, Names Firm’s Jesse Cohn to Board",
+      "description": "Synopsys Inc. said it has reached an agreement with Elliott Investment Management and is appointing the activist investor’s Jesse Cohn to the chip-design software maker’s board.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/synopsys-settles-with-elliott-names-firm-s-jesse-cohn-to-board",
+      "publishedAt": "Wed, 27 May 2026 22:23:43 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "e5a08923015f6e28125b03ec0428a31b"
+    },
+    {
+      "title": "Salesforce beats on earnings and revenue but full-year guidance comes in light",
+      "description": "Salesforce has been hammered by investors on concern that artificial intelligence models and services will disrupt some traditional software products.",
+      "url": "https://www.cnbc.com/2026/05/27/salesforce-crm-q1-earnings-report-2027.html",
+      "publishedAt": "Wed, 27 May 2026 22:22:13 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "14d9d0921c27fe6f74b338917e42948d"
+    },
+    {
+      "title": "Traders are skeptical of Iran timeline for Strait of Hormuz reopening",
+      "description": "Despite reports Iran could return the passageway to normal traffic flows within a month of a peace deal, Kalshi traders thought that was unlikely.",
+      "url": "https://www.cnbc.com/2026/05/27/traders-are-skeptical-of-iran-timeline-for-strait-of-hormuz-reopening.html",
+      "publishedAt": "Wed, 27 May 2026 22:18:07 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7facff8fc7f45a2aae44106a9a5fe875"
+    },
+    {
+      "title": "Snowflake rockets 36% on earnings beat and plan to spend $6 billion on Amazon cloud",
+      "description": "Snowflake is going deeper with Amazon's Web Services, and plans to use its Arm-based Graviton chips.",
+      "url": "https://www.cnbc.com/2026/05/27/snowflake-amazon-graviton-cloud-chips.html",
+      "publishedAt": "Wed, 27 May 2026 22:07:15 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "77e1ca0e2683d28973c0282c4832e973"
+    },
+    {
+      "title": "Salesforce Taking Longer Than Expected to Shift to AI, Analyst Luria Says",
+      "description": "The shift to AI for Salesforce is taking longer than expected, according to Gil Luria of D.A. Davidson Technology Research. He reacts to earnings from Salesforce and Snowflake on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-27/salesforce-taking-longer-to-shift-to-ai-gil-luria-says-video",
+      "publishedAt": "Wed, 27 May 2026 21:25:31 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "471c7cf9df6afaac8ae1e72d2cb24126"
+    },
+    {
+      "title": "Dell Wins $9.7 Billion Defense Deal to Streamline Software Buys",
+      "description": "A unit of Dell Technologies Inc. won a $9.7 billion contract to help the US military handle its licenses for Microsoft Corp. software related to email, spreadsheets and other needs across classified and unclassified systems, the Pentagon said.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/dell-wins-9-7-billion-defense-deal-to-streamline-software-buys",
+      "publishedAt": "Wed, 27 May 2026 21:15:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "59e25b30ada750008eeac1875242b9f5"
+    },
+    {
+      "title": "Meta to start testing AI subscription services, with cheapest plan at $7.99 a month",
+      "description": "Meta confirmed Wednesday that it will begin testing two subscription plans for its AI offerings.",
+      "url": "https://www.cnbc.com/2026/05/27/meta-testing-ai-subscription-services-cheapest-plan-at-7point99-a-month.html",
+      "publishedAt": "Wed, 27 May 2026 21:04:59 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "d6c7a339d0b121c6fc4c55d0427c28f7"
+    },
+    {
+      "title": "Memory Chip Frenzy Sends SK Hynix, Micron Into $1 Trillion Club",
+      "description": "Bloomberg News semiconductors reporter Ian King said that investors believe that the chip frenzy that has spurred korean companies SK Hynix and Micron into the the $1 trillion market cap club is not going to end anytime soon, despite history warning ",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-27/memory-chip-frenzy-sends-sk-hynix-micron-into-1t-club-video",
+      "publishedAt": "Wed, 27 May 2026 20:47:21 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "94c9e8767cadfd1bd15980a493258f1a"
+    },
+    {
+      "title": "Marvell Boosts Annual Forecast, Citing AI-Fueled Demand",
+      "description": "Marvell Technology Inc. delivered a quarterly forecast that exceeded analysts’ estimates and boosted its outlook for the year, citing demand for chips used in AI data centers.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/marvell-gains-after-ai-fueled-data-center-demand-boosts-forecast",
+      "publishedAt": "Wed, 27 May 2026 20:45:43 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "b5ca308b1a1248eb00237e1f1beea8ea"
+    },
+    {
+      "title": "HP Gives Profit Outlook That Fails to Ease Chip Cost Concern",
+      "description": "HP Inc. gave a profit forecast for the current quarter that signaled the company continues to contend with a dramatic increase in memory chip prices.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/hp-gives-profit-outlook-that-tops-estimate-managing-chip-crunch",
+      "publishedAt": "Wed, 27 May 2026 20:17:56 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "27c69d6e83686417a25022e56339164c"
+    },
+    {
+      "title": "How NASA Plans to Build a Base on the Moon",
+      "description": "NASA Administrator Jared Isaacman is laying out the ground work for building a new base on the moon. He says it will be done in phases, and infrastructure will be waiting for the astronauts who land there in 2028. He speaks on \"Bloomberg Tech.\" (Sour",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-27/how-nasa-plans-to-build-a-base-on-the-moon-video",
+      "publishedAt": "Wed, 27 May 2026 20:17:23 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "4ec749d15f72c2af4329bbbf18fa691e"
+    },
+    {
+      "title": "Snowflake Jumps 30% on Sales Outlook, $6 Billion Amazon Deal",
+      "description": "Snowflake Inc. shares jumped almost 30% in late trading after the software maker gave a stronger-than-expected annual outlook and signed a $6 billion multiyear agreement to use Amazon.com Inc.’s cloud services and chips.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/snowflake-raises-sales-outlook-touts-impact-of-ai-demand",
+      "publishedAt": "Wed, 27 May 2026 20:10:11 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "b95ca5781390d5dec9a56602639ce582"
+    },
+    {
+      "title": "Salesforce Gives Lukewarm Outlook That Fuels Disruption Fear",
+      "description": "Salesforce Inc. gave a revenue outlook for the current period that fell just short of analysts’ estimates, unnerving investors already concerned about the possibility that artificial intelligence will disrupt the software business.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/salesforce-gives-lukewarm-outlook-that-fuels-disruption-fears",
+      "publishedAt": "Wed, 27 May 2026 20:06:30 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "6866d94450a5a1a0080de0a879a94259"
+    },
+    {
+      "title": "Fed’s Cook Prepared to Raise Rates If Inflation Lingers",
+      "description": "Federal Reserve Governor Lisa Cook said inflation is headed in the wrong direction and she would be prepared to raise interest rates if that persists.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/fed-s-cook-prepared-to-raise-rates-if-inflation-lingers",
+      "publishedAt": "Wed, 27 May 2026 19:55:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "07668b242b04d5e6368042bc8c8308f8"
+    },
+    {
+      "title": "Oil prices fall more than 5% after Rubio says U.S. will give Iran talks 'every chance to succeed'",
+      "description": "U.S. crude oil prices trim losses as traders assess whether U.S. is nearing a deal with Iran that would restore traffic in the Strait of Hormuz.",
+      "url": "https://www.cnbc.com/2026/05/27/oil-price-today-iran-war-strait-hormuz.html",
+      "publishedAt": "Wed, 27 May 2026 19:50:23 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "afbdb7823aac90bffe41a4b34ecfb740"
+    },
+    {
+      "title": "Three Charts Capturing Micron’s Record Rise to $1 Trillion",
+      "description": "Micron Technology Inc.’s incredible rally this year has launched the memory-chip firm into an elite group of stocks worth at least $1 trillion, setting at least one record along the way.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/three-charts-capturing-micron-s-record-rise-to-1-trillion",
+      "publishedAt": "Wed, 27 May 2026 19:15:01 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "82666963390cf43c8ca1d435849d255d"
+    },
+    {
+      "title": "After Ferrari Luce backlash, Lamborghini CEO says canceling its own EV was the right choice",
+      "description": "Lamborghini CEO said the automaker's decision to kill its EV to focus on plug-in hybrid electric vehicles was \"the right way to go\" for his company.",
+      "url": "https://www.cnbc.com/2026/05/27/ferrari-luce-backlash-lamborghini-ceo-ev.html",
+      "publishedAt": "Wed, 27 May 2026 19:07:32 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "8ae7f1a26c1eb145aeb7915cdb11c06e"
+    },
+    {
+      "title": "Real Estate Investment Committee: AI, Rates, Supply & Demand",
+      "description": "Bess Freedman, CEO of Brown Harris Stevens, Annette Kroeger, CEO of North & Central Europe at PIMCO, and Liz Hart, president of leasing for North America at Newmark join Dani Burger on \"Bloomberg Deals.\" (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-27/investment-committee-ai-rates-supply-demand-video",
+      "publishedAt": "Wed, 27 May 2026 19:07:31 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "ca607142d789449697927372be11ab56"
+    }
+  ]
+}
