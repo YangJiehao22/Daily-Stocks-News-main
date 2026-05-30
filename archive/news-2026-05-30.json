@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-05-30T03:54:09.503869",
+  "count": 20,
+  "news": [
+    {
+      "title": "Exxon warns oil inventories will hit dangerously low levels in weeks, forcing prices to shoot higher",
+      "description": "The price of physical Brent oil cargoes will spike to $150 to $160 per barrel once inventories hit all-time lows, Exxon executive Neil Chapman said.",
+      "url": "https://www.cnbc.com/2026/05/28/oil-inventory-exxon-strait-hormuz-iran-war.html",
+      "publishedAt": "Thu, 28 May 2026 22:25:04 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "4c069d0b2be084c85c96ed1cdc369bdd"
+    },
+    {
+      "title": "Dell Soars Most Since 2018 on Outlook Fueled by AI Servers",
+      "description": "Dell Technologies Inc. shares surged the most since the company returned to the public markets in December 2018, lifted by an outlook for annual sales that far surpassed expectations on demand for servers that power artificial intelligence work.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/dell-boosts-outlook-to-60-billion-in-ai-server-sales-this-year",
+      "publishedAt": "Thu, 28 May 2026 20:07:35 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "33674784789cd05632f36fe881c5e6d4"
+    },
+    {
+      "title": "Solar Company Nextpower Hits All-Time High on AI Battery Deal",
+      "description": "Nextpower Inc. shares briefly touched an all-time high after the solar tracking provider agreed to buy battery company Prevalon Energy for as much as $365 million, marking the solar-tracking provider’s move into energy storage and the fast-growing AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/solar-company-nextpower-eyes-ai-s-power-needs-with-battery-deal",
+      "publishedAt": "Thu, 28 May 2026 20:05:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "dabcaa233376d20c7a516686bdeb16b3"
+    },
+    {
+      "title": "US Investors Back Brazil’s Pax in Bet on AI-Powered Policing",
+      "description": "A Brazilian artificial intelligence startup that helps police investigate violent crime is planning a rapid expansion at home, betting its technology is ready for wider use as Brazil confronts mounting public security concerns.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/us-investors-back-brazil-s-pax-in-bet-on-ai-powered-policing",
+      "publishedAt": "Thu, 28 May 2026 18:43:51 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "120a1fde1b12456896c57bed20fb9739"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "时隔三年：水墨风武侠国漫《镖人》第二季定档 6 月 11 日腾讯视频独播",
+      "description": "<p>IT之家 5 月 30 日消息，《镖人》动画官方昨日宣布，经过三年的等待，《镖人》第二季将于 2026 年 6 月 11 日中午 10 点在腾讯视频上线。</p><p>据官方介绍，首播当日该动画将连更两集，此后保持着每周四更新的节奏持续播出。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/5/51acdd68-83c0-488f-aa7b-c01c1129a3b",
+      "url": "https://www.ithome.com/0/957/458.htm",
+      "publishedAt": "Sat, 30 May 2026 03:48:43 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "c66be3ba0014ace56eafe0e8039acf37"
+    },
+    {
+      "title": "首次原生支持 AMD HDMI VRR，SteamOS 3.8.6 Beta 版发布",
+      "description": "<p>IT之家 5 月 30 日消息，V社今天发布 SteamOS 3.8.6 系统 Beta 测试版，首次引入 AMD 原生 HDMI 可变刷新率（VRR）。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/5/1145e827-7346-4569-ac8f-3dff6af84f97.png?x-bce-process=image/format,f_auto\" /><",
+      "url": "https://www.ithome.com/0/957/456.htm",
+      "publishedAt": "Sat, 30 May 2026 03:32:42 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "76543009cdfc16c7e60a7643663248a8"
+    },
+    {
+      "title": "努比亚 M153 豆包手机推送 Obric UI 2 大版本更新：新增华为 Freeclip2 配对弹窗、锁屏 AI 空间，支持跨设备记忆迁移",
+      "description": "<p>IT之家 5 月 30 日消息，昨日开始，有用户反馈<span class=\"hot-topic\">努比亚 M153 豆包手机助手</span>技术预览版开始推送 Obric UI 2 大版本系统更新，版本号更新至 v2.2.0.0。</p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/5/669582b9-e216-4940-a",
+      "url": "https://www.ithome.com/0/957/455.htm",
+      "publishedAt": "Sat, 30 May 2026 03:30:12 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "1cf69567e74d06225bdf5e9fa26def7d"
+    },
+    {
+      "title": "三星 Galaxy Watch9 Classic 智能手表曝光，AI 智能洞察佩戴者健康",
+      "description": "<p>IT之家 5 月 30 日消息，科技媒体 Android Authority 昨日（5 月 29 日）发布博文，<strong>挖掘谷歌 Wear OS 应用更新，发现了 3 款三星智能手表踪迹。</strong></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/5/f1ef21be-f030-4f0c-94d1-6b1ab7",
+      "url": "https://www.ithome.com/0/957/453.htm",
+      "publishedAt": "Sat, 30 May 2026 03:16:15 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "45afb471b62f3136db48eedf529d80f7"
+    },
+    {
+      "title": "QQ 鸿蒙版 App 获 9.2.25 新版本邀测升级：支持设置在线状态，新增 QQ 邮箱、 QQ 钱包插件",
+      "description": "<p>IT之家 5 月 30 日消息，QQ 鸿蒙版 App 昨日在华为应用市场（App Gallery）开启 9.2.25（2914）版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/5/29-2026/6/30。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/5/3054fabf-12b5-4057-a711-182f4c814eb1.jpg?",
+      "url": "https://www.ithome.com/0/957/452.htm",
+      "publishedAt": "Sat, 30 May 2026 03:12:10 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "0d145d136d978aa68e32b3e02347272f"
+    },
+    {
+      "title": "奇瑞 iCAR 超级 V23 赛博暗影极客版上市，售 16.08 万元",
+      "description": "<p>IT之家 5 月 30 日消息，iCAR 超级 V23 赛博版系列新增一款全新版型 ——“暗影极客版”，官方指导价为 16.08 万元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/5/38c7b6d7-fa43-41f0-bb4c-8a3241e434e7.jpg?x-bce-process=image/format,f",
+      "url": "https://www.ithome.com/0/957/450.htm",
+      "publishedAt": "Sat, 30 May 2026 03:05:57 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "6678cb2008ad0665c6bfae3f883d46a0"
+    },
+    {
+      "title": "全球限 30 辆：奔驰 AMG CLE 63 Mythos 路测图曝光",
+      "description": "<p>IT之家 5 月 30 日消息，汽车媒体 autoevolution 昨日（5 月 29 日）发布博文，分享了一组在德国纽博格林赛道附近抓拍的图片，<strong>展示了梅赛德斯-AMG CLE 63 Mythos 原型车。</strong></p><p>消息称梅赛德斯-AMG CLE 63 Mythos 基于 CLE 63 打造，全球限量 30 辆，单价超过 50 万美元（IT之家注：现汇率约合 339.1 万元人民币）。</p><p style=\"text-align: center;",
+      "url": "https://www.ithome.com/0/957/449.htm",
+      "publishedAt": "Sat, 30 May 2026 02:55:00 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "2f3e543c622d07877c315a3ae23c2f94"
+    },
+    {
+      "title": "英伟达推出 LocateAnything，主打 AI 高速、高精度检测对象",
+      "description": "<p>IT之家 5 月 30 日消息，英伟达昨日（5 月 29 日）发布博文，宣布携手香港理工大学、南京大学等，<strong>推出 LocateAnything 模型，主打高速、高精度检测对象。</strong></p><p>该模型可以从照片或截图中找出指定对象，并用检测框标出位置，重点服务机器人感知、电脑自动操作等需要快速定位的场景。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.itho",
+      "url": "https://www.ithome.com/0/957/446.htm",
+      "publishedAt": "Sat, 30 May 2026 02:30:49 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "495407dcbbd72782416e9de3ea0d3245"
+    },
+    {
+      "title": "海盗船 CX750W 电源开售：80PLUS 铜牌认证、499 元",
+      "description": "<p>IT之家 5 月 30 日消息，海盗船 CX750W 电源现已开售，新品主打 750W 功率，具备 80PLUS 铜牌认证，提供五年质保，售价 499 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/5/7e8936e9-5200-4d17-9d71-96997a9cdd0e.png?x-bce-process=imag",
+      "url": "https://www.ithome.com/0/957/444.htm",
+      "publishedAt": "Sat, 30 May 2026 02:26:46 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "9f0bc0c3bf449324627d3b407ec13c1c"
+    },
+    {
+      "title": "华硕天选 7 标准版上架：锐龙 7 H 260 配 RTX 5050/5060，16+512GB 版本 7999 元起",
+      "description": "<p>IT之家 5 月 30 日消息，华硕天选 7 标准版现已在京东上架并开放预约，将于 6 月 1 日上市。该机搭载 AMD 锐龙 7 H 260 处理器，提供多个 sku 可选，IT之家汇总如下：</p><ul class=\" list-paddingleft-2\"><li><p>RTX 5050 显卡、16GB 内存、512GB 固态硬盘、日蚀灰：7999 元，叠加国补后 6799 元</p></li><li><p>RTX 5050 显卡、16GB 内存、1TB 固态硬盘、魔幻青：8799",
+      "url": "https://www.ithome.com/0/957/438.htm",
+      "publishedAt": "Sat, 30 May 2026 02:16:37 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "a51e7735ab3fa7bf4d9766184246a5b7"
+    },
+    {
+      "title": "OpenAI 升级 GPT-5.5 Instant 模型，AI 回复更自然、易读",
+      "description": "<p>IT之家 5 月 30 日消息，OpenAI 公司于 5 月 28 日发布公告，<strong>宣布更新 ChatGPT 的 GPT-5.5 Instant 版本及其 API，并逐步弃用 OpenAI o3 和 GPT-4.5 模型。</strong></p><p>OpenAI 公司于 5 月 5 日推出 GPT-5.5 Instant 模型，在医学、法律和金融等高风险主题上，该模型产生的幻觉减少了 52.5%，并显著提升数学、科学和视觉推理等方面。</p><p>IT之家援引博文介绍，在本",
+      "url": "https://www.ithome.com/0/957/437.htm",
+      "publishedAt": "Sat, 30 May 2026 02:14:38 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "ff396c8d0e98b2823c36bf2edcdd9719"
+    },
+    {
+      "title": "Hegseth praises Asian allies for 'burden-sharing,' calls out China's role in the region",
+      "description": "Hegseth said that China cannot impose its hegemony on U.S. partners and allies in the region.",
+      "url": "https://www.cnbc.com/2026/05/30/hegseth-praises-asian-allies-for-burden-sharing-calls-out-china.html",
+      "publishedAt": "Sat, 30 May 2026 01:59:24 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "135ef26ad78ec678d8b2b6458b890693"
+    },
+    {
+      "title": "畅享 90 系列新成员？两款华为新机入网，电池容量 6100mAh、8500mAh",
+      "description": "<p>IT之家 5 月 30 日消息，博主 @数码闲聊站 今天在微博透露，型号为 CHZ-AL60/CAS-AL50 的两款华为新机已经入网，<strong>电池容量分别为 6100mAh</strong>、<strong>8500mAh</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/5/66ea9667-39",
+      "url": "https://www.ithome.com/0/957/435.htm",
+      "publishedAt": "Sat, 30 May 2026 01:55:17 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "ca9968db21384c9c9446e9b8e3997893"
+    }
+  ]
+}
