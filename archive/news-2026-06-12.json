@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-06-12T04:27:13.945913",
+  "count": 20,
+  "news": [
+    {
+      "title": "会写字、懂排版、能分镜：HiDream-O1-Image-1.5 全能图像生成能力解析",
+      "description": "<p>近日，智象未来（HiDream.ai） 全新推出的商用版图像生成模型 HiDream-O1-Image-1.5 再次实现 SOTA，在全球知名独立 AI 模型评测与分析平台 Artificial Analysis的文生图榜单（Text to Image Leaderboard）上，一举登上中国图像生成模型第一，成为评分仅次于OpenAI的中国大模型公司，超越Google Nano Banana 2（Gemini 3.1 Flash Image Preview）、NVIDIA Cosmos3",
+      "url": "https://www.leiphone.com/category/ai/6WL1SBqJQM2LVl94.html",
+      "publishedAt": "Wed, 10 Jun 2026 23:43:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "2b1fab88438256785708be77f68ac876"
+    },
+    {
+      "title": "离谱！哈啰单车员工曾计划殴打竞品核心人员，公司回应；员工「迟开电脑8分钟」被开除，法院判了；丰巢取件得先看广告，客服称暂无法关闭",
+      "description": "<section></section><section><section><section><section><section><section><p style=\"text-align: center;\"><span style=\"font-size: 24px;\"><strong><span style=\"text-align: justify;\">要闻提示</span></strong></span></p><p><span style=\"text-align: justify;\">1.离",
+      "url": "https://www.leiphone.com/category/zaobao/920O0mJxY30OIE6r.html",
+      "publishedAt": "Wed, 10 Jun 2026 18:47:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "25a7995f7c277a442aab2b745e989306"
+    },
+    {
+      "title": "New Tracker Traces AI’s Real-Time Impact on Work",
+      "description": "Nela Richardson, Chief Economist at ADP and a Bloomberg contributor, says employers need to decide whether AI is going to be a tool for automating roles away or augmenting tasks to create new value. She discusses the new Canaries Dashboard, launched ",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/new-tracker-traces-ai-s-real-time-impact-on-work-video",
+      "publishedAt": "Wed, 10 Jun 2026 17:42:15 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "f4d9d759dc14e2d05261ab72a8f41acc"
+    },
+    {
+      "title": "SpaceX IPO Multiple Times Oversubscribed | Bloomberg Tech 6/10/2026",
+      "description": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss Wall Street’s enthusiasm for SpaceX as the company’s IPO approaches. Plus, Google backstops Anthropic data centers as Silicon Valley races to build AI infrastructure with ever more intertwined deals. An",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/bloomberg-tech-6-10-2026-video",
+      "publishedAt": "Wed, 10 Jun 2026 17:31:10 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "0b9570df087d70f7f69ccd3a4a180b30"
+    },
+    {
+      "title": "火山引擎与周星驰比高集团达成版权合作，打造AI 视频 IP 合作新模式",
+      "description": "<p>6月10日，火山方舟版权商业化平台正式上线，周星驰旗下比高集团携《喜剧之王》《长江七号》《食神》三大经典影视&nbsp;IP&nbsp;率先入驻，双方达成&nbsp;AI&nbsp;视频创作版权合作。</p><p>火山方舟版权商业化平台依托全球领先的&nbsp;Seedance 2.0&nbsp;视频生成模型及完备的版权治理体系，推出业内首个「授权&nbsp;—&nbsp;保护&nbsp;—&nbsp;审核&nbsp;—&nbsp;分发&nbsp;—&nbsp;变现」全链路合作机制，为&n",
+      "url": "https://www.leiphone.com/category/industrynews/g1yZBjmsWQ6XRHdJ.html",
+      "publishedAt": "Wed, 10 Jun 2026 16:35:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "ee8ee5f44becabd5fb44eee3d7308849"
+    },
+    {
+      "title": "千问发布高考志愿填报Agent，为全国考生免费提供志愿填报咨询",
+      "description": "<p style=\"margin-top: 23px; margin-bottom: 14px; font-family: Calibri; font-size: 23px; color: rgb(0, 0, 0); white-space: normal; text-align: justify;\"><span>6月10日，千问上线国内首个全周期高考志愿填报Agent，为全国考生免费提供志愿填报和咨询服务。高考Agent基于千问高考志愿大模型和夸克8年高考数据经验打造，<strong>具备“志",
+      "url": "https://www.leiphone.com/category/industrynews/YRFMCuwNPJyySGY4.html",
+      "publishedAt": "Wed, 10 Jun 2026 15:35:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "823366feff7be715291e7cebde6ad261"
+    },
+    {
+      "title": "重磅首发！奥尼AI Agent OS、Token工厂正式上线，构建智能体运行新生态",
+      "description": "<p>“智能体AI已经到来。”NVIDIA创始人兼CEO黄仁勋在近期的GTC 2026台北演讲中宣告。一个新的共识正在形成：个人和企业都将拥有自己的智能体，社会生产力将被重塑。</p><p>&nbsp;</p><p>面对这场浪潮，如何让智能体安全部署、高效运行并持续创造价值？作为NVIDIA的合作伙伴，奥尼给出了具体的落地答案。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/",
+      "url": "https://www.leiphone.com/category/industrynews/BFGlUP9W6hRnVGtS.html",
+      "publishedAt": "Wed, 10 Jun 2026 14:56:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "4209193c2b8e12955cbcb5442163705a"
+    },
+    {
+      "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
+      "description": "SpaceX is selling 555.6 shares at $135 a piece, raising $75 billion in the largest IPO on record.",
+      "url": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
+      "publishedAt": "Thu, 11 Jun 2026 23:35:43 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "f21dcdfb11465c88ab8222f72ad9287d"
+    },
+    {
+      "title": "MediaTek’s Rally Signals Shift From Laggard to AI Contender",
+      "description": "MediaTek Inc. shares are poised for their best quarter on record, as investors bet a shift into artificial intelligence chips can help it shed the overhang of its struggling older-tech business.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/mediatek-s-rally-signals-shift-from-laggard-to-ai-contender",
+      "publishedAt": "Thu, 11 Jun 2026 23:30:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "7406b3df15527fdf4ec2ac883bce11cd"
+    },
+    {
+      "title": "ChatGPT Pushed Back on LA Fire Suspect’s Vision of Burning City",
+      "description": "The man accused of setting the massive Palisades Fire in Los Angeles repeatedly asked ChatGPT to create images of a city engulfed in flames and floods, and cursed at OpenAI’s chatbot when it told him the scenery he envisioned was too violent, jurors ",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/chatgpt-pushed-back-on-la-fire-suspect-s-vision-of-burning-city",
+      "publishedAt": "Thu, 11 Jun 2026 23:25:28 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "0f91fd53126a0f875eb4a6026a1cc90f"
+    },
+    {
+      "title": "Scaffolding Company’s Data-Center Pivot Cuts Into Margins",
+      "description": "Brand Industrial Services Inc., a scaffolding and industrial services company that does business as BrandSafway, reported sharply lower first-quarter earnings as higher costs and spending on its push into data center construction weighed on results, ",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/scaffolding-company-s-data-center-pivot-cuts-into-margins",
+      "publishedAt": "Thu, 11 Jun 2026 22:55:09 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "e07a455dbf80d6c8462944b9ab85b8e8"
+    },
+    {
+      "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
+      "description": "With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history.",
+      "url": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
+      "publishedAt": "Thu, 11 Jun 2026 22:53:14 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "40da105d8fe1789fd702eeefe02d855c"
+    },
+    {
+      "title": "Warren questions SpaceX IPO oversight in new letter to stock indexes",
+      "description": "Sen. Elizabeth Warren seeking answers on changes to index provider waiting periods, protections for retail investors, in a letter obtained first by CNBC.",
+      "url": "https://www.cnbc.com/2026/06/11/warren-spacex-ipo-exchanges.html",
+      "publishedAt": "Thu, 11 Jun 2026 22:26:44 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "2ada19f29f22a0c8453a40324a298cbe"
+    },
+    {
+      "title": "SpaceX Prices IPO Shares in Biggest Debut Ever | The Close 6/11/2026",
+      "description": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are PIMCO Managing Director & Global Economic Advisor Richard Clarida, Gabelli F",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-11/the-close-6-11-2026-video",
+      "publishedAt": "Thu, 11 Jun 2026 22:23:24 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "e84fcbbd770539c22368fd495e63faa7"
+    },
+    {
+      "title": "Trump picks former SEC Chairman Jay Clayton as national intelligence director",
+      "description": "Trump's announcement came after House Democrats' objections to his pick of Bill Pulte as acting chief ensured that a key national security tool expires Friday.",
+      "url": "https://www.cnbc.com/2026/06/11/trump-jay-clayton-national-intelligence-pulte.html",
+      "publishedAt": "Thu, 11 Jun 2026 22:22:15 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0b2cff6966572492aa1722be1b13a704"
+    },
+    {
+      "title": "SpaceX cuts retail IPO allocation to low 20% range, source says",
+      "description": "The Elon Musk-led company plans to direct a percentage in the low 20s of the offering to retail buyers, according to a person familiar with the matter.",
+      "url": "https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html",
+      "publishedAt": "Thu, 11 Jun 2026 22:21:47 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0876dbdfe7558c9f7ad8f0aa54c486dd"
+    },
+    {
+      "title": "Concerns Raised Over Corporate Governance in SpaceX's Historic IPO",
+      "description": "Nell Minow, Chair of Value Edge Advisors and Former President of ISS, advised caution regarding SpaceX's IPO, which was priced at $135 per share in the largest debut ever. She highlighted significant corporate governance issues being raised by pensio",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-11/concerns-over-corporate-governance-in-spacex-s-ipo-video",
+      "publishedAt": "Thu, 11 Jun 2026 21:54:41 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "6f59a294c9f6d78a0fcde0663cdb04c1"
+    },
+    {
+      "title": "CME Announces Plans to Offer 24/7 WTI Oil and Gold Contracts",
+      "description": "The Chicago Mercantile Group announced plans to offer 24-hour, seven-days-a-week trading in new, smaller crude oil futures and its existing gold contract, the exchange said Thursday.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/cme-announces-plans-to-offer-24-7-wti-oil-and-gold-contracts",
+      "publishedAt": "Thu, 11 Jun 2026 21:48:52 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "eee6781b4e915c7543921e0b032d1c8f"
+    },
+    {
+      "title": "SpaceX IPO Priced at $135 Amid Massive Oversubscription, Sparking Market Anticipation",
+      "description": "SpaceX has made history with the largest IPO ever, pricing shares at $135 each and raising $75 billion. Dan Ives, Global Head of Technology Research at Wedbush Securities, discussed the overwhelming demand for the offering, which Bloomberg reports is",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-11/spacex-ipo-priced-at-135-amid-massive-oversubscription-video",
+      "publishedAt": "Thu, 11 Jun 2026 21:28:27 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "fd0c8a9fdededb408c6112f584875100"
+    },
+    {
+      "title": "PIMCO’s Richard Clarida: AI Now a Major Economic Driver",
+      "description": "Richard Clarida, Managing Director and Global Economic Adviser at PIMCO and Former Vice Chair of the Federal Reserve Board of Governors, discussed the significant impact of artificial intelligence (AI) on the economy and markets over the next five ye",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-11/pimco-s-richard-clarida-ai-now-a-major-economic-driver-video",
+      "publishedAt": "Thu, 11 Jun 2026 21:11:01 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "5a804035910ee4c02fd4f00b580103b7"
+    }
+  ]
+}
