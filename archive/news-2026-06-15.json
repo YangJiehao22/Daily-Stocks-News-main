@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-06-15T04:57:48.023975",
+  "count": 20,
+  "news": [
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "South Korea’s Floundering Movie Business Turns to AI for Help",
+      "description": "Two films built largely with generative AI tools are on view in South Korean theaters",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-14/south-korea-s-floundering-movie-business-turns-to-ai-for-help",
+      "publishedAt": "Sun, 14 Jun 2026 23:30:01 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "dcf43970eb6f402071888d14827ec2bc"
+    },
+    {
+      "title": "Trump heads to G7 summit in France after reaching deal to end war with Iran",
+      "description": "The G7 is likely to address the Iran peace deal, as well as Russia's war against Ukraine, which continues to rage in eastern Europe.",
+      "url": "https://www.cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html",
+      "publishedAt": "Sun, 14 Jun 2026 22:30:57 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7c3094ff2da02a1cee0ceaaffb505d0e"
+    },
+    {
+      "title": "Carney Says Anthropic Ban Shows Risk of Relying on Big AI Models",
+      "description": "Prime Minister Mark Carney said the US export ban blocking all foreign access to Anthropic PBC’s latest artificial intelligence models underscores the risk of depending on just a handful of powerful AI tools.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/carney-says-anthropic-ban-shows-risk-of-relying-on-big-ai-models",
+      "publishedAt": "Sun, 14 Jun 2026 17:02:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "ae4c17e726702a8a98b1551922ef101f"
+    },
+    {
+      "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
+      "description": "Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.",
+      "url": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
+      "publishedAt": "Sun, 14 Jun 2026 15:02:35 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "a7ba8a72b85f4966800d3f8f5815b4c3"
+    },
+    {
+      "title": "Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis",
+      "description": "The company prepares for the foldable iPhone and touch-screen MacBook.",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook",
+      "publishedAt": "Sun, 14 Jun 2026 14:00:01 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "4cd6a0319be2767c6a428113eb40995a"
+    },
+    {
+      "title": "Crypto Token’s 50% Wipeout Shows Magnitude of AI-Hacking Threat",
+      "description": "When Eli Ben-Sasson helped create the Zcash cryptocurrency nearly a decade ago, the cryptographer worried about human adversaries. He didn’t expect that machine intelligence would one day expose a flaw that had eluded years of expert human judgment.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/crypto-token-s-50-wipeout-shows-magnitude-of-ai-hacking-threat",
+      "publishedAt": "Sun, 14 Jun 2026 13:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "d21e462b3f1cbefdcf11672ebef12c9a"
+    },
+    {
+      "title": "How Google Is Reinventing Search with AI",
+      "description": "Google is making the biggest change to its search business in more than two decades, integrating AI-generated answers, conversational search, and reasoning tools directly into the heart of its search product, which has shaped the course of content an",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-14/how-google-is-reinventing-search-with-ai-video",
+      "publishedAt": "Sun, 14 Jun 2026 12:05:19 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "5fe98cfa5ff9f23a340cd3aa4da5da52"
+    },
+    {
+      "title": "JetBlue bets big on Fort Lauderdale, from a new airport lounge to an international gateway",
+      "description": "JetBlue faces heavy competition from Miami International Airport, an American Airlines stronghold.",
+      "url": "https://www.cnbc.com/2026/06/14/jetblue-fort-lauderdale-airport.html",
+      "publishedAt": "Sun, 14 Jun 2026 12:00:02 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "57203a60605c7aac9ce28590360227c0"
+    },
+    {
+      "title": "AI Turns Coders, Lawyers and Analysts Into Ghosts of London’s Past",
+      "description": "Search for “finance analyst” and you’re likely to find around 80 vacancies in London, according to a prominent recruitment website. If that seems like a surprisingly low number for one of the world’s biggest banking and corporate hubs, it’s because i",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/ai-led-job-losses-bite-for-london-s-coders-lawyers-and-analysts",
+      "publishedAt": "Sun, 14 Jun 2026 10:55:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "603e2695275a1b5cdb9fb1206f53018a"
+    },
+    {
+      "title": "Jack Ma-Backed Ant Group Set for High-Stakes Overhaul of Billion-User App",
+      "description": "Ant Group Co. is testing an overhaul to its Alipay super app that would introduce an AI agent interface, a major escalation in its battle for users with archrival WeChat.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/jack-ma-backed-ant-set-for-high-stakes-overhaul-of-billion-user-alipay-app",
+      "publishedAt": "Sun, 14 Jun 2026 08:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "d3b5b6cc2e43886f0cd2d96c38ebb52a"
+    },
+    {
+      "title": "SpaceX Surge Further Boosts Saudi Billionaire Prince’s Fortune",
+      "description": "Friday’s debut share surge for SpaceX is bolstering the fortunes of one of Saudi Arabia’s richest men.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/spacex-surge-further-boosts-saudi-billionaire-prince-s-fortune",
+      "publishedAt": "Sun, 14 Jun 2026 07:33:34 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "2159da897b9de90abaf4189c94f332c3"
+    },
+    {
+      "title": "Starmer to Meet Japan’s Takaichi as Fighter Jet Funding Sputters",
+      "description": "British Prime Minister Keir Starmer will meet his Japanese counterpart Sanae Takaichi on Sunday as uncertainty mounts over their joint fighter jet program with Italy because of doubts about the UK’s commitment.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-meet-japan-s-takaichi-as-fighter-jet-funding-sputters",
+      "publishedAt": "Sun, 14 Jun 2026 05:02:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "4d366b97ef8ac7dad800865bc672b041"
+    },
+    {
+      "title": "湖州超级五电工厂落地，零跑奔赴百万销量制造突围",
+      "description": "<p style=\"margin-top: 0; margin-bottom: 0;\">汽车工业发展历史中，无论是早期的通用、丰田，还是当下的比亚迪，都以极高的自制比例赢得竞争主导权。</p><p style=\"margin-top: 0; margin-bottom: 0;\">现在，零跑也通过自研自制完成规模进阶。</p><p style=\"margin-top: 0; margin-bottom: 0;\">一年多前，零跑在湖州布局了一个50万平方米超级五电工厂，涵盖电池、电驱等五大核心零部件",
+      "url": "https://www.leiphone.com/category/transportation/Qf0Wvm27ZkWJU9M9.html",
+      "publishedAt": "Sat, 13 Jun 2026 17:28:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "9391eaab793c0c5ee8d10bdb3941455a"
+    },
+    {
+      "title": "This 28-year-old paid off her law school loans selling stickers and coloring books",
+      "description": "Elyse Burns started selling her art on Etsy when she turned 18. Now she's paid off her student loans and did nearly $5 million last year.",
+      "url": "https://www.cnbc.com/2026/06/13/paid-off-law-school-student-loans-art-business.html",
+      "publishedAt": "Sat, 13 Jun 2026 14:18:45 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0e738b661c749f99862c6d6615047a64"
+    },
+    {
+      "title": "Why the US Is Investing in Quantum Computing",
+      "description": "The Trump administration is making another move into venture-style investing, taking equity stakes in nine quantum computing companies. IBM, the largest recipient of the investment, thinks that quantum systems could eventually solve problems involvin",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-13/why-the-us-is-investing-in-quantum-computing-video",
+      "publishedAt": "Sat, 13 Jun 2026 14:05:21 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "745f58c445a04a1fe2d05934561cfceb"
+    },
+    {
+      "title": "SpaceX IPO sticks the landing. Here's what investors are saying about its epic first trading day",
+      "description": "Despite a large retail allocation and huge volume, volatility was moderate",
+      "url": "https://www.cnbc.com/2026/06/13/spacex-ipo-sticks-the-landing-heres-what-investors-are-saying-about-its-epic-first-trading-day.html",
+      "publishedAt": "Sat, 13 Jun 2026 13:37:31 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "9457bdfa09993a9188e969c272fc8096"
+    },
+    {
+      "title": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company",
+      "description": "Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.",
+      "url": "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html",
+      "publishedAt": "Sat, 13 Jun 2026 12:00:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "6108095796f7b05c4c7d42cc52c74854"
+    }
+  ]
+}
