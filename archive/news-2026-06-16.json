@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-06-16T04:57:40.414448",
+  "count": 20,
+  "news": [
+    {
+      "title": "ICML 2026：视觉自恢复 + 双奖励强化学习，提升受损图像理解",
+      "description": "<p>&nbsp;</p><section><p>原文作者：公众号“Today读什么”</p><p>原文链接：https://mp.weixin.qq.com/s/BrsWJJAv22qHVa_gfv2cpg</p><p><br /></p><p>一张照片被压缩、噪声、暗光和模糊破坏后，多模态模型仍然可以写出一段逻辑完整的分析。但分析越流畅，不代表它看到的证据越充分：车头朝向已经模糊，模型仍能解释车辆为何“直行”；公交车轮廓已经重叠，它依然可以自信地数出三辆。</p><p>过去的方法通常让视觉编",
+      "url": "https://www.leiphone.com/category/robot/6M1mEqgs9TxaZJaO.html",
+      "publishedAt": "Tue, 16 Jun 2026 10:48:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "cc5a4d5dbdbf4184a84799bb4952435a"
+    },
+    {
+      "title": "不到40元，深圳公司把大模型塞进毛绒玩具",
+      "description": "<p>如果把一类百元级 AI 毛绒玩具的方案拆开，你可能会发现：一块指甲盖大小的PCB板上，焊着一颗5mm×5mm的芯片、一个4G模组，以及一段预置了云端能力的代码。</p><p>以这类低成本 AI 玩具方案估算，芯片不到1美元，来自珠海泰芯；模组约 2 美元，来自利尔达；license约10元，来自百度智能云。电池、喇叭、棉花和触摸传感器再吃掉30-40元，整机BOM加起来不到80元。然后，它被贴上99元的价签，摆上深圳华强北的货架。</p><p>这就是深圳供应链交给AI硬件产业的“最低入场券",
+      "url": "https://www.leiphone.com/category/chips/NZxwhQZCCQGDF8Gi.html",
+      "publishedAt": "Tue, 16 Jun 2026 10:40:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "094c57a6836dd87c456926a81c2620c3"
+    },
+    {
+      "title": "马斯克Cybercab还没交卷，中国无人车已经卷到伦敦街头",
+      "description": "<p>顶尖F1赛车手在20岁夺冠前，大约需经过1.5万小时的针对性训练，这足以让他们在时速300公里的极速博弈中，本能般应对各种危险事况。</p><p>Robotaxi无需极速行驶，但训练量远超F1赛车手。马斯克曾断言，要实现无监督的自动驾驶，至少需积累约160亿公里的行驶数据，相当于在地月之间往返2万次。</p><p>在开放道路中任意地点接送乘客，并实时应对复杂未知路况，Robotaxi需要因此被普遍认为是自动驾驶技术的终极考验。</p><p>但到了2025年，这一叙事逻辑开始改变。Waymo",
+      "url": "https://www.leiphone.com/category/transportation/HlloRQ6X49gtUqXD.html",
+      "publishedAt": "Tue, 16 Jun 2026 10:29:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "5dfa439533617f752b14b089fc4717f1"
+    },
+    {
+      "title": "独家｜北大董豪：「仅停留在数据层面的Scaling Law，教不出通用机器人」",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260616/6a30b3ff36537.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/ABnmB3o4JHMsiCmW.html",
+      "publishedAt": "Tue, 16 Jun 2026 10:27:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "b429f527d80103d6ea9f037bbb2b0f01"
+    },
+    {
+      "title": "国内首个！具身数采「黑箱」正式开源，具身数据昂贵的时代结束了",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260616/6a30b2c1d78aa.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/VzC236xZ6HQob91z.html",
+      "publishedAt": "Tue, 16 Jun 2026 10:24:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "34d047ef4e8b8cc534b2c9d4bcb2a04a"
+    },
+    {
+      "title": "江湖已变，旧梦未改，吴甘沙的自动驾驶十年",
+      "description": "<p>港交所敲钟后的晚宴前，驭势科技团队翻出了一份旧文件。</p><p>那是公司2016年的第一版商业计划书，他们原本只是想从中挑几句话，作为上市晚宴回顾公司发展的素材，却发现，“AI司机”“全场景无人驾驶”，这些今天仍被驭势科技反复强调的词，十年前就已经写在计划书里。&nbsp;</p><p>第二天晚宴上，吴甘沙站在晚宴舞台上，背后的屏幕不断闪过这些关键词，台下高朋满座，觥筹交错。五位联合创始人仍然站在他身边，陪他一起从2016年走到了今天。&nbsp;</p><p>十年来，有人因技术难以落地",
+      "url": "https://www.leiphone.com/category/transportation/1esMB4Ogf5Qg0Xg9.html",
+      "publishedAt": "Tue, 16 Jun 2026 10:07:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "267e9e0d92cb64cc69b5c3abe8264d4e"
+    },
+    {
+      "title": "手机厂商即将杀入云台相机市场！大疆回应：欢迎良性竞争；腾讯参投林俊旸AI公司2000万美元；燧原科技IPO过会，GPU四小龙齐聚资本市场",
+      "description": "<section></section><section><section><section><section><section><section><section style=\"text-align: center;\"><span style=\"font-size: 24px;\"><strong><span style=\"text-align: justify;\">要闻提示</span></strong></span></section><section><section><br /></sec",
+      "url": "https://www.leiphone.com/category/zaobao/0CjtuLA0scX0iZQc.html",
+      "publishedAt": "Tue, 16 Jun 2026 08:42:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "8d739e47300ce9a9e25a2f56baf2272d"
+    },
+    {
+      "title": "Australia central bank keeps rates steady at 4.35% as inflation remains elevated",
+      "description": "In its statement, the RBA said that inflation was \"still too high,\" which warranted to keep the cash rate unchanged",
+      "url": "https://www.cnbc.com/2026/06/16/australia-central-bank-holds-rates-as-cpi.html",
+      "publishedAt": "Tue, 16 Jun 2026 04:55:35 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "38052b5e37b9792db4e325ac2b567b1c"
+    },
+    {
+      "title": "蓝色起源大爆炸背后：贝索斯不满落后 SpaceX，激进追赶付出代价",
+      "description": "<p>北京时间 6 月 19 日，英国《金融时报》周一发文称，蓝色起源创始人杰夫 · 贝索斯 (Jeff Bezos) 对于公司远远落后于 SpaceX 的现状感到恼火。于是，一向慢工出细活的蓝色起源开始加快缩小与 SpaceX 的差距，接着就发生了火箭大爆炸事故。这一事故以高昂的代价再次提醒人们：采取更加激进的发展策略是有风险的。</p><p style=\"text-align: center;\"><img alt=\"蓝色起源的火箭爆炸场景\" src=\"https://img.ithome.c",
+      "url": "https://www.ithome.com/0/964/754.htm",
+      "publishedAt": "Tue, 16 Jun 2026 04:55:21 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "45135a09c39e11918001ffbcee21e1d9"
+    },
+    {
+      "title": "英伟达员工考公上岸引热议，黄仁勋曾称“尽力给员工支付尽可能高的薪水”",
+      "description": "<p>IT之家 6 月 16 日消息，根据“合肥先锋”公众号 6 月 14 日发布的《<span class=\"js_title_inner\">合肥市 2026 年度考试录用公务员拟录用人员名单公示（三）</span>》，<strong>一位曾在英伟达半导体科技（上海）有限公司工作的男性“考公上岸”，入选拟录用人员名单</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.itho",
+      "url": "https://www.ithome.com/0/964/753.htm",
+      "publishedAt": "Tue, 16 Jun 2026 04:43:56 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "ed6848f1bc776780561c7298a2a6b872"
+    },
+    {
+      "title": "830kW 功率 + 三电机四驱 + 差速锁，吉利银河战舰 700 核心技术参数公布",
+      "description": "<p>IT之家 6 月 16 日消息，吉利银河今日通过官方社交平台发布了旗下全新中大型 SUV—— 银河战舰 700 的核心技术参数与产品定位。这款被定义为“AI 全地形硬核 SUV”的新车，计划年内正式上市。</p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/325ae9f3-46e5-4775-aabc-c41a02f124e",
+      "url": "https://www.ithome.com/0/964/751.htm",
+      "publishedAt": "Tue, 16 Jun 2026 04:36:36 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "03c5f8bd73aa4a8776fc2f33ae2f733d"
+    },
+    {
+      "title": "Bank of Japan hikes rates to 1%, highest since 1995, as yen and inflation worries take hold",
+      "description": "This is the BOJ's first hike since December, when it raised rates to its current level of 0.75%, also its highest level in over 30 years.",
+      "url": "https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html",
+      "publishedAt": "Tue, 16 Jun 2026 04:34:35 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "d5b12d1d383dda1eeb994d62e6e90ae0"
+    },
+    {
+      "title": "谷歌更新安卓开发最佳 AI 模型榜单：Gemini 3.5 Flash 成本最贵，约为 DeepSeek V4 Flash 的 17.5 倍",
+      "description": "<p>IT之家 6 月 16 日消息，谷歌昨日（6 月 15 日）更新其 Android Bench 榜单，<strong>自家 Gemini 3.5 Flash 模型成绩明显低于外界预期。</strong></p><p>IT之家注：Android Bench 是谷歌官方推出的安卓开发任务基准测试，用来评估不同 AI 模型在代码编写、问题解决与开发辅助方面的实际能力。</p><p>该测试更贴近真实开发场景，专门衡量 AI 模型完成安卓开发任务的能力，<strong>因此对开发者选择模型有较强参考",
+      "url": "https://www.ithome.com/0/964/750.htm",
+      "publishedAt": "Tue, 16 Jun 2026 04:21:56 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "f6c0dc7d3a71a4db45e253bd388ee628"
+    },
+    {
+      "title": "阿里巴巴发布首个具身智能大模型 Qwen-Robot 系列，为机器人打造手、脚、大脑通用底座",
+      "description": "<p>IT之家 6 月 16 日消息，阿里巴巴发布千问具身智能大模型 Qwen-Robot 系列，包含 VLA 操作模型 Qwen-RobotManip、VLN 移动模型 Qwen-RobotNav 和世界模型 Qwen-RobotWorld 三大模型。</p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/ca31857d-a059-4102-8f09",
+      "url": "https://www.ithome.com/0/964/748.htm",
+      "publishedAt": "Tue, 16 Jun 2026 04:21:21 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "77d27ec779d2c310dfcd8cb67c4c3a4a"
+    },
+    {
+      "title": "AI Re-Rating Fuels 550% Rally in Hong Kong’s Kingboard Laminates",
+      "description": "Kingboard Laminates Holdings Ltd. has rallied more than sixfold this year as investors bet the Chinese supplier to the printed circuit board industry will emerge as a key beneficiary of the AI buildout.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-16/ai-driven-re-rating-fuels-550-rally-in-kingboard-laminates",
+      "publishedAt": "Tue, 16 Jun 2026 04:19:34 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "cca3723b5ca897e0459d6ad6866daf95"
+    },
+    {
+      "title": "China economy weakens further in May as retail sales post first drop in over three years",
+      "description": "China's retail sales fell for the first time in more than three years in May, while urban investment contracted more than expected, adding to signs the economic slump deepened.",
+      "url": "https://www.cnbc.com/2026/06/16/china-economy-may-retail-sales-industrial-output-fixed-asset-investment-.html",
+      "publishedAt": "Tue, 16 Jun 2026 04:09:52 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "48d97b3d15a068dea826e99e99611f4b"
+    },
+    {
+      "title": "飞傲推出袖珍高音质外放 FM 收音机 RR13：搭机械夜光指针，349 元",
+      "description": "<p>IT之家 6 月 16 日消息，飞傲宣布推出一款“袖珍高音质外放 FM 收音机”RR13，其中黑色与银色版本率先于今天发售，<strong>定价为 349 元</strong>，红色及钛金色预计将于 9 月开售。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/VgOaMSC\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img",
+      "url": "https://www.ithome.com/0/964/742.htm",
+      "publishedAt": "Tue, 16 Jun 2026 03:44:40 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "22dabdd982199eecea1c30f06b0ca275"
+    },
+    {
+      "title": "国产修仙挂机游戏《我的修仙日志》上架 Steam，定价 15 元",
+      "description": "<p>IT之家 6 月 16 日消息，国产独立修仙挂机游戏《我的修仙日志》（Cultivation Journal）现已上架 Steam 平台，由 GameRich 独立开发并发行，<strong>国区定价为 15 元</strong>，支持完整简体中文（界面、字幕、音频均支持）。</p><p>IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/4748040/_Cultivation_Journal/\"><span class=\"lin",
+      "url": "https://www.ithome.com/0/964/741.htm",
+      "publishedAt": "Tue, 16 Jun 2026 03:43:00 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "337e073e4fe305e0dbfa628fb2a7e70e"
+    },
+    {
+      "title": "开源论坛软件 phpBB 曝身份认证绕过漏洞，官方发布 3.3.17 版本更新修复",
+      "description": "<p>IT之家 6 月 16 日消息，据 phpBB 通报，旧版 phpBB（包括 3.3.16 及之前所有 <span class=\"link-text-start-with-http\">3.x</span> 版本，以及 4.0.0-a2 之前的全部 <span class=\"link-text-start-with-http\">4.x</span> 测试版本）均含有一项身份认证绕过漏洞，黑客可利用漏洞直接登录任意用户账号（甚至包括论坛管理员账号），<strong>目前官方已发布 3.3.17",
+      "url": "https://www.ithome.com/0/964/740.htm",
+      "publishedAt": "Tue, 16 Jun 2026 03:38:54 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "53c4d4682a3d7c0add4c344eced2b52f"
+    },
+    {
+      "title": "股东起诉微软：淡化 AI 基建成本、掩盖 Azure 增速放缓",
+      "description": "<p>IT之家 6 月 16 日消息，路透社昨日（6 月 15 日）发布博文，报道称基于本周提交至美国西雅图联邦法院的集体诉讼起诉书，<strong>股东指控微软淡化 AI 基础设施成本，以及掩盖 Azure 增速放缓。</strong></p><p>该诉讼由位于密歇根州的圣克莱尔海岸警察和消防退休系统（City of St. Clair Shores Police and Fire Retirement System）发起，代表其他购买了微软股票的投资者，向西雅图联邦法院对微软及部分高管（含 ",
+      "url": "https://www.ithome.com/0/964/738.htm",
+      "publishedAt": "Tue, 16 Jun 2026 03:37:01 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "dc4f4a295928e42205743b7c911efb2c"
+    }
+  ]
+}
