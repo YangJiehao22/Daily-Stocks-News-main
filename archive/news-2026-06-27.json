@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-06-27T03:55:13.100702",
+  "count": 20,
+  "news": [
+    {
+      "title": "US Chip Stocks Plunge as AI Selloff Ripples Across From Asia",
+      "description": "A global selloff in the shares of chipmakers dragged US indexes sharply lower amid doubts about the sustainability of the AI-fueled tech rally. Katherine Kostereva, CEO, Creatio joined Bloomberg Businessweek Daily to discuss.  (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-23/chip-stocks-sink-as-ai-selloff-ripples-across-from-asia-video",
+      "publishedAt": "Tue, 23 Jun 2026 20:01:29 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "274cc370468fc28f2bf7f3253116c572"
+    },
+    {
+      "title": "Consumer is Feeling 'A Lot of Pressure' But Bed Bath & Beyond Sees Upside",
+      "description": "Amy Sullivan, CEO of Bed Bath & Beyond, said that consumers are feeling 'a lot of pressure' but that company's outlook is that if they can do business at a low point there is a high upside to come. Sullivan also talked about Bed Bath & Beyond's effor",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-25/bed-bath-beyond-sees-upside-amid-consumer-pressure-video",
+      "publishedAt": "Thu, 25 Jun 2026 21:29:44 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "480264f46d3d2f288fe934dc54c6bff0"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "外媒在 AMD RDNA 3 显卡上测试：FSR 4.1 超分比 3.1 最多慢 14.5%",
+      "description": "<p>IT之家 6 月 27 日消息，科技媒体 ComputerBase 测试显示，在 RDNA 3 显卡平台上测试 9 款游戏，发现相比较 FSR 3.1 超分技术，FSR 4.1 在质量模式下帧率低 11%，性能模式低 14.5%。</p><p>IT之家注：<a href=\"https://www.ithome.com/0/967/269.htm\" target=\"_blank\">FSR 4.1 是 AMD 推出的新一代图像超分技术</a>，通过较低分辨率渲染画面，再重建出更高分辨率图像，以",
+      "url": "https://www.ithome.com/0/969/336.htm",
+      "publishedAt": "Sat, 27 Jun 2026 03:49:58 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "9a543d659f6e82f87726dd24af4cde16"
+    },
+    {
+      "title": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
+      "description": "<p>IT之家 6 月 27 日消息，阿里旗下千问输入法 macOS 版今日已上线官网，官方预告 iOS 版、<span class=\"platform-item\">Android 版、Windows 版将于近日发布。</span></p><p><span class=\"platform-item\">官网显示，该产品号称“说完即成稿”，<strong>支持</strong><strong>最快 300 字 / 分</strong>，AI 自动润色，说话秒变工整文字。支持 9 种方言，纯净无广告。",
+      "url": "https://www.ithome.com/0/969/334.htm",
+      "publishedAt": "Sat, 27 Jun 2026 03:39:06 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "3816cdef75b73499838f0c896f4fb305"
+    },
+    {
+      "title": "马斯克称 IBM“0.7 纳米芯片”命名有误导性，认为制程节点应按原子数量命名",
+      "description": "<p>IT之家 6 月 27 日消息，据科技媒体 Wccftech 昨天报道，亿万富翁埃隆 · 马斯克认为，IBM 前天公布的“0.7 纳米芯片”命名具有误导性质，并不能反映晶体管的真实尺寸。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/c469972a-52e2-4ee8-aa8e-537a264d503d.jpg?x-bce-process=image/fo",
+      "url": "https://www.ithome.com/0/969/333.htm",
+      "publishedAt": "Sat, 27 Jun 2026 03:28:27 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "8d05686735a15b577fb302531c61b656"
+    },
+    {
+      "title": "Steam Machine 短期难降价：Valve 称期望该硬件越便宜越好",
+      "description": "<p>IT之家 6 月 27 日消息，在接受数毛社（Digital Foundry）采访时，Valve 工程师表示如果未来内存和存储等零部件成本回落，<strong>旗下 Steam Machine 游戏主机价格也会下调，但短期内几乎看不到降价可能。</strong></p><p>在接受采访时，皮埃尔-卢 · 格里菲斯（Pierre-Loup Griffais）和亚赞 · 阿尔德哈亚特（Yazan Aldehayyat）表示，只要未来零部件价格下降，Valve 愿意下调 Steam Machin",
+      "url": "https://www.ithome.com/0/969/329.htm",
+      "publishedAt": "Sat, 27 Jun 2026 03:03:48 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "ae18184cefc4ec45dedb288b86fd18c3"
+    },
+    {
+      "title": "阿维塔 07L 内饰 6 月 29 日亮相：华为鸿蒙座舱，新车 7 月发布",
+      "description": "<p>IT之家 6 月 27 日消息，阿维塔昨日宣布，阿维塔 07L 内饰开箱直播将于 6 月 29 日 15:00 举行。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/7def469d-37b4-4555-bb96-59bb276a2469.jpg\" /></p><p>在此之前，官方已公布这款新车的内饰官图。据悉，该车搭载",
+      "url": "https://www.ithome.com/0/969/327.htm",
+      "publishedAt": "Sat, 27 Jun 2026 02:52:31 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "2d75538884501502ca110ecf406c7075"
+    },
+    {
+      "title": "苹果 iPhone 18 Pro 芯片 A20 Pro 爆料：更强散热和 NPU，支持 96-bit 位宽 LPDDR6 内存",
+      "description": "<p>IT之家 6 月 27 日消息，消息源 @Reptalicant 昨日（6 月 26 日）在 X 平台发布推文，分享了苹果 iPhone 18 Pro 主板信息，<strong>显示 A20 Pro 芯片将采用 WMCM 封装，替代 A19 Pro 芯片所采用的 PoP 方案。</strong></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfi",
+      "url": "https://www.ithome.com/0/969/326.htm",
+      "publishedAt": "Sat, 27 Jun 2026 02:51:14 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "6cd4557296f3cca14620122551be64b8"
+    },
+    {
+      "title": "苹果 iOS 27 Beta 2 固件代码曝光，百度视觉搜索组件现身",
+      "description": "<p>IT之家 6 月 27 日消息，科技媒体 One Jailbreak 本周（6 月 23 日）发布博文，对苹果 iOS 27 Beta 2 固件进行深入分析。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/3ac788d2-7014-42c0-9521-0fdbd47a97e0.png?x-bce-process=ima",
+      "url": "https://www.ithome.com/0/969/321.htm",
+      "publishedAt": "Sat, 27 Jun 2026 02:17:48 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "d88967112ee87e7a7f59b90a37cb2069"
+    },
+    {
+      "title": "雷柏 VT7 / VT7s Air MAX V2 鼠标发售：双端 nRF54LM20，原相 PAW3955",
+      "description": "<p>IT之家 6 月 27 日消息，雷柏 (RAPOO) 昨日宣布，其鼠标新品 VT7 Air MAX V2 与 VT7s Air MAX V2 正式发售。这两款产品双端配备 Nordic nRF54LM20 SoC，<strong>采用原相 PAW3955 Ultimate 传感器</strong>，售价均为 299 元。</p><p>两款鼠标均适配全握姿，其中 <strong>VT7 Air MAX V2 采用大手型右手人体工学对称模具</strong>，标称质量 49±2g；<stron",
+      "url": "https://www.ithome.com/0/969/320.htm",
+      "publishedAt": "Sat, 27 Jun 2026 02:17:03 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "39dfdfaa38096f3de610361cccf23cf6"
+    },
+    {
+      "title": "Anthropic 测试手机端 Claude Cowork，支持远程管理 AI 长任务",
+      "description": "<p>IT之家 6 月 27 日消息，科技媒体 bleepingcomputer 昨日（6 月 26 日）发布博文，报道称 Anthropic 正测试移动端 Claude Cowork，用户可直接在手机上发起并调整任务。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/53d79079-f241-4835-87eb-046876",
+      "url": "https://www.ithome.com/0/969/319.htm",
+      "publishedAt": "Sat, 27 Jun 2026 02:08:40 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "5d0c057902866b46badf9e69c67501f2"
+    },
+    {
+      "title": "我国核聚变堆超导磁体研发取得重要突破，全球最大环向场磁体完成验收",
+      "description": "<p>IT之家 6 月 27 日消息，据央视新闻报道，今天，国家重大科技基础设施“聚变堆主机关键系统综合研究设施”最大的超导部件 ——<span class=\"color-0070c0\"><strong> 环向场磁体</strong></span>完成最后制备工艺，并通过专家验收。同时，<span class=\"color-0070c0\"><strong>高温超导中心螺管线圈磁体</strong></span>也完成满工况参数测试，核心性能达到国际领先水准。</p><p style=\"text-",
+      "url": "https://www.ithome.com/0/969/318.htm",
+      "publishedAt": "Sat, 27 Jun 2026 02:07:57 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "a9149597b8b78a82254b46e8239ed031"
+    },
+    {
+      "title": "China’s Industrial Profit Gains Dip in Sign of Economic Weakness",
+      "description": "The increase in China’s industrial profits softened for the first time since November, suggesting that strong exports and price gains failed to offset the drag from tepid domestic demand.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/china-s-industrial-profit-gains-dip-in-sign-of-economic-weakness",
+      "publishedAt": "Sat, 27 Jun 2026 01:57:29 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "5b053890ca48206e04fffbe9cc44ae9a"
+    },
+    {
+      "title": "马斯克公开发声支持苹果 CEO 库克：内存涨价幅度“前所未见”",
+      "description": "<p>IT之家 6 月 27 日消息，埃隆 · 马斯克昨日在 X 平台发文称，苹果首席执行官蒂姆 · 库克向《华尔街日报》表示，内存短缺是百年一遇的洪灾，并称自己在 40 多年的职业生涯中，从未在任何行业见过类似情形。</p><p>马斯克认可了库克的观点，<strong>并表示：“这绝对是我这辈子见过，涨价幅度最大的一次”</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsupload",
+      "url": "https://www.ithome.com/0/969/314.htm",
+      "publishedAt": "Sat, 27 Jun 2026 01:56:34 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "fd1f8f9c46095199e3908f1f34b67b15"
+    },
+    {
+      "title": "消息称荣耀新机量产线测试 12000mAh 电池，实验室评估最大 14000mAh±",
+      "description": "<p>IT之家 6 月 27 日消息，博主 @数码闲聊站 今日爆料称，荣耀直板机的硅含量也在冲 30％，<strong>量产线测试有 12000mAh</strong>，实验室评估最大 14000mAh±，短期内应该不会有手机厂商超过它。除非，另一家头部大厂的新电池体系落地。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/08",
+      "url": "https://www.ithome.com/0/969/313.htm",
+      "publishedAt": "Sat, 27 Jun 2026 01:52:22 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "f2f88159939047fbb6a40a1ffc3f3cd2"
+    },
+    {
+      "title": "《纽约时报》更新诉状，指控微软定制超算助 OpenAI 训练 AI 模型",
+      "description": "<p>IT之家 6 月 27 日消息，科技媒体 Ars Technica 昨日（6 月 26 日）发布博文，报道称《纽约时报》更新诉状，<strong>指控微软为 OpenAI 定制超算系统，在未经其许可情况下，爬取受版权保护作品训练 AI 大语言模型。</strong></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/8045",
+      "url": "https://www.ithome.com/0/969/312.htm",
+      "publishedAt": "Sat, 27 Jun 2026 01:46:13 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "1333210a692641268d827f1ab8b5966c"
+    },
+    {
+      "title": "国家统计局：电子行业利润 1-5 月增长 103.9%，AI 驱动高端算力 / 存储芯片需求爆发",
+      "description": "<p>IT之家 6 月 27 日消息，今日，国家统计局工业司首席统计师于卫宁解读 2026 年 1—5 月份工业企业利润数据，IT之家整理主要内容如下：</p><p><strong>工业企业利润保持较快增长</strong>。1—5 月份，工业生产较快增长叠加工业品价格涨幅扩大，推动全国规模以上工业企业营业收入同比增长 5.5%，较 1—4 月份加快 0.3 个百分点。规模以上工业企业营收稳定增长，带动全国规模以上工业企业利润同比增长 18.8%，较 1—4 月份加快 0.6 个百分点，规模以上",
+      "url": "https://www.ithome.com/0/969/311.htm",
+      "publishedAt": "Sat, 27 Jun 2026 01:43:18 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "bb915b5a20d1540effa44b546af91c95"
+    }
+  ]
+}
