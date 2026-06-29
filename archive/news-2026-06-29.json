@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-06-29T04:24:10.221346",
+  "count": 20,
+  "news": [
+    {
+      "title": "Apple posts worst day in over a year after MacBook and iPad price hikes",
+      "description": "Tim Cook said last week that Apple would hike prices due to surging memory and storage costs.",
+      "url": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
+      "publishedAt": "Thu, 25 Jun 2026 20:06:37 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "cb538c5c3dd547d5436b69aac13f9ef7"
+    },
+    {
+      "title": "Samsung, SK Ready Decade of Spending to Sustain Korea’s AI Lead",
+      "description": "South Korea is set to unveil an ambitious plan aimed at cementing its status as a technological powerhouse, with companies led by Samsung Electronics Co. and SK Hynix Inc. expected to announce a decade of large-scale investments in memory chips, data",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/samsung-sk-reportedly-to-invest-1-3-trillion-over-10-years",
+      "publishedAt": "Sun, 28 Jun 2026 23:17:04 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "e929b8dba0478127b7f7c82be930c46a"
+    },
+    {
+      "title": "China, India See Top Firms Lose Market Cap Share in AI Lag",
+      "description": "China, India, and Hong Kong have emerged as the only major stock markets worldwide where top companies account for a smaller share of market capitalization than a year ago, underscoring their lag in the global AI race.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/china-india-see-top-firms-lose-market-cap-share-in-ai-lag",
+      "publishedAt": "Sun, 28 Jun 2026 23:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "fed510944021bbce8bc114fe3cc3f42a"
+    },
+    {
+      "title": "Animation’s AI Reckoning: Filmmakers Say They Can Make Movies for 90% Less",
+      "description": "Some animators believe AI will make films better. Others believe it will bring costs down.",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-28/animation-s-ai-reckoning-filmmakers-say-they-can-make-movies-for-90-less",
+      "publishedAt": "Sun, 28 Jun 2026 22:30:01 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "585f1cf3d49535e8ddfd2cdf0994bf79"
+    },
+    {
+      "title": "Everything tied to the data center is suddenly suspect. Can Big Tech fix it?",
+      "description": "The hyperscalers are just beginning to figure out the consequences of the AI arms race, and now everyone seems to be against them.",
+      "url": "https://www.cnbc.com/2026/06/28/cramer-the-data-center-is-suddenly-suspect-can-big-tech-fix-it.html",
+      "publishedAt": "Sun, 28 Jun 2026 22:09:47 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "29887b5c23d8ec268b03b2eed446f2da"
+    },
+    {
+      "title": "BlueBay Sees Near-Term Risk in Japan AI Stocks Followed by Rally",
+      "description": "RBC BlueBay Asset Management remains bullish on Japanese AI-related stocks, expecting the rally to extend into 2027, while trimming near-term risk ahead of a potential slowdown in July and August.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/bluebay-sees-near-term-risk-in-japan-ai-stocks-followed-by-rally",
+      "publishedAt": "Sun, 28 Jun 2026 22:00:07 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "fcb486ced15fa33c99f79c2554139db1"
+    },
+    {
+      "title": "Chinese Spies, Smuggled Drugs Fuel Takaichi’s Security Push",
+      "description": "Chinese spies stealing Japanese industrial secrets in boardrooms. Chip smugglers ferrying Nvidia’s prized artificial intelligence semiconductors via Japan. Drug gangs quietly slipping fentanyl across Japan’s borders to a US opioid crisis.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/chinese-spies-smuggled-drugs-fuel-takaichi-s-security-push",
+      "publishedAt": "Sun, 28 Jun 2026 22:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9f1bb365a926557e5f7cda382d54c3de"
+    },
+    {
+      "title": "America can't get enough of protein. The dairy industry can't keep up",
+      "description": "Demand for whey protein is off the charts as American diet trends change and GLP-1s boom, and the dairy industry is struggling to produce enough.",
+      "url": "https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html",
+      "publishedAt": "Sun, 28 Jun 2026 21:35:15 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "e600ff9a32a5ad231414c599a35fe729"
+    },
+    {
+      "title": "AI Startup Firmus to Build Indonesia Data Center With Nvidia",
+      "description": "Firmus Technologies Pty Ltd. will build its first data center project in Indonesia as part of a partnership with US chip giant Nvidia Corp., which the Australian artificial intelligence infrastructure firm said is expected to win it as much as $30 bi",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-startup-firmus-to-build-indonesia-data-center-with-nvidia",
+      "publishedAt": "Sun, 28 Jun 2026 14:01:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "dabdae47a1216f9ef47a08f0cd46a833"
+    },
+    {
+      "title": "Apple’s Sweeping Price Increases Bring Home the Costs of the AI Era",
+      "description": "The latest on the smart glasses competition.",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-28/apple-s-sweeping-price-hikes-bring-the-ai-era-home-m6-m7-touch-macbook-pro",
+      "publishedAt": "Sun, 28 Jun 2026 14:00:01 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "30cad7c8b9cd13b385fcc3716e94710c"
+    },
+    {
+      "title": "Europe’s Hunt for AI Stocks Leads to Power Suppliers and Banks",
+      "description": "Investors who want additional exposure to artificial intelligence in Europe are getting creative, searching out companies that enable the technology or stand to benefit from it as the usual suspects get more pricey.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/europe-s-hunt-for-ai-stocks-leads-to-power-suppliers-and-banks",
+      "publishedAt": "Sun, 28 Jun 2026 11:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "5a7cf1d5961cff857d8d2eb58045931b"
+    },
+    {
+      "title": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports",
+      "description": "Google has placed limits on Meta Platforms Inc.’s use of its Gemini artificial intelligence models because it could not provide as much computing capacity as the social media company wanted, according to the Financial Times.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/google-caps-meta-s-use-of-gemini-ai-financial-times-reports",
+      "publishedAt": "Sun, 28 Jun 2026 09:02:14 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "2dfa89e36d2e6f699e2edb35f11ae604"
+    },
+    {
+      "title": "AI Bust Risks Ripple Effects From Growth to Credit, BIS Says",
+      "description": "An artificial-intelligence bust, inflation and fiscal stress are among the most alarming threats to global prosperity at present, the Bank for International Settlements warned.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-bust-risks-ripple-effects-from-growth-to-credit-bis-says",
+      "publishedAt": "Sun, 28 Jun 2026 09:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "8c8d5babb26d389d317db0c1ee22dad9"
+    },
+    {
+      "title": "OpenAI Hires Uber’s Prabhjeet Singh to Lead India Operations",
+      "description": "OpenAI appointed Uber Technologies Inc.’s former India and South Asia President Prabhjeet Singh as its managing director for the country, deepening its investment in one of its fastest-growing markets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/openai-hires-uber-s-prabhjeet-singh-to-lead-india-operations",
+      "publishedAt": "Sun, 28 Jun 2026 07:27:48 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "3fb05d20785941ca69a82cec8a580540"
+    },
+    {
+      "title": "Tencent Trials TenPayGo Pay App as Foreign Visits to China Rise",
+      "description": "Tencent Holdings Ltd. is testing an app aimed at helping overseas visitors navigate daily life in China, Jiemian News reported on Sunday.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/tencent-trials-tenpaygo-pay-app-as-foreign-visits-to-china-rise",
+      "publishedAt": "Sun, 28 Jun 2026 05:30:41 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "e4f7091eb93e3df617313f61eb1d809e"
+    },
+    {
+      "title": "安全预警系统，看不见的滴滴「基建」",
+      "description": "<p>近日，滴滴在成都办了一场安全开放日，多个司机、乘客、行业专家和媒体被邀请走进滴滴安全预警中心，现场体验一线安全专家如何听音、研判和干预订单风险。</p><p>这也是滴滴少有地把网约车安全后台摊开给外界看。</p><p>滴滴创始人、CEO、集团安委会主任程维在活动中表示，保障每天数千万订单的安全，是滴滴身上的责任。滴滴安全体系已经迭代多次，但仍然“还在路上”。他希望通过开放日，让外界看到滴滴如何做安全，也给平台提出更多意见。</p><p>网约车安全和常规互联网推荐系统不同。</p><p>推荐",
+      "url": "https://www.leiphone.com/category/transportation/82QuHqwY9evsX0cS.html",
+      "publishedAt": "Sun, 28 Jun 2026 00:54:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "c64f758dabd75af978ab85d3e2349e48"
+    },
+    {
+      "title": "AI Fever Powers HK Share Sales Through Hurdles to Five-Year High",
+      "description": "Hong Kong share sales surged to a five-year high in the first half of 2026 as investor enthusiasm around the artificial intelligence boom overpowered the drag of a sluggish equity market and regulatory headwinds.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high",
+      "publishedAt": "Sun, 28 Jun 2026 00:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "27040dde71b41a6b3b4b4c8b85b558e1"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    }
+  ]
+}
