@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-01T04:23:05.518937",
+  "count": 20,
+  "news": [
+    {
+      "title": "Agilent CEO on Business Strategy, Innovation",
+      "description": "Padraig McDonnell, President and CEO at Agilent, discusses the company's business strategy and the innovations he sees in the life sciences sector. He speaks with Minmin Low from the sidelines of the World Economic Forum in Dalian. (Source: Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-01/agilent-ceo-on-business-strategy-innovation-video",
+      "publishedAt": "Wed, 01 Jul 2026 04:06:11 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "3ac641f16f3281f6d5aea05a193d8376"
+    },
+    {
+      "title": "A Giant Cable Exposes Ireland's AI Ambitions and Security Risks",
+      "description": "<p>A new Amazon transatlantic&nbsp;fiber-optic link is symbolic of the country’s tech economy, but&nbsp;also of its chronic&nbsp;lack of defense spending.</p>",
+      "url": "https://www.bloomberg.com/news/features/2026-07-01/amazon-cable-shows-ireland-s-status-as-ai-hub-and-highlights-security-risk",
+      "publishedAt": "Wed, 01 Jul 2026 04:00:21 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "58f5cb5bc5556975a9adba4fb844fb5a"
+    },
+    {
+      "title": "Vertiv Opens Malaysia Plant to Meet AI Data Centers’ Power Needs",
+      "description": "US data center equipment maker Vertiv Holdings Co. opened a factory in Malaysia, underscoring the rapid pace of AI infrastructure buildout in the Asia Pacific.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/vertiv-opens-malaysia-plant-to-meet-ai-data-centers-power-needs",
+      "publishedAt": "Wed, 01 Jul 2026 04:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "b1eb9839d2411f4ac9272598daf91cd4"
+    },
+    {
+      "title": "Japan Investment Corp.'s Hata on AI, Strategic Sectors",
+      "description": "Yuka Hata, Senior Managing Director & Head of Fund Investments at Japan Investment Corporation, says demand for capital is growing as Japan shifts its focus toward physical AI and deep technologies. She adds that Japan’s labor shortages have heighten",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-01/japan-investment-corp-s-hata-on-ai-strategic-sectors-video",
+      "publishedAt": "Wed, 01 Jul 2026 03:34:37 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "ff9b7a5fdab9b4e2a561115fc7287fca"
+    },
+    {
+      "title": "Iran says it is selling oil at 20% premium as end of U.S. blockade sees 40 million barrels exported",
+      "description": "The ceasefire prompted a surge in crude shipments through the Strait of Hormuz, where traffic had largely ground to a halt during the conflict.",
+      "url": "https://www.cnbc.com/2026/07/01/iran-us-mou-negotiation-war-oil-exports-strait-of-hormuz-.html",
+      "publishedAt": "Wed, 01 Jul 2026 02:51:58 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "817048357b57724cab778589e035b773"
+    },
+    {
+      "title": "CNBC Daily Open: AI demand fuels investors' portfolios while oil posts biggest monthly decline",
+      "description": "The tech space continues to be fueled by rising artificial intelligence demand, with investors piling their portfolios in the technology, while Amazon Web Services dabbles with Forward Deployed Engineering units to better compete with  OpenAI and Ant",
+      "url": "https://www.cnbc.com/2026/07/01/cnbc-daily-open-ai-demand-fuels-investors-portfolio-while-oil-posts-biggest-monthly-decline.html",
+      "publishedAt": "Wed, 01 Jul 2026 02:23:55 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "063338663e0ed9d8a0952a775bbfa0b7"
+    },
+    {
+      "title": "Panasonic Targets Further AI Growth to Build on Record Valuation",
+      "description": "Panasonic Holdings Corp., the Japanese electronics conglomerate, is attracting renewed investor attention as a beneficiary of the artificial-intelligence boom.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/panasonic-targets-further-ai-growth-to-build-on-record-valuation",
+      "publishedAt": "Wed, 01 Jul 2026 01:57:24 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "167971d8615477ef4b0030011150bfa5"
+    },
+    {
+      "title": "Uber-Backed Bike Firm Lime, Investors Raise $174 Million in IPO",
+      "description": "Neutron Holdings Inc., better known as Lime, and some of its shareholders raised $174 million in a US initial public offering that priced at the midpoint of the marketed range.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/uber-backed-lime-investors-said-to-price-ipo-at-25-per-share",
+      "publishedAt": "Wed, 01 Jul 2026 00:29:44 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "6171efbf402a5db3f8b8c6cab25f3d8e"
+    },
+    {
+      "title": "Vimeo Parent Bending Spoons, Backers Raise $1.68 Billion in IPO",
+      "description": "Bending Spoons SpA, which acquires struggling software businesses, and some of its backers raised $1.68 billion in a US initial public offering priced above a marketed range.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/vimeo-parent-bending-spoons-backers-raise-1-68-billion-in-ipo",
+      "publishedAt": "Wed, 01 Jul 2026 00:05:22 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "8d95e5e2ca357b254607952af9ba8e4d"
+    },
+    {
+      "title": "US Lifts Export Restrictions on Anthropic’s Fable 5 AI Model",
+      "description": "The US government removed foreign access restrictions on Anthropic PBC’s Fable 5 artificial intelligence model, clearing it for wider distribution after the startup resolved the Trump administration’s safety concerns.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/us-government-lifts-restrictions-on-anthropic-s-fable-5-model",
+      "publishedAt": "Tue, 30 Jun 2026 23:55:28 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "28a0c0540ad6fd4f08a8e494cfcc7e64"
+    },
+    {
+      "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
+      "description": "Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.",
+      "url": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
+      "publishedAt": "Tue, 30 Jun 2026 23:27:41 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "df9b59d6f5af99ff7fb6b7110065cdd3"
+    },
+    {
+      "title": "Trump's annual financial disclosure shows more than $580M in crypto-related income",
+      "description": "Trump's 927-page financial disclosure report for 2025 totals more than 900 pages detailing holdings in cryptocurrency and stocks.",
+      "url": "https://www.cnbc.com/2026/06/30/trump-financial-disclosure-released.html",
+      "publishedAt": "Tue, 30 Jun 2026 22:53:43 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "c4588dc50c47048204fee61917adb4c4"
+    },
+    {
+      "title": "Oaktree Capital-Backed ITG Raises $312.2 Million in US IPO",
+      "description": "Digital infrastructure services firm ITG Inc. raised $312.2 million in a US initial public offering, pricing its shares below a marketed range.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-30/oaktree-capital-backed-itg-raises-312-2-million-in-us-ipo",
+      "publishedAt": "Tue, 30 Jun 2026 22:51:53 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "3ca2c9ba176287d97143d9c0e83e6df7"
+    },
+    {
+      "title": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in second quarter",
+      "description": "Wall Street poured into chipmakers not named Nvidia in the second quarter, as the artificial intelligence boom expanded to include more suppliers.",
+      "url": "https://www.cnbc.com/2026/06/30/ai-chip-rally-in-q2-adds-2-trillion-in-value-to-micron-intel-amd-.html",
+      "publishedAt": "Tue, 30 Jun 2026 22:43:23 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "4bb95a055e6d65d59790bab63a7fc1aa"
+    },
+    {
+      "title": "Nike Earnings Surpass Expectations as Q2 Comes to a Close | The Close 6/30/2026",
+      "description": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are BlackRock Global Co-Head of iShares Fixed Income ETFs Steve Laipply, BNY Hea",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-30/the-close-6-30-2026-video",
+      "publishedAt": "Tue, 30 Jun 2026 22:32:24 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "b92fc58ece49cf7bae4ea1bdac262095"
+    },
+    {
+      "title": "Social Security gender gap means women receive about $4,800 less in annual benefits. What to know before claiming",
+      "description": "Women tend to earn less and spend more time outside of the workforce, which may reduce their Social Security benefits. Here's what to consider before claiming.",
+      "url": "https://www.cnbc.com/2026/06/30/social-security-gender-gap-women-get-4800-less-in-annual-benefits.html",
+      "publishedAt": "Tue, 30 Jun 2026 22:30:32 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "762c241bb5be56f7f4f5fe07e9ac2ceb"
+    },
+    {
+      "title": "Jim Cramer says the AI trade has shifted — and these stocks are leading now",
+      "description": "CNBC's Jim Cramer said Wall Street is rewarding the companies supplying the artificial intelligence boom rather than the technology giants funding it.",
+      "url": "https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html",
+      "publishedAt": "Tue, 30 Jun 2026 22:24:43 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "b2c781afceb3690fec7fd8bf6f41f2cd"
+    },
+    {
+      "title": "Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund",
+      "description": "Nike was expected to report another quarter of declining sales as the sneaker giant struggles to regain strength under its turnaround strategy.",
+      "url": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
+      "publishedAt": "Tue, 30 Jun 2026 22:07:27 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "fef7653a411bc347745bb5fadc592107"
+    },
+    {
+      "title": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
+      "description": "\"Caterpillar jumped out at me,\" Burry said. \"I have never shorted Caterpillar. It has always done great for me on the long side in the past.\"",
+      "url": "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html",
+      "publishedAt": "Tue, 30 Jun 2026 22:03:46 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "6e02b16f160c45148fea529758f6b2c5"
+    },
+    {
+      "title": "Nike Succession in Focus With New CFO Ready To Take Helm",
+      "description": "Jeff Christian, Founder and CEO of Executive Search firm Christian & Timbers, discusses Nike's strategic shift following the completion of its CEO transition. He highlights that the company is now in 'proof mode,' emphasizing execution and delivering",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-30/nike-succession-in-focus-with-new-cfo-ready-to-take-helm-video",
+      "publishedAt": "Tue, 30 Jun 2026 21:59:29 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "f5936d8dab0ce44a312f88574595d536"
+    }
+  ]
+}
