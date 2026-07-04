@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-04T03:36:27.804962",
+  "count": 20,
+  "news": [
+    {
+      "title": "物理 AI 到来，移动网络该如何进化？",
+      "description": "<p>过去一年，几乎所有人都在追问同一个问题： AI 大模型还能变得多聪明？Agent、多模态、端侧部署，构成了 AI 产业最热闹的叙事。</p><p>但当 AI 开始进入眼镜、汽车、机器人、摄像头这些物理载体，开始在道路、工厂、家庭和人类交互之后，我们发现，现实世界和 AI 大模型之间，还有最后一公里的路没有打通。</p><p>AI 眼镜要识别眼前的文字，Robotaxi 要判断周围路况，机器人要决定下一步动作。它们依赖的不只是算法，也包括图像、语音、位置、空间关系、设备状态和环境变化等数据。",
+      "url": "https://www.leiphone.com/category/industrynews/CpoGYmsPl9BAuO0W.html",
+      "publishedAt": "Wed, 01 Jul 2026 22:05:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "d0cc34be3f82e6f268125a3679a1a95e"
+    },
+    {
+      "title": "Chip Industry Urges US to Avoid Moves That Distort Memory Market",
+      "description": "Government attempts to address the global memory chip shortage by influencing prices or production capacity would worsen a historic squeeze on supply driven by the artificial intelligence boom, a semiconductor industry group warned the Trump administ",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/chip-industry-urges-us-to-avoid-moves-that-distort-memory-market",
+      "publishedAt": "Thu, 02 Jul 2026 23:59:59 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "dcea1db72121eb50bf519a5cbd2921fa"
+    },
+    {
+      "title": "Kioxia Ships Next-Gen AI Memory Samples to Get Ahead of Rivals",
+      "description": "Kioxia Holdings Corp. has started shipping samples of its next-generation flash memory chips to AI data center operators, seeking to gain ground in the lucrative business against rivals.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/kioxia-ships-samples-of-newest-flash-memory-for-ai-data-centers",
+      "publishedAt": "Thu, 02 Jul 2026 23:53:47 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "0aa567c167a94c83d18dfb8e188f8165"
+    },
+    {
+      "title": "Hong Kong Rises as Crucial Node in Asia’s $2 Trillion AI Trade",
+      "description": "Hong Kong has become a vital conduit for high-tech products moving in and out of China, emerging as one node in a $2 trillion network of Asian trade fueled by a global boom in artificial intelligence.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/booming-ai-chip-trade-seals-hong-kong-s-role-as-gateway-to-china",
+      "publishedAt": "Thu, 02 Jul 2026 23:30:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "77c96b993ae9675b9456b3fb746a848d"
+    },
+    {
+      "title": "5 takeaways from President Donald Trump's interview with CNBC",
+      "description": "The president defended his family's business and said he feels bad that the presidency creates a conflict of interest in any of his children's investments.",
+      "url": "https://www.cnbc.com/2026/07/02/5-takeaways-from-president-donald-trumps-interview-with-cnbc.html",
+      "publishedAt": "Thu, 02 Jul 2026 23:20:58 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "2e8b95276f3bb4b9ce62a0fefd1f0f72"
+    },
+    {
+      "title": "China Quant Funds Draw Billions as AI Trounces Human Traders",
+      "description": "Quant funds in China have become so popular that they are being deluged with investors’ money.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/china-quant-funds-draw-billions-as-ai-trounces-human-traders",
+      "publishedAt": "Thu, 02 Jul 2026 23:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "e84dd365edbad8593e5c36e4b9c6fe75"
+    },
+    {
+      "title": "Trump Says He Wants AI Guardrails, But ‘As Little as Possible’",
+      "description": "President Donald Trump said he sees the need for some standards on artificial intelligence technology, but wants to avoid burdensome restrictions that may hamper American companies competing with China.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/trump-says-he-wants-ai-guardrails-but-as-little-as-possible",
+      "publishedAt": "Thu, 02 Jul 2026 22:21:44 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "a1f48c4f13bfe092c32c383fa0b35740"
+    },
+    {
+      "title": "Treasuries Gain on Fed Rate-Hike Bets | The Close 7/2/2026",
+      "description": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are MSIM CIO, Portfolio Solutions Group Jim Caron, Roth Capital Senior Research ",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/the-close-7-2-2026-video",
+      "publishedAt": "Thu, 02 Jul 2026 22:04:19 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "454e37bf8abc221f1513f36ab1b185a3"
+    },
+    {
+      "title": "Jack Smith says he's 'very concerned what's going to happen next election' under Trump",
+      "description": "Smith said that he could be indicted by the Department of Justice given Trump's animus toward him for prosecuting the president in two criminal cases.",
+      "url": "https://www.cnbc.com/2026/07/02/jack-smith-trump-interview-doj.html",
+      "publishedAt": "Thu, 02 Jul 2026 21:58:21 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0587b3d9109fd45483c6540c86ab514d"
+    },
+    {
+      "title": "Market Uncertainty Grows as Stocks Retrace Gains Following Jobs Report",
+      "description": "Jim Caron, CIO of the Portfolio Solutions Group at Morgan Stanley Investment Management, discusses the current state of the stock market heading into the second half of the year. Despite significant gains earlier in the year, Caron addresses whether ",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-02/market-uncertainty-grows-following-jobs-report-video",
+      "publishedAt": "Thu, 02 Jul 2026 21:15:49 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "903df35f53bba9e382b70fbd5ddb5bb1"
+    },
+    {
+      "title": "Crusoe in Talks to Raise $3 Billion in Round That May Triple Firm’s Value",
+      "description": "Crusoe, the data center upstart with contracts to supply AI computing power for the likes of Meta Platforms Inc. and Oracle Corp., is in talks to raise about $3 billion in a funding round that may triple the company’s valuation, people familiar with ",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/crusoe-in-talks-to-raise-3-billion-in-round-that-may-triple-firm-s-value",
+      "publishedAt": "Thu, 02 Jul 2026 21:14:49 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "bf9951adae7e467004de062cbfdd78c6"
+    },
+    {
+      "title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound",
+      "description": "The day before President Donald Trump walked back his tariff policy turned out to be one of his busiest days of 2025 for stock buying.",
+      "url": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
+      "publishedAt": "Thu, 02 Jul 2026 21:03:39 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "1e6d3649a618dee27a68e9e9787284d0"
+    },
+    {
+      "title": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
+      "description": "Tesla is trying to recover from consecutive annual declines in vehicle sales that were partly caused by a consumer backlash against CEO Elon Musk.",
+      "url": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html",
+      "publishedAt": "Thu, 02 Jul 2026 20:18:02 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "b6cd2e08d22f4647af39485ca7f954ca"
+    },
+    {
+      "title": "Claude Sonnet 5 上线一日差评刷屏：打不过千问和 Minimax，性价比全面翻车",
+      "description": "<section style=\"text-align: justify; margin: 16px 16px 0px; line-height: 1.75em;\"><span style=\"color: #4499E7;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260702/6a4649b4e2894.jpg?imageMogr2/quality/90\" styl",
+      "url": "https://www.leiphone.com/category/yanxishe/GLDTfDIWau83OKGC.html",
+      "publishedAt": "Thu, 02 Jul 2026 19:22:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "1aad9aad646dfe161d5bb157cd175ff6"
+    },
+    {
+      "title": "全球首份大语言模型安全防范能力测评报告在北京发布",
+      "description": "<p><br /></p><p>大语言模型正在成为公众获取、理解和使用科技知识的重要工具，但是，它们能辨善恶吗？能否识别用户意图、理解具体语境、控制输出粒度，并在有用性与安全性之间保持稳定边界？7月2日于北京举行的2026全球数字经济大会云智算安全论坛上，《全球大语言模型安全防范能力测评报告（2026）》正式发布，该报告依据一套中国机构自主研发的科学测评方法体系，对全球主要大语言模型进行了一次统一标准的“体检”，作出了回答。（雷峰网）</p><p>这份由东壁科技数据有限责任公司（“东壁科技数据”",
+      "url": "https://www.leiphone.com/category/ai/24ZpHMxxsean7Pmy.html",
+      "publishedAt": "Thu, 02 Jul 2026 18:46:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "2df0f82e9b2eaaa6c2a14e81eb0588e8"
+    },
+    {
+      "title": "ElevenLabs in Talks on Tender Offer at $22 Billion Valuation",
+      "description": "ElevenLabs has held early talks with investors to let employees sell shares in a secondary offering that would value the artificial intelligence startup at roughly $22 billion, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/elevenlabs-in-talks-for-tender-offer-at-22-billion-valuation",
+      "publishedAt": "Thu, 02 Jul 2026 18:35:41 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "5416697b4736a6a999eda16b2df538a8"
+    },
+    {
+      "title": "影智XBOT发布通用餐饮服务机器人矩阵与“一脑多形”具身智能体系",
+      "description": "<p style=\"text-align: justify; text-indent: 2em;\">雷峰网获悉，6月30日，影智XBOT“2026 XBOT通用餐饮具身机器人发布会”在北京举行，以产品、平台、商业闭环、生态开放为关键节点，正式发布自研具身操作系统XOS 3.0、AI Agent产品“爱宝店长”，以及三款覆盖咖啡、冰淇淋、全场景服务的通用餐饮具身机器人新品。 三者共同构成“一脑多形”的完整智能体系。</p><p style=\"text-align: center; text-ind",
+      "url": "https://www.leiphone.com/category/industrynews/bn6JrENVQGf1G9tU.html",
+      "publishedAt": "Thu, 02 Jul 2026 18:09:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "49645f1f3275b594f88596bd65e4112c"
+    },
+    {
+      "title": "马斯克收购Mesh，打通卫星光通信「关键一步」",
+      "description": "<section><section><section><section><section></section><section><section><section><section></section></section></section><section><span><br /></span></section><p style=\"text-align: justify; margin-bottom: 24px; line-height: 1.75em;\"><span><span><span",
+      "url": "https://www.leiphone.com/category/ai/Kt66f2aNWvTzcMod.html",
+      "publishedAt": "Thu, 02 Jul 2026 17:32:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "94159870eddba1f6c39794a96f380caa"
+    },
+    {
+      "title": "High-end camping and a capital raise: AutoCamp is banking on summer travel to fuel growth",
+      "description": "AutoCamp offers Airstream suites, polished cabins, fire pits, design-forward amenities and access to iconic outdoor destinations.",
+      "url": "https://www.cnbc.com/2026/07/02/autocamp-high-end-camping-summer-travel-capital-raise.html",
+      "publishedAt": "Thu, 02 Jul 2026 16:34:27 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "b7c8e4268573de1434d63d653cec37b5"
+    },
+    {
+      "title": "Canada’s Pembina Advances Gas-Fired Data Center Project",
+      "description": "Pembina Pipeline Corp. will move ahead with a C$4.6 billion ($3.2 billion) gas-fired electricity plant that will power a data center project in Alberta.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/canada-s-pembino-to-advance-with-gas-powered-data-center-project",
+      "publishedAt": "Thu, 02 Jul 2026 15:48:02 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "474219c31d11e2f1cd4e7d938a716f6d"
+    }
+  ]
+}
