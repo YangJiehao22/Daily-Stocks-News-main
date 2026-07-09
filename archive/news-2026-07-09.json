@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-09T03:45:34.510799",
+  "count": 20,
+  "news": [
+    {
+      "title": "AI Costs Lead Westpac to Prod Staff Toward ‘Sensible’ Model Use",
+      "description": "Westpac Banking Corp. is intensifying efforts to monitor artificial intelligence costs, as the Australian lender closely tracks AI tokens across the firm and routes simpler tasks to cheaper models.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/ai-costs-lead-westpac-to-prod-staff-toward-sensible-model-use",
+      "publishedAt": "Wed, 08 Jul 2026 23:42:05 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "92eed1c6d05fd35af74ad10247974199"
+    },
+    {
+      "title": "Bain Capital Exits Kioxia After Chip Deal Yields Big Returns",
+      "description": "Bain Capital has sold its entire stake in flash memory chipmaker Kioxia Holdings Corp., closing a chapter on a deal that’s transformed the Japanese tech and investment landscape.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/bain-exits-kioxia-after-landmark-chip-deal-yields-record-returns",
+      "publishedAt": "Wed, 08 Jul 2026 23:01:08 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "8a48cfd04cbccebded94f9ff9a30f785"
+    },
+    {
+      "title": "Apple Supplier Luxshare Drops After $3 Billion Hong Kong Debut",
+      "description": "Apple Inc. supplier Luxshare Precision Industry Co. fell in Hong Kong trading debut on Thursday after raising HK$24.3 billion ($3.1 billion) in the city’s biggest listing this year so far.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/apple-supplier-luxshare-to-trade-after-hk-s-biggest-2026-listing",
+      "publishedAt": "Wed, 08 Jul 2026 23:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "cad095f2a793edafbaeb50605e91ac2e"
+    },
+    {
+      "title": "Nvidia Rival Positron Holds Talks to Raise Funds at $5 Billion Valuation",
+      "description": "AI chip startup Positron is in talks to raise about $750 million in financing during a round with two phases, part of a groundswell of companies looking to compete with Nvidia Corp.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-rival-positron-holds-talks-to-raise-funds-at-5-billion-valuation",
+      "publishedAt": "Wed, 08 Jul 2026 22:32:47 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9f3c0d03900ea439b7fdb1795865a4cd"
+    },
+    {
+      "title": "SK Hynix US Offering Is More Than Seven Times Oversubscribed",
+      "description": "SK Hynix Inc.’s US listing is more than seven times oversubscribed, according to people familiar with the matter, as the South Korean memory chipmaker prepares to price its offering Thursday.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/sk-hynix-us-offering-is-more-than-seven-times-oversubscribed",
+      "publishedAt": "Wed, 08 Jul 2026 22:16:51 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "70ed42e7331a15885b1b874205aba7f2"
+    },
+    {
+      "title": "Jim Cramer sees a big risk to the bull market resurfacing — and it's not the Iran war",
+      "description": "CNBC's Jim Cramer said the growing wave of stock offerings and debt issuance is the next big threat to the bull market.",
+      "url": "https://www.cnbc.com/2026/07/08/jim-cramer-risk-bull-market-resurfacing.html",
+      "publishedAt": "Wed, 08 Jul 2026 22:14:51 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "4b885f5802472a1ba896d8eb8b4cde1d"
+    },
+    {
+      "title": "Early-Stage VC Founder: AI Race Is Now About Efficiency",
+      "description": "In this segment, Songyee Yoon, Director on HP's Board and Founder of Principal Venture Partners, discusses the emerging divergence between the chip cycle and the hyperscaler cycle amid the AI build-out. She highlights the critical issue of whether hy",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-08/hp-s-board-director-rasies-questions-on-ai-spending-video",
+      "publishedAt": "Wed, 08 Jul 2026 21:38:37 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "8af2397c648c0c77a56e506bba9f9b29"
+    },
+    {
+      "title": "Levi Strauss beats quarterly expectations, raises guidance and dividend",
+      "description": "Levi Strauss beat quarterly expectations on the top and bottom lines during its fiscal 2026 second quarter.",
+      "url": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html",
+      "publishedAt": "Wed, 08 Jul 2026 21:32:49 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "61e6f976d0765a2dbb1a351c9594333d"
+    },
+    {
+      "title": "MNTN CEO: We’re Over-Building Data Centers in the US",
+      "description": "Mark Douglas, CEO of the ad tech company MNTN, discussed Meta's reported ambitions to expand beyond advertising into cloud infrastructure. Douglas expressed skepticism about Meta's ability to compete with established cloud providers like AWS and Goog",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-08/mntn-ceo-skeptical-of-meta-s-cloud-ambitions-video",
+      "publishedAt": "Wed, 08 Jul 2026 21:17:13 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "85beb37b296a13685e1653ecadf1a979"
+    },
+    {
+      "title": "SpaceX stock closes below debut price at $148 in two-day slide after Nasdaq-100 inclusion",
+      "description": "SpaceX's record IPO raised a total of $85.7 billion after underwriters exercised the \"greenshoe\" overallotment.",
+      "url": "https://www.cnbc.com/2026/07/08/spacex-stock-nasdaq-100-ipo.html",
+      "publishedAt": "Wed, 08 Jul 2026 21:10:47 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "94c5ca0298da336d0a8a86d64876bafc"
+    },
+    {
+      "title": "Meta is building its first big Canadian data center as AI expansion crosses the border",
+      "description": "Meta is building its first big Canadian data center as AI expansion crosses the border.",
+      "url": "https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html",
+      "publishedAt": "Wed, 08 Jul 2026 20:40:10 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "f901d5b61d30d871bb3a55d0168cf15e"
+    },
+    {
+      "title": "U.S. military launches new Iran strikes as Trump says 'not sure' he wants deal",
+      "description": "Centcom said it launched dozens of strikes on Iranian military infrastructure and small boats; Trump said the U.S. might take more military action \"tonight.\"",
+      "url": "https://www.cnbc.com/2026/07/08/trump-iran-war-deal-hormuz-strait-ceasefire.html",
+      "publishedAt": "Wed, 08 Jul 2026 20:28:12 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "baf38b8cd7c48a1d035b549f26bbbd41"
+    },
+    {
+      "title": "Apple commits $30 billion to Broadcom for U.S. chipmaking push",
+      "description": "Apple is expanding its Broadcom partnership in a $30 billion-plus chipmaking agreement, its largest American manufacturing commitment to date.",
+      "url": "https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html",
+      "publishedAt": "Wed, 08 Jul 2026 20:03:53 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "94b3fb47c2b715da58f96ec5ec2e78db"
+    },
+    {
+      "title": "India’s JioStar Taps AI for Shopping, TV Movie Night Ideas",
+      "description": "JioStar is betting that conversations with viewers powered by generative AI will become a powerful tool for the streaming TV company.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/india-s-jiostar-taps-ai-for-shopping-tv-movie-night-ideas",
+      "publishedAt": "Wed, 08 Jul 2026 20:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "656273eb52876f45d835e1c54ba0ae40"
+    },
+    {
+      "title": "BofA Bankers U-Turn on OpenAI",
+      "description": "Bloomberg's Liana Baker joins Dani Burger on \"Bloomberg Deals.\" Bank of America handed a $520 million credit line to OpenAI in recent weeks after previously spurning the artificial intelligence giant’s request, according to people with knowledge of t",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-08/bofa-bankers-u-turn-on-openai-video",
+      "publishedAt": "Wed, 08 Jul 2026 19:37:58 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9e09edac138074cbdc56a096d02206a9"
+    },
+    {
+      "title": "Sonos Cuts Top Design and Product Executives as Part of Layoffs",
+      "description": "Sonos Inc. has pushed out some of its top design and product management executives as part of job cuts in recent weeks, raising questions about the company’s ability to develop breakthrough products beyond its short-term hardware road map of safe bet",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/sonos-loses-top-design-and-product-executives-in-recent-layoffs",
+      "publishedAt": "Wed, 08 Jul 2026 19:37:46 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "b782e83c27d370c4887df3824c09876e"
+    },
+    {
+      "title": "AI Chip Startup Raises Funds at $11B Valuation",
+      "description": "Bloomberg's Ryan Gould joins Dani Burger on \"Bloomberg Deals.\" Chip startup SambaNova has raised $1 billion at an $11 billion valuation, underscoring investors’ conviction in rising demand for infrastructure tied to artificial intelligence.\n (Source:",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-08/ai-chip-startup-raises-funds-at-11b-valuation-video",
+      "publishedAt": "Wed, 08 Jul 2026 19:32:26 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "18753ae27e863dd682454ae9b3b27553"
+    },
+    {
+      "title": "Meta to Build First Data Center in Canada, Expanding Global Fleet",
+      "description": "Meta Platforms Inc. will invest around $10 billion to build its first data center in Canada as the company expands its infrastructure to support its artificial intelligence ambitions.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/meta-to-build-first-data-center-in-canada-expanding-global-fleet",
+      "publishedAt": "Wed, 08 Jul 2026 19:30:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "8479a99430b40f06a0ed397e9d112619"
+    },
+    {
+      "title": "Trump loses latest appeals court bid to restore his name to Kennedy Center",
+      "description": "The appeals court said Trump had failed to provide any evidence that the Kennedy Center's fundraising would be harmed if his name is not attached.",
+      "url": "https://www.cnbc.com/2026/07/08/trump-kennedy-center-name-appeal-court-denied.html",
+      "publishedAt": "Wed, 08 Jul 2026 19:05:02 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "5b13fe734a27433449710d863bf7e52f"
+    },
+    {
+      "title": "Oil prices jump more than 4% after Trump threatens to bomb Iran and reimpose naval blockade",
+      "description": "Speaking at the NATO summit in Turkey, Trump said he considered the ceasefire with Iran over. His comments came after U.S. airstrikes overnight.",
+      "url": "https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html",
+      "publishedAt": "Wed, 08 Jul 2026 19:02:08 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "b1b318ab339630f0bb2441672d0c57c3"
+    }
+  ]
+}
