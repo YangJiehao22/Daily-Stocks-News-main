@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-16T02:56:20.232914",
+  "count": 20,
+  "news": [
+    {
+      "title": "Nvidia Expands Toyota AI Partnership for Smart Cities, Factories",
+      "description": "Nvidia Corp. will supply its artificial intelligence hardware and software to Toyota Motor Corp. to power smart cities, traffic intelligence systems and carmaking factories, broadening a decade-long partnership that began with developing autonomous v",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/nvidia-expands-toyota-ai-partnership-for-smart-cities-factories",
+      "publishedAt": "Wed, 15 Jul 2026 23:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "0233911265838266021752940d0017ba"
+    },
+    {
+      "title": "Jim Cramer says he needs 'cold hard' proof that AI is paying off",
+      "description": "CNBC's Jim Cramer said he’s looking for companies to start showing measurable financial returns from their AI investments.",
+      "url": "https://www.cnbc.com/2026/07/15/jim-cramer-needs-proof-ai-paying-off-.html",
+      "publishedAt": "Wed, 15 Jul 2026 22:51:22 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "6619f9ad3b649e387a22582bad7f7840"
+    },
+    {
+      "title": "Fed Chairman Warsh says he meets 'often' with Trump administration, defends independence",
+      "description": "Kevin Warsh said Wednesday that he speaks with Treasury Secretary Scott Bessent frequently outside their regular weekly meetings.",
+      "url": "https://www.cnbc.com/2026/07/15/feds-warsh-says-he-meets-often-with-trump-administration.html",
+      "publishedAt": "Wed, 15 Jul 2026 22:48:57 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "3d2242b93f2785847a511bde3e66a6ed"
+    },
+    {
+      "title": "Data Center Firm Csquare Is Said to Price IPO at $21 Per Share",
+      "description": "Csquare Inc. priced its initial public offering at $21 per share, according to people familiar with the matter, below a marketed range.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/data-center-firm-csquare-is-said-to-price-ipo-at-21-per-share",
+      "publishedAt": "Wed, 15 Jul 2026 22:47:04 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "a0ad002d945d7098651919904a68379b"
+    },
+    {
+      "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
+      "description": "As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.",
+      "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+      "publishedAt": "Wed, 15 Jul 2026 22:05:14 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "fe0ab4e80a1e2b418db8c2edc08b7705"
+    },
+    {
+      "title": "China Sends Robots Out Into the World to Learn How to Be Human",
+      "description": "In an industrial park on the outskirts of Beijing, a humanoid arm picks up a bag of Lay’s potato chips and places it neatly along a row of snacks on a shelf. Nearby, a worker films himself grabbing cushions off a sofa and folding sheets on a bed, rec",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/china-sends-robots-out-into-the-world-to-learn-how-to-be-human",
+      "publishedAt": "Wed, 15 Jul 2026 22:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "f838f4aa0ae2226161530fee34393690"
+    },
+    {
+      "title": "United earnings top estimates but airline expects $6 billion in added fuel costs",
+      "description": "United reported higher revenue for premium, corporate and no-frills basic economy tickets and higher revenue for both domestic and international trips.",
+      "url": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
+      "publishedAt": "Wed, 15 Jul 2026 21:00:11 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "c3110a6f1d634b410ee6390789b91d66"
+    },
+    {
+      "title": "Trump says Iran wants to meet as U.S. fires more strikes; analysts warn of 'forever war' risk",
+      "description": "Fighting in the Middle East has intensified in recent days, but could escalate further if Iran fails to cooperate, President Donald Trump said.",
+      "url": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
+      "publishedAt": "Wed, 15 Jul 2026 20:49:32 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "6240b043287d0ae764b262ecc512d9ef"
+    },
+    {
+      "title": "Trump blasts New York AI data center moratorium, says state should change policy 'immediately'",
+      "description": "New York became the first state in the U.S. to impose a ban of its kind when the governor signed the executive order Tuesday.",
+      "url": "https://www.cnbc.com/2026/07/15/trump-blasts-new-york-gov-hochul-over-ai-data-center-moratorium.html",
+      "publishedAt": "Wed, 15 Jul 2026 20:35:40 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "e005295a6d09a267699618a5b8de47fc"
+    },
+    {
+      "title": "SpaceX stock sinks below $135 IPO price for the first time",
+      "description": "SpaceX shares fell for a fourth-straight session on Wednesday days after entering the Nasdaq-100",
+      "url": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
+      "publishedAt": "Wed, 15 Jul 2026 20:20:10 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "e605417bbb8d3fe53f78f2f9f3b06f3b"
+    },
+    {
+      "title": "J&J falls despite a beat-and-raise quarter. Why we're raising our price target anyways",
+      "description": "Johnson & Johnson's quarter was imperfect, but enough is going right to validate our ownership of the stock.",
+      "url": "https://www.cnbc.com/2026/07/15/jj-falls-despite-a-beat-and-raise-quarter-why-were-raising-our-price-target-anyways.html",
+      "publishedAt": "Wed, 15 Jul 2026 19:30:30 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "f50047c51c8efdfbe5803cf4ce3954ce"
+    },
+    {
+      "title": "Todd Blanche says he has 'full faith' in Kash Patel as FBI director",
+      "description": "Attorney General nominee Todd Blanche previously served as a criminal defense lawyer for President Donald Trump.",
+      "url": "https://www.cnbc.com/2026/07/15/todd-blanche-attorney-general-trump-senate-nomination-hearing.html",
+      "publishedAt": "Wed, 15 Jul 2026 18:52:05 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "cc9e85abd68869d51c3e053f504822ae"
+    },
+    {
+      "title": "Amazon senior cloud executive departs after 18 years",
+      "description": "Brown helped launch one of AWS' oldest services and also oversaw its compute and machine learning units.",
+      "url": "https://www.cnbc.com/2026/07/15/amazon-dave-brown-treadwell-aws.html",
+      "publishedAt": "Wed, 15 Jul 2026 18:23:06 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7c45d36858760b8e910b9fa858b33308"
+    },
+    {
+      "title": "Apple Boosts AppleCare+ Monthly Prices by 50 Cents in Latest Increase",
+      "description": "Apple Inc. slightly raised the cost of individual AppleCare+ service subscriptions, marking its latest price increase in the face of a global memory shortage and other challenges.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/apple-boosts-applecare-monthly-prices-by-50-cents-in-latest-increase",
+      "publishedAt": "Wed, 15 Jul 2026 18:16:47 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "6fd101a143e90f92abc37b6e8bf0da27"
+    },
+    {
+      "title": "Murati’s Thinking Machines Releases First AI Model for Broad Use",
+      "description": "Thinking Machines Lab is releasing its first AI model, more than a year after former OpenAI executive Mira Murati founded the artificial intelligence startup.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/murati-s-thinking-machines-releases-first-ai-model-for-broad-use",
+      "publishedAt": "Wed, 15 Jul 2026 18:00:16 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "cb4d66f0f39b63ad9da97e57952c7552"
+    },
+    {
+      "title": "Public Service Loan Forgiveness has new rules — 3 changes borrowers should know about",
+      "description": "Recent changes to Public Service Loan Forgiveness should prompt borrowers to confirm that their repayment plan and loan type remain eligible for the relief.",
+      "url": "https://www.cnbc.com/2026/07/15/public-service-loan-forgiveness-pslf-changes.html",
+      "publishedAt": "Wed, 15 Jul 2026 17:58:41 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "12a5ad9828d4a96d5884a3789125ee3f"
+    },
+    {
+      "title": "Palantir’s CTO Sees Chinese AI Models Posing Economic Risk to US",
+      "description": "Palantir Technologies Inc. Chief Technology Officer Shyam Sankar said that China has developed a new vanguard of artificial intelligence models through unauthorized use of work produced by Silicon Valley AI developers, posing an economic threat to th",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/palantir-s-cto-sees-chinese-ai-models-posing-economic-risk-to-us",
+      "publishedAt": "Wed, 15 Jul 2026 17:29:03 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "c232e813de9db44681689c2914f43407"
+    },
+    {
+      "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+      "description": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
+      "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+      "publishedAt": "Wed, 15 Jul 2026 17:22:51 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "b9c0709bb44d9ecde999e041fea355a8"
+    },
+    {
+      "title": "CIA Says AI Drones Give Russian Troops Only 30 Minutes to Live",
+      "description": "Russian soldiers only live an average of 20 to 30 minutes on the battlefield because of Ukraine’s artificial-intelligence attack drones, CIA Director John Ratcliffe said on Wednesday.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/cia-says-ai-drones-give-russian-troops-only-30-minutes-to-live",
+      "publishedAt": "Wed, 15 Jul 2026 17:09:35 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "27a708a35e0ac13220f4214b6961e740"
+    },
+    {
+      "title": "Warren Buffett tells CNBC he initiated Berkshire Hathaway's investment in Alphabet",
+      "description": "Warren Buffett said he was the driving force behind the conglomerate's recent big investment in Alphabet.",
+      "url": "https://www.cnbc.com/2026/07/15/warren-buffett-tells-cnbc-he-initiated-berkshire-hathaways-investment-in-alphabet.html",
+      "publishedAt": "Wed, 15 Jul 2026 17:00:32 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "6c81137c8749039fa26a999a95bcb672"
+    }
+  ]
+}
