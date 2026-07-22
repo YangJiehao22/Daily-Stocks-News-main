@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-22T03:16:03.435049",
+  "count": 20,
+  "news": [
+    {
+      "title": "China’s ‘AI for All’ Offensive Defies US Containment Playbook",
+      "description": "The rapidly increasing global competitiveness of China’s artificial intelligence models is ringing alarm bells in Washington, posing a new test for the standard protectionist playbook.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/china-s-ai-for-all-offensive-defies-us-containment-playbook",
+      "publishedAt": "Wed, 22 Jul 2026 02:42:54 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "c73d7bcdde25e8f97e12eba953d6f829"
+    },
+    {
+      "title": "These Japanese AI winners don’t make chips. They make toilets, glass fiber and seasoning",
+      "description": "A toilet maker, a glass fiber manufacturer and the maker of MSG have in Japan have become major beneficiaries of the AI boom.",
+      "url": "https://www.cnbc.com/2026/07/22/japanese-ai-winners-toilets-fiberglass-and-seasoning.html",
+      "publishedAt": "Wed, 22 Jul 2026 02:25:18 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "17ea5569a453b61dd0c2262cf9870cdc"
+    },
+    {
+      "title": "Blackstone Tying Up $3 Billion AirTrunk Loan as Data Center Debt Binge Woes Grow",
+      "description": "Blackstone Inc. is finalizing a group of banks to underwrite a A$4.3 billion ($3 billion) loan for the construction of AirTrunk Pty.’s new data center in Australia, according to people familiar with the matter, despite growing worries over the massiv",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/blackstone-tying-up-3-billion-airtrunk-loan-as-data-center-debt-binge-woes-grow",
+      "publishedAt": "Wed, 22 Jul 2026 01:10:52 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "e9c12edf0ccd36f515d6d9eb728482eb"
+    },
+    {
+      "title": "Wall Street can wait: Why one U.S. biotech firm is listing in Hong Kong first",
+      "description": "Global biotech firms are increasingly being drawn to Hong Kong for its growing investor base and proximity to Chinese pharmaceutical partners.",
+      "url": "https://www.cnbc.com/2026/07/22/axiom-aiosciences-ipo-listing-hong-kong.html",
+      "publishedAt": "Wed, 22 Jul 2026 00:15:19 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "041bdeb05de11e1c0dd2186659e15571"
+    },
+    {
+      "title": "Newborn Town Targets Global Viewers With AI-Made Short Dramas",
+      "description": "Chinese social networking and entertainment provider Newborn Town Inc. is doubling down on artificial intelligence to create short dramas in a bet the technology can slash costs while fueling growth across emerging markets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/newborn-town-targets-global-viewers-with-ai-made-short-dramas",
+      "publishedAt": "Tue, 21 Jul 2026 23:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "40ad901e90badb06293d7e57c5177bf5"
+    },
+    {
+      "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
+      "description": "The central bank didn't have access to Claude Mythos Preview as of mid-July, even as other institutions were racing to patch their vulnerabilities.",
+      "url": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
+      "publishedAt": "Tue, 21 Jul 2026 22:34:35 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "266714465778a32264fa11a50b334660"
+    },
+    {
+      "title": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement",
+      "description": "Many server makers are seeing faster growth as companies race to deploy artificial intelligence servers.",
+      "url": "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html",
+      "publishedAt": "Tue, 21 Jul 2026 22:10:56 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "1b0c1ea20de4f952f0e6db2520094b45"
+    },
+    {
+      "title": "RFK Jr. says cyclospora outbreak is 'under control'",
+      "description": "Health and Human Services Secretary Robert F. Kennedy Jr. on Tuesday said that the ongoing outbreak of cyclosporiasis is \"under control.\"",
+      "url": "https://www.cnbc.com/2026/07/21/cyclospora-rfk-jr-says-outbreak-is-under-control.html",
+      "publishedAt": "Tue, 21 Jul 2026 22:06:30 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "8a3ea247b58be46399b89823ebd28c5c"
+    },
+    {
+      "title": "BlackRock, Carhartt, Ford and Google launch skilled trades workforce initiative",
+      "description": "The coalition of companies aims to address a growing labor shortage by promoting careers in the skilled trades, the firms said.",
+      "url": "https://www.cnbc.com/2026/07/21/blackrock-carhartt-ford-google-skilled-trades.html",
+      "publishedAt": "Tue, 21 Jul 2026 21:48:38 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "83db4c45ea2d6e9e9cab4c3cfd34c3cf"
+    },
+    {
+      "title": "OpenAI appoints two new members to board of directors",
+      "description": "OpenAI appointed longtime financial executives David Vélez and Robin Vince to its nonprofit and for-profit boards.",
+      "url": "https://www.cnbc.com/2026/07/21/openai-appoints-two-new-members-to-board-of-directors.html",
+      "publishedAt": "Tue, 21 Jul 2026 21:22:32 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "5c6c445d2d2bb2cb7357bdebf494d23c"
+    },
+    {
+      "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
+      "description": "Goldman Sachs is launching a new alternative investments platform aimed at giving wealthy clients and family offices direct stakes in private companies.",
+      "url": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
+      "publishedAt": "Tue, 21 Jul 2026 20:51:34 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "ec48c736d047f3cd3d171c03623ce854"
+    },
+    {
+      "title": "OpenAI Names BNY, Nubank CEOs to Board Ahead of IPO",
+      "description": "OpenAI has appointed two financial services executives to its board of directors, drawing on their experience as the company moves toward a Wall Street debut.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-names-bny-nubank-ceos-to-board-ahead-of-ipo",
+      "publishedAt": "Tue, 21 Jul 2026 20:07:29 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "7e02e32037c18d2fbe7912dedb66139f"
+    },
+    {
+      "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive",
+      "description": "About 206 million SpaceX shares are now sold short, representing roughly 32% of the company's publicly tradable float, according to S3.",
+      "url": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html",
+      "publishedAt": "Tue, 21 Jul 2026 20:01:39 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "b688eba571f5f43005ab4ededa3c9dc6"
+    },
+    {
+      "title": "OpenAI Says Its Models Accidentally Hacked Hugging Face",
+      "description": "OpenAI said its advanced artificial intelligence models inadvertently hacked Hugging Face Inc. in an “unprecedented” incident that prompted fresh calls for curbs on the technology.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-says-its-ai-used-for-unprecedented-hugging-face-breach",
+      "publishedAt": "Tue, 21 Jul 2026 19:51:28 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "e58e3652b6bb0d9218ec0a35d7e27c7e"
+    },
+    {
+      "title": "Robinhood Prediction Market Revenue to Top Crypto: Analysts",
+      "description": "Trading platform Robinhood Markets Inc.’s revenue from prediction market is set to overshadow that from cryptocurrency trading, starting as soon as the second quarter, analysts at Bernstein and Piper Sandler said this week.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/robinhood-prediction-market-revenue-to-top-crypto-analysts-say",
+      "publishedAt": "Tue, 21 Jul 2026 19:40:01 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "b03ac946ed53cc8e99c440831a86041c"
+    },
+    {
+      "title": "Apple prepares a new way to buy iPhones. Plus, making sense of Google's new AI models",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/07/21/apple-prepares-a-new-way-to-buy-iphones-plus-making-sense-of-googles-new-ai-models.html",
+      "publishedAt": "Tue, 21 Jul 2026 19:20:31 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "6c946f1bd7e917f4e95d8ac3fbef16d8"
+    },
+    {
+      "title": "Time for a crypto comeback? Traders bet that this stock will lead the way",
+      "description": "Crypto bulls have been waiting for a rebound, and traders think this stock could lead the way.",
+      "url": "https://www.cnbc.com/2026/07/21/traders-bet-that-this-stock-will-lead-the-way-in-a-crypto-comeback.html",
+      "publishedAt": "Tue, 21 Jul 2026 19:09:36 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "4464ade9ae5d4a0248b49b501f7c44b7"
+    },
+    {
+      "title": "Healthcare students are turning to Kalshi and betting platforms to pay for their degrees, survey shows",
+      "description": "\"These students aren't betting for fun,\" said Tess Michaels, CEO of Clasp.",
+      "url": "https://www.cnbc.com/2026/07/21/healthcare-students-turn-to-kalshi-betting-platforms-to-pay-for-degrees-survey-shows.html",
+      "publishedAt": "Tue, 21 Jul 2026 17:24:57 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "ae5a777227889ab7041bbd6b15c380a7"
+    },
+    {
+      "title": "Intel Rallies on Plans for Headcount Reductions",
+      "description": "Intel Corp. shares rallied Tuesday after the company confirmed it will cut more jobs to reduce costs and shake up its key data center unit.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/intel-rallies-after-saying-it-ll-make-more-headcount-reductions",
+      "publishedAt": "Tue, 21 Jul 2026 15:38:37 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "c0db84dce720a1f6fb3a6b2b5208c462"
+    },
+    {
+      "title": "OpenAI’s Altman to Brief US Officials on Next Wave of AI Models",
+      "description": "OpenAI Chief Executive Officer Sam Altman plans to brief the Trump administration and US lawmakers next week on the upcoming generation of artificial intelligence models as the US works to create a process to review the safety of cutting-edge AI syst",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-altman-to-brief-us-officials-on-next-wave-of-ai-models",
+      "publishedAt": "Tue, 21 Jul 2026 15:35:53 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "5ce77713f188c05f3a352e2c2fa0b5f4"
+    }
+  ]
+}
