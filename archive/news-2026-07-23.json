@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-23T03:21:07.379059",
+  "count": 20,
+  "news": [
+    {
+      "title": "Uber Cuts 10% of Customer Service Jobs to ‘Embrace’ AI",
+      "description": "Uber Technologies Inc. said it has cut 10% of jobs within its customer service operations as part of a broader effort to simplify its ranks and “embrace artificial intelligence.”",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/uber-cuts-10-of-customer-service-jobs-citing-embrace-of-ai",
+      "publishedAt": "Wed, 22 Jul 2026 23:40:53 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "bf54939641ba248021e30caa605c629a"
+    },
+    {
+      "title": "Southwest Airlines' third-quarter forecast falls short as fuel bill climbs",
+      "description": "Southwest Airlines reported a more than 9% increase in second-quarter profit as higher fares are increasingly helping the airline cover its fuel tab.",
+      "url": "https://www.cnbc.com/2026/07/22/southwest-airlines-luv-2q-2026-earnings.html",
+      "publishedAt": "Wed, 22 Jul 2026 23:25:25 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "3bac986601e896366e0500178faa97c7"
+    },
+    {
+      "title": "ServiceNow CEO defends the company's relevancy, touting a kill switch for rogue AI agents",
+      "description": "ServiceNow CEO Bill McDermott said the company is becoming increasingly important as businesses deploy more autonomous AI agents.",
+      "url": "https://www.cnbc.com/2026/07/22/servicenow-ceo-kill-switch-rogue-ai.html",
+      "publishedAt": "Wed, 22 Jul 2026 22:56:13 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "c67f5d21f33b21016c7e1127a114996b"
+    },
+    {
+      "title": "Musk Says Micron Gave Tesla ‘Significant’ Supply of Memory Chips",
+      "description": "Micron Technology Inc. recently gave Tesla Inc. a “significant allocation” of memory chips, according to Elon Musk, helping meet the automaker’s demand for an increasingly precious commodity.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/musk-says-micron-gave-tesla-significant-supply-of-memory-chips",
+      "publishedAt": "Wed, 22 Jul 2026 22:54:35 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "88eaa34de24909c3845b87db66c9b063"
+    },
+    {
+      "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
+      "description": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
+      "url": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
+      "publishedAt": "Wed, 22 Jul 2026 22:06:49 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "8ab3c5e83bb6faa1182cb019db0ec04a"
+    },
+    {
+      "title": "U.S. signs nuclear power agreement with Saudi Arabia",
+      "description": "The agreement will provide U.S. companies with access to Saudi Arabia's nuclear energy program, the Department of Energy said.",
+      "url": "https://www.cnbc.com/2026/07/22/trump-saudi-arabia-nuclear-power.html",
+      "publishedAt": "Wed, 22 Jul 2026 21:56:58 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "35388212018291b9481c5bb4e54192ba"
+    },
+    {
+      "title": "Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb",
+      "description": "A new asymmetry in the market means fuel prices won't fall quickly even if the shooting in the Iran war and Strait of Hormuz stops.",
+      "url": "https://www.cnbc.com/2026/07/22/iran-war-energy-markets-gas-diesel-prices-us-economy-analysis.html",
+      "publishedAt": "Wed, 22 Jul 2026 21:34:26 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "8137aca0b2c58d56c6e64262eb39c415"
+    },
+    {
+      "title": "Google Boosts 2026 Spending Estimate to as Much as $205 Billion",
+      "description": "Alphabet Inc. projected full-year capital expenditures will be $195 billion to $205 billion in 2026, increasing its already sky-high spending estimate for the year as it works to secure an edge in the artificial intelligence race.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/google-boosts-2026-spending-estimate-to-as-much-as-205-billion",
+      "publishedAt": "Wed, 22 Jul 2026 21:16:56 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "427dc30cfaa6d071714e3913aa9b7503"
+    },
+    {
+      "title": "Senate panel advances China auto bill that could bar Mercedes-Benz from U.S.",
+      "description": "Mercedes-Benz’s largest individual shareholder is Chinese state-owned BAIC. Cruz warned the bill could hurt Mercedes and accused GM of backing it.",
+      "url": "https://www.cnbc.com/2026/07/22/ted-cruz-china-auto-bill-mercedes-benz-gm.html",
+      "publishedAt": "Wed, 22 Jul 2026 21:16:56 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "e26f053767b3aea56a31580cce7c398f"
+    },
+    {
+      "title": "AI Mania to Fuel Australia Deals, Top Underwriter Macquarie Says",
+      "description": "The investor demand for exposure to companies along the artificial intelligence supply chain is set to accelerate capital-market activity in Australia, according to the nation’s top dealmaker.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/ai-mania-to-fuel-australia-deals-top-underwriter-macquarie-says",
+      "publishedAt": "Wed, 22 Jul 2026 21:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "6ed655e5e88809dfa0b5f61b7d1bf6da"
+    },
+    {
+      "title": "Reddit stock sinks on report it may not renew Google AI content deal",
+      "description": "Google's AI summaries have reduced traffic to websites from the search results page and Reddit is reconsidering the benefits of the deal, the Journal said.",
+      "url": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
+      "publishedAt": "Wed, 22 Jul 2026 20:54:44 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "9a88b6ab317958584017fdd684235900"
+    },
+    {
+      "title": "Google Says Cloud Services Backlog Expands to $514 Billion",
+      "description": "Alphabet Inc. said its cloud computing unit had a $514 billion backlog of contracted work that hasn’t been recorded as revenue yet, signaling robust demand for its services that underpin the artificial intelligence boom.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/google-says-cloud-services-backlog-expands-to-514-billion",
+      "publishedAt": "Wed, 22 Jul 2026 20:54:32 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9dcd94e8cb704cee906d9d2a16a3ec18"
+    },
+    {
+      "title": "Alphabet Posts $98 Billion in Second-Quarter Investment Gains",
+      "description": "Alphabet Inc. on Wednesday reported investment gains of $98 billion as part of its second-quarter earnings results.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/alphabet-posts-98-billion-in-second-quarter-investment-gains",
+      "publishedAt": "Wed, 22 Jul 2026 20:44:57 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "46b350bb822e890e00b23642b42af52d"
+    },
+    {
+      "title": "ServiceNow Posts Strong Sales and Bookings, Touts AI Strength",
+      "description": "ServiceNow Inc. reported better-than-expected quarterly sales and bookings, boosting Wall Street’s hopes that the software maker’s new artificial intelligence tools will spur growth.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/servicenow-posts-strong-sales-and-bookings-touts-ai-strength",
+      "publishedAt": "Wed, 22 Jul 2026 20:17:54 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "2b681a2c9ee47887f8d7a48009c6f2d1"
+    },
+    {
+      "title": "IBM Cuts Full-Year Sales Outlook as Mainframe Demand Drops",
+      "description": "International Business Machines Corp. cut its full-year sales outlook, including for its closely watched software unit, after reporting a dip in demand for its mainframe business.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/ibm-cuts-full-year-sales-outlook-after-mainframe-unit-dip",
+      "publishedAt": "Wed, 22 Jul 2026 20:11:12 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "3aa4bfca8271a6f3d0c43fdd68802326"
+    },
+    {
+      "title": "Texas Instruments Gets Lukewarm Reaction to Upbeat Forecast",
+      "description": "Texas Instruments Inc., the biggest maker of analog and embedded processing chips, gave a sales forecast that topped estimates but failed to excite investors, who have bid up the company’s shares this year.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/texas-instruments-gets-lukewarm-reaction-to-upbeat-forecast",
+      "publishedAt": "Wed, 22 Jul 2026 20:10:57 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "ddc33a44684682c782c5aa86d1c9274c"
+    },
+    {
+      "title": "Alphabet’s $205 Billion AI Spending Spree Raises Stakes for Tech",
+      "description": "Alphabet Inc. set the tone for Big Tech earnings with a higher spending outlook that stoked fears of fiscal discipline falling by the wayside in the race to dominate artificial intelligence.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/alphabet-posts-cloud-sales-beat-slight-miss-on-search-revenue",
+      "publishedAt": "Wed, 22 Jul 2026 20:10:19 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "f6ba91b20ca5e25bda75f28fc39c8dd6"
+    },
+    {
+      "title": "Amazon cuts some jobs in its artificial general intelligence unit",
+      "description": "Amazon's AGI unit has released a set of AI models, called Nova, and also includes groups working on silicon and quantum computing.",
+      "url": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html",
+      "publishedAt": "Wed, 22 Jul 2026 19:50:16 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "6381a3685a7d0d1e7e4297d5672e7760"
+    },
+    {
+      "title": "OpenAI President Says Kimi K3 ‘Pretty Good,’ Unsure If Distilled",
+      "description": "OpenAI President Greg Brockman acknowledged that Moonshot AI had developed a competitive new artificial intelligence model and said he wasn’t sure whether the Chinese firm had piggybacked on the ChatGPT maker’s technology.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/openai-president-says-kimi-k3-pretty-good-unsure-if-distilled",
+      "publishedAt": "Wed, 22 Jul 2026 19:31:20 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9cbe17d57784b18e13889d7eb02a57fd"
+    },
+    {
+      "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
+      "description": "The incident is unique because it was \"driven, end to end, by an autonomous AI agent system,\" according to Hugging Face.",
+      "url": "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
+      "publishedAt": "Wed, 22 Jul 2026 18:37:37 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "dfedc9f41db4e464b6d0eb38602335d8"
+    }
+  ]
+}
