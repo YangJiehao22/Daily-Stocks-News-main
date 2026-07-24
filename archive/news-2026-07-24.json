@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-24T03:15:19.250582",
+  "count": 20,
+  "news": [
+    {
+      "title": "Intel's turnaround under CEO Lip-Bu Tan gains steam with another strong quarter",
+      "description": "It's hard not to be impressed by Tan, who, in a little more than a year, has transformed the company.",
+      "url": "https://www.cnbc.com/2026/07/23/intels-turnaround-under-ceo-lip-bu-tan-gains-steam-with-another-strong-quarter.html",
+      "publishedAt": "Thu, 23 Jul 2026 23:53:57 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "a9c3cef9ed256ecf0c9364904af405f0"
+    },
+    {
+      "title": "IBM's Krishna tries to reassure investors that AI won't disrupt company's software unit",
+      "description": "IBM's CEO highlighted growing mainframe hardware capacity, and said software should \"catch back up\" within a year.",
+      "url": "https://www.cnbc.com/2026/07/23/ibms-krishna-argues-that-ai-wont-disrupt-software-unit.html",
+      "publishedAt": "Thu, 23 Jul 2026 22:40:53 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "ea9e02695614798114002d0ef5d0ba45"
+    },
+    {
+      "title": "Robotics Startup Genesis in Talks to Raise About $500 Million",
+      "description": "AI robotics startup Genesis AI is in talks with investors to raise around $500 million in a new funding round, according to people familiar with the efforts.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million",
+      "publishedAt": "Thu, 23 Jul 2026 22:20:13 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "57dee8fceca1ce5c71a93c360e0ee9e7"
+    },
+    {
+      "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
+      "description": "Intel rallied after the company reported blowout earnings and guidance.",
+      "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+      "publishedAt": "Thu, 23 Jul 2026 22:17:09 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "f84e824456fec3fa4133445cb27bb147"
+    },
+    {
+      "title": "Nvidia Signs $1.5 Billion Accord With Amkor for Chip Packaging",
+      "description": "Nvidia Corp. signed a $1.5 billion agreement with Amkor Technology Inc. to help bolster the company’s chip packaging facilities, part of a broader push to expand semiconductor operations in the US.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/nvidia-signs-1-5-billion-accord-with-amkor-for-chip-packaging",
+      "publishedAt": "Thu, 23 Jul 2026 21:27:05 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "e1140cb8ef91dbddacbfe7943ead00be"
+    },
+    {
+      "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+      "description": "OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.",
+      "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
+      "publishedAt": "Thu, 23 Jul 2026 21:09:48 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "25c88c38b5cb78d6bc226622c50eb508"
+    },
+    {
+      "title": "SK Hynix Billionaire to Get Long-Awaited Divorce Case Ruling",
+      "description": "SK Hynix Inc. billionaire Chey Tae-won, whose fortune has been supercharged by the AI-boom, is set to receive a fresh court ruling in his long-running divorce battle with his former wife, bringing the acrimonious dispute closer to an end.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/sk-hynix-billionaire-to-get-long-awaited-ruling-on-divorce-case",
+      "publishedAt": "Thu, 23 Jul 2026 21:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "4c36ac518c6a2810c812b10bdac96354"
+    },
+    {
+      "title": "Tech Bonds Hit by Selloff as AI Debt Fears Race Through Markets",
+      "description": "The bonds of some of the biggest US tech companies slid Thursday amid renewed worries about the scale of the debt-fueled artificial-intelligence boom and escalating conflict in the Middle East.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/tech-bonds-hit-by-selloff-as-ai-debt-fears-race-through-markets",
+      "publishedAt": "Thu, 23 Jul 2026 20:48:41 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "25b5833875de93a96372cbd77e5cbaf9"
+    },
+    {
+      "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
+      "description": "Southwest hired a ship this spring to send fuel from Houston to Los Angeles in case of supply shortages.",
+      "url": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
+      "publishedAt": "Thu, 23 Jul 2026 20:45:13 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "4d3489c36d37b25544fa1104e8f1c70b"
+    },
+    {
+      "title": "Cerebras stock gains on AMD partnership",
+      "description": "Cerebras and AMD agreed to work together, pairing their technology for AI systems.",
+      "url": "https://www.cnbc.com/2026/07/23/cerebras-stock-gains-on-amd-partnership.html",
+      "publishedAt": "Thu, 23 Jul 2026 20:33:12 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "15a43f2a3209be91daeb0040e5b2cf4f"
+    },
+    {
+      "title": "10-year Treasury yield rises to highest since January 2025 as surging oil rekindles inflation fear",
+      "description": "U.S. Treasury yields climbed on Wednesday, following oil prices higher, as traders also reacted to a slump in weekly claims for unemployment insurance.",
+      "url": "https://www.cnbc.com/2026/07/23/treasury-yields-oil-prices-jobless-claims.html",
+      "publishedAt": "Thu, 23 Jul 2026 20:30:50 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "cb3228f335b319bf357a26e21bbcc084"
+    },
+    {
+      "title": "Tesla, Alphabet lose hundreds of billions in value in post-earnings stock plunge",
+      "description": "Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.",
+      "url": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
+      "publishedAt": "Thu, 23 Jul 2026 20:26:38 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "d383cc7d7495c4a10bf933a3370846d9"
+    },
+    {
+      "title": "Intel’s AI-Fueled Forecast Shows Comeback Is Gaining Steam",
+      "description": "Intel Corp. delivered a revenue forecast that shattered Wall Street estimates as booming data center spending fuels a long-awaited turnaround.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
+      "publishedAt": "Thu, 23 Jul 2026 20:01:43 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9b775e90b49264f5d5247f793a7d0729"
+    },
+    {
+      "title": "Alphabet’s Anthropic Stake Jumps to Around $124 Billion",
+      "description": "The value of Alphabet Inc.’s stake in the artificial intelligence startup Anthropic PBC has soared to around $124 billion, making it one of the most lucrative bets in the company’s history.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-anthropic-stake-jumps-to-around-124-billion",
+      "publishedAt": "Thu, 23 Jul 2026 19:53:35 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "679a350fec2df18a4263e775d68a58db"
+    },
+    {
+      "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
+      "description": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
+      "url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+      "publishedAt": "Thu, 23 Jul 2026 19:19:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "e36d45932112755bf240ba47c123563e"
+    },
+    {
+      "title": "Trump Expands AI Data Center Pledge in Bid to Ease Power Costs",
+      "description": "President Donald Trump on Thursday welcomed fresh commitments from power utilities and data center developers to put technology companies on the hook to pay for the electricity they need to drive energy-hungry artificial-intelligence systems.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/trump-expands-ai-data-center-pledge-in-bid-to-ease-power-costs",
+      "publishedAt": "Thu, 23 Jul 2026 19:07:19 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "fc94a8088e6d8639502aa5f696c82627"
+    },
+    {
+      "title": "Congress splits on war powers resolutions to force Trump to abandon Iran war",
+      "description": "Trump would be nearly certain to veto any measure to curtail his ability to wage war with Iran.",
+      "url": "https://www.cnbc.com/2026/07/23/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+      "publishedAt": "Thu, 23 Jul 2026 18:39:06 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "21d74fcc864425e4868dd22a5e9499a0"
+    },
+    {
+      "title": "House lawmakers grill former JPMorgan executive Jes Staley over Epstein ties",
+      "description": "House oversight Chair James Comer said Jes Staley defended Jeffrey Epstein and encouraged JPMorgan to retain him despite internal red flags.",
+      "url": "https://www.cnbc.com/2026/07/23/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+      "publishedAt": "Thu, 23 Jul 2026 18:15:58 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "895b3dd84be8ea369a90d02951f58bbc"
+    },
+    {
+      "title": "花几百万买的H100在「摸鱼」？英伟达：别怪显卡，是你的模型「长得丑」",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260723/6a61dfc41ce38.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/yanxishe/wFiCjuoj6zqG5WZ7.html",
+      "publishedAt": "Thu, 23 Jul 2026 17:34:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "ebb573332b0e097f2b3ae9e0094414bf"
+    },
+    {
+      "title": "US to Produce Ukraine’s Magura Sea Drones for the First Time",
+      "description": "A US manufacturer is set to produce Ukraine-designed, battle-tested boat drones for the first time, as the White House bids to bolster America’s military production and expand its unmanned arsenal.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/us-to-produce-ukraine-s-magura-sea-drones-for-the-first-time",
+      "publishedAt": "Thu, 23 Jul 2026 17:32:14 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "d3875a0e0f1e12a2a2c830ada048e108"
+    }
+  ]
+}
