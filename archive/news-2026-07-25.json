@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-25T03:13:47.785205",
+  "count": 20,
+  "news": [
+    {
+      "title": "Intel’s Rosy Results Still Leave Questions About Customers",
+      "description": "Intel Corp.’s upbeat quarterly report, which handily beat Wall Street estimates, still left a major question: how soon the chipmaker will line up outside customers for its factories.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
+      "publishedAt": "Thu, 23 Jul 2026 20:01:43 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "29793dd0a8a844951e84eeedb67a915b"
+    },
+    {
+      "title": "花几百万买的H100在「摸鱼」？英伟达：别怪显卡，是你的模型「长得丑」",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260723/6a61dfc41ce38.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/yanxishe/wFiCjuoj6zqG5WZ7.html",
+      "publishedAt": "Thu, 23 Jul 2026 17:34:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "ebb573332b0e097f2b3ae9e0094414bf"
+    },
+    {
+      "title": "快速查账！领100美元免费积分，反被Claude偷设陷阱疯狂扣费",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260723/6a61decaac8c1.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/yanxishe/QYg8NFOX1UYDWoXQ.html",
+      "publishedAt": "Thu, 23 Jul 2026 17:30:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "91c533e60cfae76e3dfc166bd2f4f3f2"
+    },
+    {
+      "title": "As Honda CR-V leads U.S. sales, automaker teases new American-built pickup truck",
+      "description": "The future of the Ridgeline midsize pickup truck had been in flux, and the automaker said there will be a temporary production stoppage for the truck.",
+      "url": "https://www.cnbc.com/2026/07/23/honda-american-built-pickup-truck.html",
+      "publishedAt": "Thu, 23 Jul 2026 17:02:35 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "95395943d517e6b1c5d9e3dcac2520e5"
+    },
+    {
+      "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+      "description": "<p>7月23日消息，阿里真武M890超节点已成功适配Qwen3.8，并上线阿里云百炼平台提供模型推理服务，这是国内首个成功运行超2万亿参数大模型的超节点。</p><p>&nbsp;</p><p>Qwen3.8是阿里最新旗舰模型，参数规模高达2.4万亿，跑通这一规模的模型需要将参数分散到几十张甚至上百张高速互联的GPU卡，让万亿参数“跑得又稳又快”。然而，普通AI集群因通信带宽的局限，无法满足高吞吐、低延迟、高并发的需求。</p><p>&nbsp;</p><p>真武M890是平头哥新一代训推一体",
+      "url": "https://www.leiphone.com/category/industrynews/QPSOggSAs8nAZ4Uc.html",
+      "publishedAt": "Thu, 23 Jul 2026 14:30:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "2450ba6c39186742fc66166863beaaf3"
+    },
+    {
+      "title": "全球已有1000万中小企业在用Accio Work做生意",
+      "description": "<p>7月23日，在杭州举办的一场数千人规模的全球跨境电商峰会现场，阿里国际站总裁张阔透露，全球已有1000万中小企业在用Accio Work做生意，一年内增长逾30倍。</p><p>据悉，过去12个月中，阿里国际站上的中小企业Token消耗量翻了10倍。与此同时，Accio Work单次任务的使用成本下降了50%。规模十倍级增长的背景下，单位成本反向下降，意味着模型效率与工程能力同步提升。</p><p>作为全球电商AI工作台，Accio Work已经接入阿里国际站、1688、淘宝、天猫、Sho",
+      "url": "https://www.leiphone.com/category/industrynews/IPXWpsIUAi4Hw8CO.html",
+      "publishedAt": "Thu, 23 Jul 2026 13:50:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "e31df55b319cd2ca0bb3523cedb24ae2"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "Verizon 与谷歌达成超 10 亿美元“暗光纤”数据中心网络连接交易",
+      "description": "<p>IT之家 7 月 25 日消息，美国电信运营商 Verizon（威瑞森）首席执行官 Dan Schulman 在当地时间 24 日举行的公司 2026Q2 财报电话会议上宣布，该企业与 Google（谷歌）达成了一份超 10 亿美元<sub>（IT之家注：现汇率约合 67.82 亿元人民币）</sub>的网络基础设施交易。</p><p>根据协议，<strong>Verizon 将利用已预先布设但尚未启用的“暗光纤”资源为谷歌提供数据中心连接服务</strong>。</p><p>Dan Sc",
+      "url": "https://www.ithome.com/0/981/459.htm",
+      "publishedAt": "Sat, 25 Jul 2026 03:08:21 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "28e85d0bd055cc7a90ebbb7d5892fec9"
+    },
+    {
+      "title": "2025 年我国数字产业收入 39.6 万亿元，同比增长 8.8%",
+      "description": "<p>IT之家 7 月 25 日消息，国家互联网信息办公室 24 日最新发布的《国家信息化发展报告》显示，2025 年，我国数字经济核心产业增加值占 GDP 的比重超过 10.5%，<strong>数字产业收入 39.6 万亿元，同比增长 8.8%</strong>。</p><p>我国居民数字消费规模达 25.3 万亿元，同比增长 8.7%。同时，我国网络基础设施提质升级。IT之家从数据中获悉，截至 2025 年底，我国 5G 基站总数达 483.8 万个，<strong>三分之二地级市达到千兆",
+      "url": "https://www.ithome.com/0/981/458.htm",
+      "publishedAt": "Sat, 25 Jul 2026 03:05:45 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "668e0cf62c3da05691c6bf76eec96d34"
+    },
+    {
+      "title": "前任天堂员工谈老东家工作环境：加班严重晋升难，但胜在稳定",
+      "description": "<p>IT之家 7 月 25 日消息，前任天堂北美分部员工 Kit Ellis 和 Krysta Yang 昨天发布最新一期《Kit &amp; Krysta》播客节目，总结在任天堂工作的优缺点。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/5d013c01-185d-42e4-bf01-3117e7480b28.png?x",
+      "url": "https://www.ithome.com/0/981/457.htm",
+      "publishedAt": "Sat, 25 Jul 2026 03:05:11 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "fed59568de88045baafef607f55dbf98"
+    },
+    {
+      "title": "字节跳动 TikTok 电商会员开启内测：免费配送 + 商品打折，对标亚马逊 Prime",
+      "description": "<p>IT之家 7 月 25 日消息，据 Business Insider 今日报道，TikTok 正在美国市场测试一项类似亚马逊 Prime 的会员订阅服务，希望进一步增强电商业务竞争力。</p><p>该服务名为 TikTok Shop Plus，已整合进 TikTok 的电商平台 Shop 中。该会员计划与 Amazon Prime 类似，提供免费配送、商品折扣以及优惠券等权益。</p><p style=\"text-align: center;\"><img src=\"https://img.",
+      "url": "https://www.ithome.com/0/981/450.htm",
+      "publishedAt": "Sat, 25 Jul 2026 02:34:08 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "12ed714c5276ed597b9379bc752ea1db"
+    },
+    {
+      "title": "V社将 Frame 欢迎指南添加至 Steam 后台，暗示 Steam Frame 头显即将发售",
+      "description": "<p>IT之家 7 月 25 日消息，据 X 平台消息人士 Brad Lynch 今日爆料，V社现已将 Steam Frame Welcome Tour（欢迎指南）添加至 Steam 后台。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/e1ee5a3e-7c60-439c-9578-7bebd70356a4.png?x-bce-process=image/for",
+      "url": "https://www.ithome.com/0/981/446.htm",
+      "publishedAt": "Sat, 25 Jul 2026 02:15:45 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "2a6a153ad35b5e8cb5535952ffb39d6a"
+    },
+    {
+      "title": "OpenAI 将打造“贾维斯”式语音助手，未来有望登陆第三方智能眼镜",
+      "description": "<p>IT之家 7 月 25 日消息，据外媒 CNET 报道，当地时间周四（23 日），OpenAI 总裁格雷格 · 布罗克曼介绍了公司最新的 AI 规划和近期动向，同时透露了 OpenAI 对<strong>可穿戴设备及硬件产品</strong>的部分构想。未来硬件可能与 ChatGPT 近期升级的语音功能深度结合，而且<strong>不会局限于 OpenAI 自有设备</strong>，第三方智能眼镜和可穿戴产品最终也有望获得支持。</p><p>现场演示了近期升级的语音界面 ChatGPT ",
+      "url": "https://www.ithome.com/0/981/445.htm",
+      "publishedAt": "Sat, 25 Jul 2026 02:10:26 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "217a8d36b139a8abd75429a4f578a583"
+    },
+    {
+      "title": "AI 探索破解水的百年谜团：为何水结冰会膨胀？",
+      "description": "<p>IT之家 7 月 25 日消息，日本大阪大学于 7 月 6 日发布博文，<strong>其团队利用 AI 模型探索水的百年谜团，找到了观察水分子的最佳“透视镜”。</strong></p><p>该研究系统性评估了 16 种不同的分子结构描述方法，<strong>成功找出了最能精准捕捉水分子在不同温度、压力下微观变化的“透视镜”，为理解水结冰膨胀及过冷水异常行为提供了统一的科学框架。</strong></p><p>博文指出水是地球表面最丰富的液体，但不同于其它液体，水在结冰时会膨胀。现有理论",
+      "url": "https://www.ithome.com/0/981/443.htm",
+      "publishedAt": "Sat, 25 Jul 2026 02:08:15 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "8ebcb4c999286416565db83e70dab5b7"
+    },
+    {
+      "title": "三星 Galaxy F70 Pro 手机现身 GeekBench，搭载骁龙 6 Gen 3 芯片",
+      "description": "<p>IT之家 7 月 25 日消息，一款型号为 SM-E476B 的三星新机前天现身 GeekBench 跑分数据库，<strong>录得单核 998 分、多核 3090 分的成绩</strong>，科技媒体 GSMArena 认为该机是 Galaxy F70 Pro。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/098c0d1c-312e-45d3-9f26",
+      "url": "https://www.ithome.com/0/981/441.htm",
+      "publishedAt": "Sat, 25 Jul 2026 01:59:49 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "977eb77a6b22ed520575b210eebd44c2"
+    },
+    {
+      "title": "全球首个室温量子材料问世，可自动区分并传输不同量子态光",
+      "description": "<p>IT之家 7 月 25 日消息，量子材料长期以来面临一个关键问题：大多数材料只有在接近绝对零度的低温环境下才能展现特殊量子性质。</p><p>美国路易斯安那州立大学（LSU）物理学家开发出了首个可在室温环境下工作的量子材料，能够区分不同量子态的光，并将其沿不同路径进行分流与传输，为量子计算、安全通信、传感技术和先进能源系统的实用化打开了新的大门。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsu",
+      "url": "https://www.ithome.com/0/981/438.htm",
+      "publishedAt": "Sat, 25 Jul 2026 01:51:40 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "9a3aab844b1c766ef7f367ef529d4435"
+    },
+    {
+      "title": "近 200 家硅谷公司致函白宫，呼吁不要禁止美国企业调用 Kimi K3/Qwen 3.8 等中国开源 AI 模型",
+      "description": "<p>IT之家 7 月 25 日消息，Politico 于 7 月 22 日发布博文，报道称近 200 家硅谷企业通过新成立的 Little Tech Association 协会联名致函白宫，<strong>反对美国封禁中国开源 AI 模型计划。</strong></p><p>IT之家援引博文介绍，包括 Proton 和创业孵化器 Y Combinator 在内，将近 200 家硅谷企业通过新成立的 \" 小科技协会 \"（Little Tech Association），致函美国白宫，要求不要切",
+      "url": "https://www.ithome.com/0/981/437.htm",
+      "publishedAt": "Sat, 25 Jul 2026 01:46:51 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "29f7ccbb72faedf62d90c7ac01bd771a"
+    },
+    {
+      "title": "智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+      "description": "<p>IT之家 7 月 25 日消息，OpenAI 的一款 AI 智能体闯入模型托管平台 Hugging Face 后，连续数日自行发动网络攻击。威胁早已被控制，Hugging Face 也已经报警，但据路透社援引多名熟悉调查的人士消息称，OpenAI <strong>过了相当长时间</strong>才发现攻击者竟是自家智能体。</p><p>据其中两名知情人士透露，涉事智能体几乎无需人类监督，便能自主决策并完成复杂任务。7 月 9 日前后，智能体开始尝试<strong>突破 OpenAI 的隔离",
+      "url": "https://www.ithome.com/0/981/432.htm",
+      "publishedAt": "Sat, 25 Jul 2026 01:08:45 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "4e3f344864b921bf489c0cee5ed0fdb7"
+    }
+  ]
+}
