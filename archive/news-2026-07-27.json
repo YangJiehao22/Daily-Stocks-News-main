@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-27T03:36:07.688068",
+  "count": 20,
+  "news": [
+    {
+      "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+      "description": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
+      "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+      "publishedAt": "Thu, 23 Jul 2026 17:10:06 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "13fc1c4cd62dc3c2fe07f968572b6870"
+    },
+    {
+      "title": "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds",
+      "description": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place.",
+      "url": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
+      "publishedAt": "Sun, 26 Jul 2026 23:58:00 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "6bf6cf77296a21fd9e58cb4639620972"
+    },
+    {
+      "title": "Chinese Biotech Overtakes AI as Emerging-Market Growth Trade",
+      "description": "As the artificial-intelligence rally sputters in emerging markets, investors searching for high-growth alternatives are turning to Chinese biotech.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/chinese-biotech-overtakes-ai-as-emerging-market-growth-trade",
+      "publishedAt": "Sun, 26 Jul 2026 23:51:03 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "1af096baa862a433f03ff601fa2000a3"
+    },
+    {
+      "title": "Nvidia Mulls $250 Billion Backing for OpenAI Hub, WSJ Says",
+      "description": "Nvidia Corp.’s in discussions to provide a guarantee of about $250 billion to help OpenAI lease computing from a giant data center project planned for southern Ohio, the Wall Street Journal reported, citing people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+      "publishedAt": "Sun, 26 Jul 2026 23:31:04 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "40f8174436768415f1eca602e670e68c"
+    },
+    {
+      "title": "China’s CXMT Jumps 472% in Debut After Blockbuster IPO",
+      "description": "CXMT Corp.’s shares rose 472% when they began trading in Shanghai on Monday, making the memory chipmaker China’s largest listed firm onshore.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/china-memory-champion-cxmt-set-to-debut-after-9-8-billion-ipo",
+      "publishedAt": "Sun, 26 Jul 2026 23:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "6fb5bcf7d79e7edc9f755629787f2085"
+    },
+    {
+      "title": "European SpaceX Rival in Talks to Raise $300 Million, FT Reports",
+      "description": "The Exploration Company Gmbh, a potential European rival to Elon Musk’s SpaceX, is in talks to raise at least $300 million, in part from the European Union’s Scaleup Europe Fund, bumping the company’s valuation to more than $2 billion, the Financial ",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/european-spacex-rival-in-talks-to-raise-300-million-ft-reports",
+      "publishedAt": "Sun, 26 Jul 2026 17:49:40 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "8e31d33b6feffd8521362d3934073a04"
+    },
+    {
+      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
+      "description": "The latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen, represent a widening of the Middle East conflict.",
+      "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+      "publishedAt": "Sun, 26 Jul 2026 17:11:36 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "1775e5760970b3c4c6a1c9b8ee533e61"
+    },
+    {
+      "title": "数学大佬在前面拓荒，AI研究员在后面捡宝，菲尔兹奖还能拿来破AI「黑盒」？",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260726/6a65cae5a33d9.png?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/yanxishe/e05vwo1DgZf3HnFZ.html",
+      "publishedAt": "Sun, 26 Jul 2026 16:54:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "bbdaaacabbd653fc445a22bfae3c85bc"
+    },
+    {
+      "title": "How AI wealth could be distributed to all Americans",
+      "description": "AI riches are already concentrated among a handful of powerful companies, but there are plenty of new, some radical, ideas about how to spread the wealth.",
+      "url": "https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html",
+      "publishedAt": "Sun, 26 Jul 2026 14:06:53 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0b41d8f8b555eca9ae68423ff7a471d4"
+    },
+    {
+      "title": "Some high-earning investors will soon owe taxes on years of deferred capital gains",
+      "description": "A key incentive in place for current Opportunity Zone investors — deferring taxation of reinvested capital gains — will end on Dec. 31.",
+      "url": "https://www.cnbc.com/2026/07/26/opportunity-zone-investors-face-deferred-capital-gains-tax-bill.html",
+      "publishedAt": "Sun, 26 Jul 2026 13:30:02 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "c8153fb6d1cd2d160f15c009a15ba09d"
+    },
+    {
+      "title": "New UK Prime Minister Burnham says he would be prepared to call out Trump",
+      "description": "Burnham said he had a phone conversation with Trump on Monday when he officially took on the role, describing it as \"a good exchange\".",
+      "url": "https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html",
+      "publishedAt": "Sun, 26 Jul 2026 12:17:14 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "324951e6930612e3240c9f290351a7d7"
+    },
+    {
+      "title": "100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum",
+      "description": "Democrats see a path back to the U.S. House majority this November as President Donald Trump's approval dips.",
+      "url": "https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html",
+      "publishedAt": "Sun, 26 Jul 2026 12:00:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "61e8206453c9314e7c85d6d950f201f9"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "奇瑞“不客气”了！风云A9打破15万级纯电“潜规则”",
+      "description": "<p style=\"margin-top: 7.8pt; margin-bottom: 7.8pt; text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260725/6a64c29b74759.png?imageView2/2/w/740\" /></p><p style=\"margin-top: 7.8pt; margin-bottom: 7.8pt;\">站在全球2000万辆销售规模的新",
+      "url": "https://www.leiphone.com/category/transportation/JUMeihhqkG3LSj0L.html",
+      "publishedAt": "Sat, 25 Jul 2026 22:07:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "f3816d6e856e6346924575c5ba1e2822"
+    },
+    {
+      "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
+      "description": "Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.",
+      "url": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
+      "publishedAt": "Sat, 25 Jul 2026 14:03:03 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "d3703f5b073cda12db49c6f1f846b038"
+    },
+    {
+      "title": "Does crypto make your portfolio less risky? Only if you do it right, experts say",
+      "description": "There's a right way and a wrong way to use cryptocurrencies such as bitcoin for portfolio diversification, financial advisors and market analysts said.",
+      "url": "https://www.cnbc.com/2026/07/25/crypto-diversified-investment-portfolio.html",
+      "publishedAt": "Sat, 25 Jul 2026 13:30:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "76705adb7f2e8a10cdb4103b6f813b34"
+    },
+    {
+      "title": "AI 3D产业路线首次公开讨论：Hi3D闭门会释放哪些新趋势？",
+      "description": "<p style=\"text-align: left; margin-top: 16pt; margin-bottom: 6pt;\"><span>深圳，7月23日——Hi3D实体创意生态闭门会在深圳举行。围绕“探索AI驱动的下一代可制造生态”，Hi3D与3D打印硬件、制造、创作者及Maker领域嘉宾共同探讨AI 3D从数字生成走向实体制造的新趋势。</span></p><p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;",
+      "url": "https://www.leiphone.com/category/weiwu/VqgEeeerbpYbQcUF.html",
+      "publishedAt": "Sat, 25 Jul 2026 13:09:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "1244ed96e6c8d567d121271e4778cacb"
+    },
+    {
+      "title": "Buffett favors an estate tax, but like virtually all billionaires, he won't be paying it",
+      "description": "Warren Buffett believes he and other very wealthy Americans are under-taxed but by giving his fortune to charity, he won't be paying billions in potential levies to the government.",
+      "url": "https://www.cnbc.com/2026/07/25/buffett-favors-an-estate-tax-but-like-virtually-all-billionaires-he-wont-be-paying-it.html",
+      "publishedAt": "Sat, 25 Jul 2026 12:28:33 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "b1c8e305fed4a548c7fb8f34021567f4"
+    }
+  ]
+}
