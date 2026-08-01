@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-08-01T03:25:23.368050",
+  "count": 20,
+  "news": [
+    {
+      "title": "CVC Marathon on Hyperscalers’ Credit Risks",
+      "description": "Bruce Richards, Managing Partner and Head of CVC Marathon discusses the current state of credit markets and the cost of capital. With $80 billion in assets under management and extensive Wall Street experience, Richards provided valuable perspectives",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-30/marathon-asset-management-on-hyperscalers-credit-risks-video",
+      "publishedAt": "Thu, 30 Jul 2026 22:10:17 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "b1183aa25c93ed6d861be1eaf1ada294"
+    },
+    {
+      "title": "Apple Suffers Worst Rout Since 2025 on Disappointing Outlook",
+      "description": "Apple Inc. suffered its worst stock decline in 16 months after component shortages weighed on the company’s sales forecast, signaling that industrywide supply constraints are taking a bigger toll than anticipated.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-sales-disappoint-in-china-unit-services-business",
+      "publishedAt": "Thu, 30 Jul 2026 20:40:42 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9d93b9329454d12a4c81fe5c30ccf98d"
+    },
+    {
+      "title": "Roblox Shares Slump on Safety-Measures Impact, Weak Forecast",
+      "description": "Roblox Corp. shares tumbled nearly 27%, their largest single-day decline ever, after the gaming company reported second-quarter daily active users that missed analysts’ expectations, reflecting the ongoing impact of new child-safety measures.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/roblox-users-miss-estimates-reflecting-impact-of-safety-measures",
+      "publishedAt": "Thu, 30 Jul 2026 20:20:41 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "3cad20f9974f0ee0a810df9d25e96667"
+    },
+    {
+      "title": "Amazon Shares Soar Most Since 2012 on Cloud Sales Growth",
+      "description": "Amazon.com Inc. shares surged the most since 2012 after the company reported accelerating cloud-computing revenue, easing investors’ concerns that it won’t produce a return on huge expenditures to meet the booming demand for artificial intelligence.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth",
+      "publishedAt": "Thu, 30 Jul 2026 20:16:21 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9b5b9665cea435fd14d96874f5c24708"
+    },
+    {
+      "title": "GPT-5.6 SOL 暴走失控，GLM5.2 紧急救场，HF 揭秘大模型攻防战技术细节",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260730/6a6b190f008d0.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/Jz79dkQ6b4MZOQzB.html",
+      "publishedAt": "Thu, 30 Jul 2026 17:28:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "267085fa3a0769b7adf25c083b7f7acd"
+    },
+    {
+      "title": "腾讯云发布智能数据湖计算 AI DLC，打通数据处理到 Agent 应用全流程",
+      "description": "<p>从数据处理到&nbsp;Agent 的链路正在被大幅压缩。</p><p>7月30日，记者获悉，腾讯云正式发布智能数据湖计算平台AI DLC，面向自动驾驶、具身智能、Agent等AI场景，提供覆盖数据处理、训练、推理到 Agent 应用的一体化能力。以腾讯自研的 WorkBuddy 为例，接入 AI DLC 后，其处理同一批数据的端到端时间缩短80%，完成相同任务所需算力约为此前的五分之一。</p><p><img src=\"https://static.leiphone.com/upload",
+      "url": "https://www.leiphone.com/category/industrynews/TQUNoClidGdk8snL.html",
+      "publishedAt": "Thu, 30 Jul 2026 14:56:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "77f61c0645b2732d730e4465da3562fa"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "LG 回应其显示器连 Win11 推广 McAfee 事件：不自动安装、不收集隐私信息",
+      "description": "<p>IT之家 8 月 1 日消息，科技媒体 Windows Central 今天（8 月 1 日）发布博文，报道称针对“LG 显示器连接 Windows 11 PC 后跳出 McAfee 推广内容”事件，<strong>LG 发布最新回应声明。</strong></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/a75bf37c",
+      "url": "https://www.ithome.com/0/984/458.htm",
+      "publishedAt": "Sat, 01 Aug 2026 03:10:36 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "8e566bab2a1fa5585e7fc67c815d9b7f"
+    },
+    {
+      "title": "Beats 成立 20 周年 / 加入苹果 12 周年之际，其美国实验室首次向媒体开放",
+      "description": "<p>IT之家 8 月 1 日消息，在 Beats by Dr. Dre（Beats）品牌成立 20 周年（2006 年由音乐人 Dr. Dre 和吉米 · 艾欧文共同成立）以及加入苹果公司 12 周年之际，科技媒体 TechRadar 昨日（7 月 31 日）发布博文，<strong>探访 Beats 位于美国加州卡尔弗城的办公区与工程实验室，这也是该实验室首次向媒体开放。</strong></p><p>Beats 公司于 2014 年以 30 亿美元（IT之家注：现汇率约合 202.95 亿",
+      "url": "https://www.ithome.com/0/984/454.htm",
+      "publishedAt": "Sat, 01 Aug 2026 02:51:20 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "588b93051beb69c2aa39997604e06404"
+    },
+    {
+      "title": "ChatGPT 被柬埔寨诈骗网络利用，OpenAI 出手封禁",
+      "description": "<p>IT之家 8 月 1 日消息，OpenAI 官方昨日在官网发文称，公司成功打击一起位于柬埔寨的诈骗网络，这些诈骗人士利用 ChatGPT，进行投资、恋爱、赌博诈骗。</p><p>IT之家从 OpenAI 官方获悉，本起案件发生在今年早些时候，最初由 WhatsApp 方面提供线索。这些诈骗分子采取有组织的团伙模式，灵活采用各种叙事方式、虚假身份和攻击手段，以最大程度地欺骗受害者。</p><p style=\"text-align: center;\"><img src=\"https://img",
+      "url": "https://www.ithome.com/0/984/451.htm",
+      "publishedAt": "Sat, 01 Aug 2026 02:37:12 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "e8dd7b0f4fa5d9ed7fa252480a648a70"
+    },
+    {
+      "title": "亚马逊提前兑现对 OpenAI 投资 500 亿美元承诺，当前持股约 5%",
+      "description": "<p>IT之家 8 月 1 日消息，参考《金融时报》报道，根据 Amazon（亚马逊）当地时间本周五的财务业绩披露，<strong>这家企业已提前完成对 OpenAI 的 350 亿美元后续投资</strong>，使得投资总额达到 500 亿美元（IT之家注：现汇率约合 3382.45 亿元人民币）。Amazon 当前在 OpenAI 的持股比例约为 5%。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/ne",
+      "url": "https://www.ithome.com/0/984/449.htm",
+      "publishedAt": "Sat, 01 Aug 2026 02:27:34 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "52abb04e88ee5c6ae5f4ec03560e2cdd"
+    },
+    {
+      "title": "深蓝汽车全球累计销量突破 91 万辆",
+      "description": "<p>IT之家 8 月 1 日消息，深蓝汽车今日公布 2026 年 7 月全球销量数据：当月销量同比增长 7.52%；海外市场环比增长 22.87%。截至 7 月底，深蓝品牌全球累计销量正式突破 91 万辆，预计年内将稳步跨入百万用户俱乐部。</p><p style=\"text-align: center;\"><img alt=\"IMG_256\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/ffca3524-e144-4200-9336-",
+      "url": "https://www.ithome.com/0/984/448.htm",
+      "publishedAt": "Sat, 01 Aug 2026 02:22:05 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "9ce1d30e4ce858196c84d0e646691734"
+    },
+    {
+      "title": "OpenAI 宣布其 AI 模型触达全球超 10 亿活跃用户和 200 万家企业",
+      "description": "<p>IT之家 8 月 1 日消息，OpenAI 昨日（7 月 31 日）发布博文，<strong>宣布其模型已触达超过 10 亿活跃用户和超过 200 万家企业。</strong></p><p>博文指出用户注册使用 ChatGPT 六周后，每天发送的消息量增加了约 50%，<strong>并且使用 ChatGPT 完成的工作类型也增加了一倍左右。</strong></p><p>IT之家援引博文介绍，ChatGPT Work 正在改变知识工作者的定义，<strong>不再局限于回答问题，通过把“",
+      "url": "https://www.ithome.com/0/984/446.htm",
+      "publishedAt": "Sat, 01 Aug 2026 02:15:31 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "4ff0fc5cdf921f735fe165860bd9e039"
+    },
+    {
+      "title": "小米 REDMI K100 Pro Max 手机搭载第五代骁龙 8 至尊版芯片，8 月 11 日发布",
+      "description": "<p>IT之家 8 月 1 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今天在微博发文称，<strong>REDMI K100 Pro Max 手机搭载第五代骁龙 8 至尊版芯片</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/d33449a3-caa6-4384-ae42-1253fa",
+      "url": "https://www.ithome.com/0/984/445.htm",
+      "publishedAt": "Sat, 01 Aug 2026 02:15:11 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "ce293378baeb6c53f8b66e012451cd82"
+    },
+    {
+      "title": "消息称恩智浦洽谈收购边缘 AI 芯片设计企业 Ambarella",
+      "description": "<p>IT之家 8 月 1 日消息，《金融时报》当地时间昨日报道称，<strong>NXP（恩智浦）正就收购边缘 AI 芯片设计企业 Ambarella（安霸）进行谈判</strong>。这笔交易仍在讨论中，不一定会达成。</p><p>Ambarella 当前市值 37.73 亿美元（IT之家注：现汇率约合 255.24 亿元人民币）。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithom",
+      "url": "https://www.ithome.com/0/984/442.htm",
+      "publishedAt": "Sat, 01 Aug 2026 02:08:41 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "50cbfadaf486806f853f7ac323da3b40"
+    },
+    {
+      "title": "上汽通用五菱：7 月华境 S 旗舰大六座 SUV 交付 7203 台",
+      "description": "<p>IT之家 8 月 1 日消息，上汽通用五菱旗下华境汽车今天（1 日）公布，华境 S 车型于 2026 年 7 月<strong>交付 7203 台</strong>，6 月交付 5689 台。据了解，华境 S 定位大六座 SUV，14.98 万元起售，全系搭载华为乾崑智驾和鸿蒙座舱，支持高速、城区领航辅助及全场景泊车。</p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"https://img.ithome.com/newsupload",
+      "url": "https://www.ithome.com/0/984/441.htm",
+      "publishedAt": "Sat, 01 Aug 2026 02:05:43 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "615d4cbe2a176a7984e2de9134bfd151"
+    },
+    {
+      "title": "消息称苹果明年更新 iPad Air 模具，换装 OLED 屏幕",
+      "description": "<p>IT之家 8 月 1 日消息，据科技媒体 MacRumors 昨天报道，苹果的 iPad Air 产品线自 2020 年以来一直使用同一套模具，外观几年来没有变化。不过，这种情况可能会在明年迎来变化。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/fb66dfed-0cae-43fa-a3da-e517773781e9.",
+      "url": "https://www.ithome.com/0/984/440.htm",
+      "publishedAt": "Sat, 01 Aug 2026 02:04:43 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "2488137f1e072277153e9062afcbca89"
+    },
+    {
+      "title": "YUNZII 推出三模机械键盘 IF68：65% 小配列，集成旋钮与 TFT 小竖屏",
+      "description": "<p>IT之家 8 月 1 日消息，YUNZII（键设宇宙）昨日推出了三模机械键盘 IF68。这一型号<strong>采用 63 键 + 旋钮 + 200×480 TFT 小竖屏的 65% 配列设计</strong>，提供木槿粉、香草米、永夜黑 3 种配色选项。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/b8aa7ed3-",
+      "url": "https://www.ithome.com/0/984/437.htm",
+      "publishedAt": "Sat, 01 Aug 2026 01:47:41 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "29feb30d8f9bdc59f814efec425f2dd8"
+    }
+  ]
+}
