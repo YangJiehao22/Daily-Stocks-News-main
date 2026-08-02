@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-08-02T03:25:10.523628",
+  "count": 20,
+  "news": [
+    {
+      "title": "GPT-5.6 SOL 暴走失控，GLM5.2 紧急救场，HF 揭秘大模型攻防战技术细节",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260730/6a6b190f008d0.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/Jz79dkQ6b4MZOQzB.html",
+      "publishedAt": "Thu, 30 Jul 2026 17:28:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "267085fa3a0769b7adf25c083b7f7acd"
+    },
+    {
+      "title": "腾讯云发布智能数据湖计算 AI DLC，打通数据处理到 Agent 应用全流程",
+      "description": "<p>从数据处理到&nbsp;Agent 的链路正在被大幅压缩。</p><p>7月30日，记者获悉，腾讯云正式发布智能数据湖计算平台AI DLC，面向自动驾驶、具身智能、Agent等AI场景，提供覆盖数据处理、训练、推理到 Agent 应用的一体化能力。以腾讯自研的 WorkBuddy 为例，接入 AI DLC 后，其处理同一批数据的端到端时间缩短80%，完成相同任务所需算力约为此前的五分之一。</p><p><img src=\"https://static.leiphone.com/upload",
+      "url": "https://www.leiphone.com/category/industrynews/TQUNoClidGdk8snL.html",
+      "publishedAt": "Thu, 30 Jul 2026 14:56:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "77f61c0645b2732d730e4465da3562fa"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "华为鸿蒙 HarmonyOS 7 实装游戏秒启秒开特性，《原神》《洛克王国》等可极速启动",
+      "description": "<p>IT之家 8 月 2 日消息，在今年 6 月，华为手机官方宣布，HarmonyOS SDK 26 正式发布，在易用、空间化、智能化全面升级，<a href=\"https://www.ithome.com/0/964/569.htm\" target=\"_blank\">其中就带来了游戏秒启秒开功能</a>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuplo",
+      "url": "https://www.ithome.com/0/984/676.htm",
+      "publishedAt": "Sun, 02 Aug 2026 02:37:00 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "86a8ce95fd10f6bcca792fdff5c8e86c"
+    },
+    {
+      "title": "消息称英特尔发放加班费以加速俄亥俄晶圆厂建设，EMIB-T 封装良率逼近 90%",
+      "description": "<p>IT之家 8 月 2 日消息，英特尔目前似乎正全力推动其俄亥俄州晶圆厂综合体建设，并计划在 2031 年实现全面运营。为了达成这一长期目标，公司愿意提供丰厚奖金以激励员工加快进度。与此同时，英特尔的 EMIB-T 先进封装技术也迎来了利好，目前唯一尚未解决的关键问题，就是基板良率。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/c81c8d63-877c-4",
+      "url": "https://www.ithome.com/0/984/675.htm",
+      "publishedAt": "Sun, 02 Aug 2026 02:31:58 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "14f36f164054c1d5f9d5436f9dbc77bc"
+    },
+    {
+      "title": "谷歌 Gemini Spark 智能体对全球更多用户开放，支持订机票、整理收件箱等操作",
+      "description": "<p>IT之家 8 月 2 日消息，谷歌于 7 月 31 日宣布将 Gemini Spark 智能体开放给全球大部分用户，这款产品能够在用户指示下，完成整理收件箱、总结通讯邮件、取消订阅等操作。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/96c5bb3d-6bfe-4b2b-9ac0-fe90c50b2e09.jpg?x-bce-process=image/f",
+      "url": "https://www.ithome.com/0/984/674.htm",
+      "publishedAt": "Sun, 02 Aug 2026 02:27:08 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "b3876a44e8caa806c5cae472a668f15c"
+    },
+    {
+      "title": "戴尔创始人迈克尔 · 戴尔分享 42 年前公司首份季度财报：“这一页改变了我的人生”",
+      "description": "<p>IT之家 8 月 2 日消息，迈克尔 · 戴尔（Michael Dell）是戴尔科技（Dell Technologies）的创始人，近日他分享了自己公司 1984 年 7 月 31 日发布的季度财报，并表示：“这一页改变了我的人生。”</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/b92b677b-a1e0-4e1d-a",
+      "url": "https://www.ithome.com/0/984/673.htm",
+      "publishedAt": "Sun, 02 Aug 2026 02:10:54 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "4c60b914db16492a3fa0b1971dc51463"
+    },
+    {
+      "title": "初创公司 Majestic 推出 AI 服务器“普罗米修斯”，可选配 8TB-128TB LPDDR6 内存",
+      "description": "<p>IT之家 8 月 2 日消息，据科技媒体 TechRadar 今天报道，初创公司 Majestic Labs 最近宣布推出 Prometheus（普罗米修斯） AI 服务器。新品采用 AIU+LPDDR6 内存的组合，旨在挑战英伟达的 GPU+HBM 组合。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/c0e52f0c",
+      "url": "https://www.ithome.com/0/984/671.htm",
+      "publishedAt": "Sun, 02 Aug 2026 02:06:47 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "7842bc23bbac2509c3b047075099b211"
+    },
+    {
+      "title": "说唱歌手 Fenix Flexin 单曲《Rubberz》走红，被质疑由 AI 生成",
+      "description": "<p>IT之家 8 月 2 日消息，Fenix Flexin 最为人熟知的身份，是洛杉矶说唱组合 Shoreline Mafia 的成员。不过，最近他凭借单曲《Rubberz》获得了个人音乐事业上的突破，这首歌已经攀升至 Billboard Hot 100 榜单第 58 位。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/03",
+      "url": "https://www.ithome.com/0/984/667.htm",
+      "publishedAt": "Sun, 02 Aug 2026 01:19:56 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "0df913567b53a61dfeab38c4377fc913"
+    },
+    {
+      "title": "苹果称 MacBook Neo 正助力美国学校替换 Windows 和 Chromebook",
+      "description": "<p>IT之家 8 月 2 日消息，据科技媒体 9To5Mac 今天报道，苹果在 2026 财年第三季度财报电话会议中透露，MacBook Neo 笔记本在 K-12 教育市场表现出色，正在快速取代 Windows 笔记本和谷歌 Chromebook。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/3bac28cc-00af-4a15-8f7f-6ffa2fc3f",
+      "url": "https://www.ithome.com/0/984/665.htm",
+      "publishedAt": "Sun, 02 Aug 2026 01:06:59 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "a7dc23e44b8f819c87d7f3993c067ec3"
+    },
+    {
+      "title": "OpenAI CEO 奥尔特曼提出用 AI 打造亲子晨间播客，遭网友批评",
+      "description": "<p>IT之家 8 月 2 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）对于“酷（cool）”的理解，似乎与大多数人并不相同。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/2/8ad2304d-c61b-4004-9483-e1a55ca43342.png?x-bce-process=image/f",
+      "url": "https://www.ithome.com/0/984/664.htm",
+      "publishedAt": "Sun, 02 Aug 2026 01:05:26 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "b4891185ae71e8c116d472ea34265fbb"
+    },
+    {
+      "title": "微信地震预警功能上新，支持“震感汇聚”与“位置更新”",
+      "description": "<p>IT之家 8 月 2 日消息，中国地震台网今日宣布，微信地震预警上线新功能：<strong>“震感汇聚”</strong>与<strong>“位置更新”</strong>。</p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/54554a68-8b19-4d5f-9355-e0b36765a33f.png?x-bce-process=image/",
+      "url": "https://www.ithome.com/0/984/663.htm",
+      "publishedAt": "Sun, 02 Aug 2026 01:03:42 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "73d43f756ebbb43f2c25a9db46df6b5a"
+    },
+    {
+      "title": "高通完成收购 Modular，加速 AI 计算布局",
+      "description": "<p>IT之家 8 月 2 日消息，高通公司最近（7 月 29 日）宣布完成收购 Modular Inc.，双方将进一步打造领先的 AI 计算平台，提供完整的 AI 解决方案。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/4df1c7e0-ce6e-4ec0-80ad-bbac8addf88e.png?x-bce-proce",
+      "url": "https://www.ithome.com/0/984/662.htm",
+      "publishedAt": "Sun, 02 Aug 2026 00:41:30 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "df7bc5e6a8b785c0ecdff46ff9a2659c"
+    },
+    {
+      "title": "我国实现“县县通千兆”“村村通宽带”后，有小区已通万兆光网",
+      "description": "<p>IT之家 8 月 2 日消息，我国正加快新一代通信网建设，目前千兆光网典型应用已覆盖超九成国民经济大类。据央视新闻今日报道，<strong>我国已经实现“县县通千兆”“村村通宽带”</strong>，千兆光网典型应用案例超过 5 万个，重庆等城市已实现千兆光网城乡全域覆盖。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/",
+      "url": "https://www.ithome.com/0/984/658.htm",
+      "publishedAt": "Sun, 02 Aug 2026 00:25:24 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "50d83a2611d8b8e486be4fbe97c40a85"
+    },
+    {
+      "title": "Steam 2026 年 7 月软硬件调查报告发布：RTX 3060 仍居榜首，16GB 显存占比大涨",
+      "description": "<p>IT之家 8 月 2 日消息，Valve 发布了 2026 年 7 月最新的 Steam 软硬件调查数据，展现了当前 Steam 用户群体的硬件配置和软件系统分布变化，多个核心配置品类出现明显占比变动。</p><p style=\"text-align: center;\"><img alt=\"调查图表\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/81b3c024-f096-4429-8e1d-59ba81fbdfbc.jpg\" />",
+      "url": "https://www.ithome.com/0/984/653.htm",
+      "publishedAt": "Sun, 02 Aug 2026 00:01:32 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "3eea9500dbeaf1f31a3baeede5f6a220"
+    },
+    {
+      "title": "漫威索尼《蜘蛛侠：崭新之日》上映 5 天总票房破 7 亿，豆瓣 7.8 分系列最高",
+      "description": "<p>IT之家 8 月 2 日消息，据猫眼专业版数据，漫威索尼超英新作 《蜘蛛侠：崭新之日》 上映 5 天，<strong>总票房破 7 亿</strong>（累计票房已达 7.12 亿）。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/41c9fe67-f01d-4946-ae18-275781ffc217.png?x-bc",
+      "url": "https://www.ithome.com/0/984/651.htm",
+      "publishedAt": "Sat, 01 Aug 2026 23:51:46 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "de864917e682fe26358a4104de18a0d8"
+    },
+    {
+      "title": "未披露使用 AI 辅助创作引争议，海外科普博主 Hank Green 致歉",
+      "description": "<p>IT之家 8 月 2 日消息，海外知名科普创作者汉克 · 格林（Hank Green）表示，在因使用 AI 而受到粉丝批评后，他将放缓内容创作节奏。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/3f74901a-5027-402f-8e40-2c9d4549d039.jpg?x-bce-process=image/fo",
+      "url": "https://www.ithome.com/0/984/649.htm",
+      "publishedAt": "Sat, 01 Aug 2026 23:38:39 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "b7cfebc21a9bdaff8a6213c614a2a85b"
+    },
+    {
+      "title": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days",
+      "description": "The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.",
+      "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
+      "publishedAt": "Sat, 01 Aug 2026 23:19:46 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7a670ca6468be711450f17ebba96c641"
+    }
+  ]
+}
