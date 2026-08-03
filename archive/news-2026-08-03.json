@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-08-03T03:26:54.404934",
+  "count": 20,
+  "news": [
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "AI Is Turning Retail Traders Into DIY Hedge Funds",
+      "description": "The rollout of powerful new tools is inspiring a generation of day traders who are trying to crack Wall Street’s secret code and create automated money machines. Bloomberg's Zijia Song explains. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/ai-is-turning-retail-traders-into-diy-hedge-funds",
+      "publishedAt": "Sun, 02 Aug 2026 21:00:06 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "2a1f9aaad7eb5899b0b03a0a192fddab"
+    },
+    {
+      "title": "Here's my power rankings for the big 4 hyperscalers after this earnings season",
+      "description": "In his Sunday column, Jim Cramer explains why Amazon is his favorite hyperscaler after second-quarter earnings season.",
+      "url": "https://www.cnbc.com/2026/08/02/heres-my-power-rankings-for-the-big-4-hyperscalers-after-this-earnings-season.html",
+      "publishedAt": "Sun, 02 Aug 2026 20:27:44 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "6e96fc42c09e242a80b536d57d384549"
+    },
+    {
+      "title": "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in House, needs 'serious psychological help'",
+      "description": "Miller has denied the allegations made against him by his ex-wife Emily Moreno, daughter of Ohio Sen. Bernie Moreno.",
+      "url": "https://www.cnbc.com/2026/08/02/bernie-moreno-max-miller-house-psychological-help-emily-moreno.html",
+      "publishedAt": "Sun, 02 Aug 2026 19:13:47 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "d807e9cc1ecb9a9693d13581243b10cd"
+    },
+    {
+      "title": "Op-ed: The U.S. lead over China in AI is all but gone. We need a change in national strategy",
+      "description": "AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.",
+      "url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
+      "publishedAt": "Sun, 02 Aug 2026 18:23:03 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "ba95bb79ee92b71bfccfd376479e80b5"
+    },
+    {
+      "title": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
+      "description": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds on platforms like Kalshi and Polymarket.",
+      "url": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
+      "publishedAt": "Sun, 02 Aug 2026 16:54:18 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "d029c8fe765e55c71a06bbe98da7087e"
+    },
+    {
+      "title": "Bloomberg This Weekend | Iran Strikes On Hold, the Digital Divide Over AI",
+      "description": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. \n\nJoined by Rep. Jonathan Jackson (D-IL), Tom Nides, Fmr. U",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/bloomberg-this-weekend-8-2-2026-video",
+      "publishedAt": "Sun, 02 Aug 2026 16:53:14 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "1d2be4571138ef46a60dc0c023627354"
+    },
+    {
+      "title": "Who Governs the AI Boom?",
+      "description": "Should AI be regulated, or should society adapt to it instead? Economist Jason Furman argues that not every AI problem should be solved the same way. From bioweapons to job losses, he explains where the government should step in, where markets should",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/who-governs-the-ai-boom-video",
+      "publishedAt": "Sun, 02 Aug 2026 15:02:27 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "5266a0d502ae5b5e95206bd22455ddef"
+    },
+    {
+      "title": "Australia Ups Demands on Big Tech Firms to Pay for News Stories",
+      "description": "Australia’s government intends to expand the scope and raise the charges to be imposed on Big Tech companies as it tries to spur them into striking deals with local media groups to compensate them for news content.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/australia-expands-demand-that-big-tech-pay-for-news-stories",
+      "publishedAt": "Sun, 02 Aug 2026 14:01:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "a35162f24c2a3db78569648efbeb322d"
+    },
+    {
+      "title": "Apple Subscriptions; MacBook Air Shortages; Apple to Make Glasses Health Device",
+      "description": "Also: MacBook Air runs into major shortages.",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-02/apple-subscriptions-macbook-air-shortages-apple-to-make-glasses-health-device-msbvajjp",
+      "publishedAt": "Sun, 02 Aug 2026 14:00:01 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "f3f826da9b6971e2770578ac796a6a37"
+    },
+    {
+      "title": "从翻译到桌面Agent，网易有道全线产品完成DeepSeek-V4-Flash正式版升级",
+      "description": "<p>日前，网易有道宣布旗下AI Agent产品矩阵已完成DeepSeek-V4-Flash正式版的全面接入，覆盖全场景办公助手 Agent LobsterAI、有道词典、有道翻译、有道AI同传、Hi Echo、有道AI答疑笔、企业级大模型聚合平台ThinkFlow等系列产品和服务。这是继今年5月有道接入DeepSeek-V4预览版后，产品能力的又一次重要升级。</p><p>7月31日，DeepSeek正式开放V4-Flash正式版API公测。值得注意的是，DeepSeek-V4-Flash-0",
+      "url": "https://www.leiphone.com/category/industrynews/2kEmhUVR27NJL1rC.html",
+      "publishedAt": "Sun, 02 Aug 2026 12:07:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "be58899dedb53ca01b02b24a8feb68af"
+    },
+    {
+      "title": "Why flights are so expensive and will likely stay that way",
+      "description": "Airlines are paying billions of dollars more in fuel costs this year",
+      "url": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
+      "publishedAt": "Sun, 02 Aug 2026 12:00:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "1452c72016f6d7e83ff96679a6ea7fd8"
+    },
+    {
+      "title": "Jefferies Analyst Slams Simple-Minded Criticism of SpaceX Governance",
+      "description": "Investors who blacklist Space Exploration Technologies Corp. out of governance qualms are too hung up on box-checking and risk depriving themselves of long-term financial gains, according to Aniket Shah of Jefferies.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/jefferies-analyst-slams-simple-minded-criticism-of-spacex-governance",
+      "publishedAt": "Sun, 02 Aug 2026 12:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "29250baed5c3864032ff77e5666780c8"
+    },
+    {
+      "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
+      "description": "Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.",
+      "url": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
+      "publishedAt": "Sat, 25 Jul 2026 12:00:02 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "6dcd244af782fdb7c8a573c88a8fec38"
+    },
+    {
+      "title": "Berkshire Hathaway shares hit eight-month high",
+      "description": "The conglomerate that Warren Buffett built rallied to an eight-month high this week. There could be more gains ahead if they play catch up with the S&amp;P 500.",
+      "url": "https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html",
+      "publishedAt": "Sat, 01 Aug 2026 14:41:54 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "5c6097763b664de6d864e6ad7f5f1cd0"
+    },
+    {
+      "title": "Trump Media's new paid data service goes live, giving clients faster access to Trump’s posts",
+      "description": "Trump Media and Technology Group's new paid data service launched Aug. 1, selling faster access to top Truth Social posts from President Donald Trump and more.",
+      "url": "https://www.cnbc.com/2026/08/01/trump-medias-new-data-service-gives-faster-access-to-trumps-posts.html",
+      "publishedAt": "Sat, 01 Aug 2026 14:17:57 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "b08abfa11eab3ee49f3ead77e923d8c8"
+    },
+    {
+      "title": "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners",
+      "description": "As Americans are encouraged to go direct with weight-loss drug prescriptions, retail pharmacy chains are poised to win big.",
+      "url": "https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html",
+      "publishedAt": "Sat, 01 Aug 2026 12:30:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "216cb527dcbd799db93493fbd32581d7"
+    },
+    {
+      "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
+      "description": "The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.",
+      "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
+      "publishedAt": "Sat, 01 Aug 2026 12:00:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "617e5ece6eba020b901f39a4ac988bfb"
+    }
+  ]
+}
