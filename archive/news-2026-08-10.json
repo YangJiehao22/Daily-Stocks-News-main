@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-08-10T02:08:04.114209",
+  "count": 20,
+  "news": [
+    {
+      "title": "Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks",
+      "description": "Box office analysts say the resurgence of billion-dollar releases bodes well for a film industry that's still chasing pre-Covid levels, even with higher prices.",
+      "url": "https://www.cnbc.com/2026/08/05/hollywood-2026-billion-dollar-movies.html",
+      "publishedAt": "Wed, 05 Aug 2026 21:55:46 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "fec883dfe6266f98c13ae0c960cef8d7"
+    },
+    {
+      "title": "GPT-Live 底层拆解：OpenAI 如何让 95% 的音频帧不再延迟",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260806/6a74900f4351c.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/zYdlF2GT2z5SbNLT.html",
+      "publishedAt": "Thu, 06 Aug 2026 21:47:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "3cce77f8fa1a9eb58e4db1ff2216dd32"
+    },
+    {
+      "title": "苏神复盘 Kimi K3：896 个专家背后，藏着哪些关键技术取舍？",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260806/6a748fc003c9c.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/1krGNVOmEZUQgc9w.html",
+      "publishedAt": "Thu, 06 Aug 2026 21:45:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "2bde4ce69229e79420b040ff83b6c918"
+    },
+    {
+      "title": "频发高温故障！特斯拉FSD升级事故，看清中美智驾监管根本差异",
+      "description": "<section style=\"margin-right: 16px; margin-left: 16px; text-align: center; margin-bottom: 0px;\"><span></span></section><section label=\"edit by 135editor\" style=\"margin-bottom: 0px;\"><section label=\"edit by 135editor\"><section><section style=\"text-ali",
+      "url": "https://www.leiphone.com/category/industrynews/ZpRxn4ogBqvkrTiE.html",
+      "publishedAt": "Thu, 06 Aug 2026 20:29:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "596281e69b08a103f2106784a759c277"
+    },
+    {
+      "title": "黎曼动力携手光轮智能与诺亦腾机器人，剑指2026年百万小时具身智能数据建设",
+      "description": "<p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-family: 'Arial'; font-size: 11pt;\">8月6日，黎曼动力宣布与光轮智能、诺亦腾机器人（Noitom Robotics）达成战略合作。围绕 Riemann-1.0 具身世界动作模型与 Matrix-Game 3.5 交互式世界模型，黎曼动力将与两家公司在高质量具身数据采集、模型训练、规模化评测、真实机",
+      "url": "https://www.leiphone.com/category/industrynews/8FCGhggf0AxRU8Pa.html",
+      "publishedAt": "Thu, 06 Aug 2026 20:16:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "e023ec699dbd9189471af43f2c2c71ed"
+    },
+    {
+      "title": "当无人驾驶进入城市竞赛时代：深圳与洛杉矶的隔空对弈",
+      "description": "<section><section><section><section><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img js_insertlocalimg\" src=\"https://static.leiphone.com/uploads/new/images/20260806/6a748364a69cc.png?imageMogr2/quality/90\" style=\"width: 100%; backg",
+      "url": "https://www.leiphone.com/category/transportation/zfSvuuvk1hns4lQ9.html",
+      "publishedAt": "Thu, 06 Aug 2026 19:55:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "27c75be3412292d4680a1364ae21d8ea"
+    },
+    {
+      "title": "李飞飞、Yilun Du罕见联手：别给机器人建大脑了，直接偷视频模型的｜GAIR Paper 115",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260806/6a74642149126.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/CmG0TpbUIhu1EHkl.html",
+      "publishedAt": "Thu, 06 Aug 2026 18:42:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "72ea0cfcf0280f4ce8605afe3c6b3e61"
+    },
+    {
+      "title": "金刚GC3芯片重新定义视频AI算力规则，国产RISC-V高端算力商业化提速",
+      "description": "<p>近日，第三届中国计算机学会芯片大会（CCF Chip 2026）在太湖之滨无锡成功举办。</p><p>会场中，两院院士与顶尖工程师们的讨论话题直指底层架构的“根技术”创新。一个核心追问被反复推至台前：当摩尔定律逼近物理极限，制程红利日益稀薄，堆核心、拼频率的老路越走越窄，是否该彻底换一条路走？换言之，与其在通用架构上不断打补丁，能否从数据流动的本质出发，为特定场景原生设计一颗芯片？</p><p>作为全球首款RISC-V数据流架构视频智能AIGC芯片，金刚GC3芯片的出现，不仅是一次产品首发",
+      "url": "https://www.leiphone.com/category/industrynews/swL2cpKuZv1djRJS.html",
+      "publishedAt": "Thu, 06 Aug 2026 14:29:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "7679b2c736c67517f3c3ad9c309585c4"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "How David Ellison Won Over Major Movie Theaters",
+      "description": "The world’s two largest movie theater chains just backed a merger that their peers oppose",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-09/how-david-ellison-won-over-major-movie-theaters",
+      "publishedAt": "Sun, 09 Aug 2026 23:00:01 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "2576d7657eeeadd73d918faf56e77bd8"
+    },
+    {
+      "title": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
+      "description": "Rep. Max Miller is set to remain the Republican nominee in Ohio’s 7th District after the window for the GOP to replace him on the November ballot closed.",
+      "url": "https://www.cnbc.com/2026/08/09/max-miller-ohio-house-race-gop-replacement-deadline.html",
+      "publishedAt": "Sun, 09 Aug 2026 18:38:23 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0ca531d388fb1a62f1aa0397b9e55401"
+    },
+    {
+      "title": "5 career ‘rules’ your parents taught you that are working against you, says expert—and what to do instead",
+      "description": "\"Well-intentioned career advice absorbed from a young age can work against you,\" says executive coach Melody Wilding, author of \"Managing Up.\"",
+      "url": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
+      "publishedAt": "Sun, 09 Aug 2026 18:18:34 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "907593aa3494e229eaa91f9cdcafa948"
+    },
+    {
+      "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
+      "description": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: \"Messages are being exchanged through intermediaries.\"",
+      "url": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
+      "publishedAt": "Sun, 09 Aug 2026 18:15:57 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "90da3ad25d894966efb525a87a9fab1f"
+    },
+    {
+      "title": "摩尔线程：2026上半年营收17.36亿元，已超2025全年",
+      "description": "<p>8月9日，国产GPU龙头摩尔线程（688795.SH）发布《2026年半年度报告》。2026年上半年，公司实现营收17.36亿元，同比大幅增长147.42%，已超2025年全年营收；毛利总额达9.89亿元，同比增长103.78%；盈利能力显著改善，归母净利润、归母扣非净利润分别较上年同期亏损收窄95.73%、52.37%，商业化全面提速。</p><p>&nbsp;</p><p>强劲业绩的背后，是摩尔线程持续高强度研发投入构筑的技术底座。报告显示，公司2026上半年研发投入达7.69亿元，同",
+      "url": "https://www.leiphone.com/category/chips/unD456FTBn9p8VyD.html",
+      "publishedAt": "Sun, 09 Aug 2026 16:45:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "56e334c43168e226d89d809e35f87dbc"
+    },
+    {
+      "title": "Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028",
+      "description": "The congresswoman, who has emerged as a polling favorite to be the Democratic nominee, said she also has not ruled out a run for the Senate in 2028.",
+      "url": "https://www.cnbc.com/2026/08/09/ocasio-cortez-hasnt-ruled-out-running-for-president-or-senate-in-2028.html",
+      "publishedAt": "Sun, 09 Aug 2026 14:45:17 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "526627d73de395d9a187ea30bbe72142"
+    },
+    {
+      "title": "Top Wall Street analysts like these 3 stocks for their solid growth potential",
+      "description": "Investors are closely monitoring earnings releases of AI companies amid concerns about the durability of high spending and demand.",
+      "url": "https://www.cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html",
+      "publishedAt": "Sun, 09 Aug 2026 12:01:56 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "78ef38312120972cee3b1193852c94a8"
+    },
+    {
+      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "description": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
+      "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+      "publishedAt": "Sun, 09 Aug 2026 11:31:42 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7287a1a735e4683070ba7eab372d60ef"
+    },
+    {
+      "title": "China AI Chip Designer Moore Threads Plans Hong Kong Listing",
+      "description": "Artificial intelligence chipmaker Moore Threads Technology Co. said it plans to list in Hong Kong at an “appropriate time” after its shares have surged more than 420% since their Shanghai debut last year.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing",
+      "publishedAt": "Sun, 09 Aug 2026 09:39:56 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9c600d45fc6e7bb75ed51b0065beb6ca"
+    }
+  ]
+}
